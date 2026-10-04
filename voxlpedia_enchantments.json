@@ -1,8 +1,391 @@
-[
-  {
-    "title": "Enchantments",
-    "pageid": 510,
-    "timestamp": "2026-09-26T06:43:06Z",
-    "wikitext": "[[Category:Enchantment]]\nOccasionally, when a piece of equipment is obtained, it will have a bonus effect on it, listing text next to its name and providing extra stats.\n\nAlthough rare, equipment can have multiple enchants on them, up to 3 per piece.\n\nEquipment with two enchants are called 'double enchants' and for three enchants, 'triple enchants'.\n\nThere are 250 unique double enchants and 1710 unique triple enchants if order is ignored.\n\n190 unique double enchants are possible from any source of enchants, 60 additionally possible with thirsty, corroded and sweet.\n\n1140 unique triple enchants are possible from any source of enchants, 570 additionally possible with thirsty, corroded and sweet.\n\nEnchanted items are obtained by the same method you get the item normally, such as buying, crafting, or as a drop from an enemy.\n\nCertain enchantments can only be obtained from a specific type of modified enemy, or specific dungeon:\n* Corrupt - from corrupt enemies, indicated by glowing purple particles, only possible in the overworld.\n* Legendary - from legendary enemies, indicated by glowing yellow particles, only possible in the overworld.\n* Thirsty - from bloody enemies, indicated by glowing red particles, only possible in the overworld during a blood moon event.\n* Corroded - from the Lord Frogg dungeon rewards at the end of the dungeon.\n* Sweet - from the Queen Bumblz Hive dungeon rewards at the end of the dungeon.\n\nLegendary and Corrupt enchants cannot be in a double or triple enchant, but the other exclusive enchants can be.\n\n\n\nAdditionally, enchants can also be obtained by using a [[Cleansing Tear]] while having equipment with the Corrupt enchant equipped, this method has an increased chance to yield an item with multiple enchants on it.\n\nEnchants can be upgraded for 1 [[Brilliant Gem]] by talking to [[Brokkr]], with ascended enchants providing different effects. Trying to upgrade an ascended enchant will return it back to its default form.\n\n==Enchant Transferring==\nYou can transfer enchants from one item to another through the enchant transfer machine in [[Magus]], found near [[Lapis]].\n\nTo use, select an ''unenchanted'' item you want to put the enchant on, and then select an item with the enchant you want to transfer. Then press the confirm button to transfer the enchant. Single-enchants will have a fee of 2000 V$.\n\nDouble or triple enchants will instead cost 5000 V$ and a [[Refined Core]] with a 33% chance of successful transfer. If the transfer fails, it will only consume the Voxos and the refined core without transferring the enchant. The transfer is guaranteed to succeed on the 4th attempt.\n\n==Enchant Rarity==\n{|class=\"wikitable\" style=\"width:700px;\"\n|+Enchant Drop Rates\n!Source||Single Enchant||Double Enchant||Triple Enchant\n|-\n|Mob Drops/Shops||1/40||1/500||1/10,000\n|-\n|Cleansing||1/1||1/8||1/100\n|-\n|Crafting (lv 0)||1/100||1/1,000||1/20,000\n|-\n|Crafting (lv 100)||1/50||1/500||1/10,000\n|-\n!colspan=\"4\"|Dungeons\n|-\n|0 Difficulty Bee/Frogg||1/53||1/666||1/13,333\n|-\n|2 Difficulty Bee/Frogg||1/17||1/222||1/4,444\n|-\n|0 Difficulty Bastion/Ice Caverns||1/40||1/500||1/10,000\n|-\n|2 Difficulty Bastion/Ice Caverns||1/13||1/166||1/3,333\n|-\n!colspan=\"4\"|Overworld Bosses\n|-\n|[[Caci King (Enemy)|Caci King]]/[[Buni Prince (Enemy)|Buni Prince]]||1/60||1/600||1/10,000\n|-\n|[[Caci King (Enemy)#Corrupted_Caci_King|Corrupted Caci King]]/[[Buni Prince (Enemy)#Corrupted_Buni_Prince|Corrupted Buni Prince]]||1/20||1/200||1/3,333\n|-\n|[[Lord Stratos (Enemy)|Lord Stratos]]||1/40||1/300||1/8,000\n|-\n|[[Lord Stratos (Enemy)#Lord_Vaen|Lord Vaen]]||1/20||1/150||1/4,000\n|}\n*[[Buni (Enemy)|Bunis]] have halved enchant drop rates.\n*Big mobs have 1.5x enchant drop rates, Colossal mobs have 2x, and Titanic mobs have 3x odds.\n*Crafting enchant rates depend on the item you craft.\n\n==List of Enchants==\n{{EnchantTable}}\n==Double-Enchant/Triple-Enchant Viewer==\n{{Enchantment}}\n__NOTOC__"
-  }
-]
+<div style="display:flex; width:100%">
+<div style="width:50%; text-align: center; font-size:1.2em;"><b>Default</b></div>
+<div style="width:50%; text-align: center; font-size:1.2em;"><b>Ascended</b></div>
+</div>
+<div class="enchantTable" style="display:flex; gap: 5px 0.5%; flex-wrap:wrap;">
+{{EnchantTableCell
+|Enchant Name=Legendary
+|Stats=
+<li><b>Positive Stats:</b> x1.5</li>
+|Notes=
+<li>Can only be obtained by killing mobs with the Legendary modifier.</li>
+}}
+{{EnchantTableCell
+|Enchant Name=Mythical
+|Stats=
+<li><b>Positive Stats:</b> x2</li>
+<li><b>Negative Stats:</b> x1.2</li>
+<li><b>Perks:</b> x0</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Refined
+|Stats=
+<li><b>Positive Stats:</b> x1.35</li>
+<li><b>Negative Stats:</b> x0.5</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Flawless
+|Stats=
+<li><b>Negative Stats:</b> x0</li>
+<li><b>[[Perfection]]:</b> +1</li>
+<div class="enchantPerkDescription">Dodging or parrying, grants a stack of the Buff <nowiki>''Perfection''</nowiki>, it increases your speed, critical chance and damage. taking damage that wasnt parried or dodged reduces a stack.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Strengthened
+|Stats=
+<li><b>Physical Boost:</b> x1.2</li>
+<li><b>Physical Boost:</b> +10%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Brawny
+|Stats=
+<li><b>Physical Boost:</b> +5%</li>
+<li><b>[[Brawny]]:</b> +1</li>
+<div class="enchantPerkDescription">Converts a portion of other positive, offensive Boosts to Physical Boost.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Dexterous
+|Stats=
+<li><b>Dexterity Boost:</b> x1.2</li>
+<li><b>Dexterity Boost:</b> +10%</li>
+<li><b>Jump Boost</b> +2</li>
+<li><b>Speed Boost:</b> +5%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Quick
+|Stats=
+<li><b>Attack Speed:</b> +10%</li>
+<li><b>Jump Boost</b> +2</li>
+<li><b>Speed Boost:</b> +5%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Burning
+|Stats=
+<li><b>Fire Boost:</b> x1.2</li>
+<li><b>Fire Boost:</b> +10%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Blazing
+|Stats=
+<li><b>Fire Boost:</b> +5%</li>
+<li><b>[[Wildfire]]:</b> +1</li>
+<div class="enchantPerkDescription">DoTs deal their damage in an AoE.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Wet
+|Stats=
+<li><b>Water Boost:</b> x1.2</li>
+<li><b>Water Boost:</b> +10%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Raining
+|Stats=
+<li><b>Water Boost:</b> +5%</li>
+<li><b>[[Rainstorm]]:</b> +1</li>
+<div class="enchantPerkDescription">Gain a chance to create a Raindrop in the general vicinity on hit, which cleanses and heals Allies but Damages opponents.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Earthen
+|Stats=
+<li><b>Earth Boost:</b> x1.2</li>
+<li><b>Earth Boost:</b> +10%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Stone
+|Stats=
+<li><b>Earth Boost:</b> +5%</li>
+<li><b>Speed Boost:</b> -5%</li>
+<li><b>[[Stone Weapon]]:</b> +1</li>
+<div class="enchantPerkDescription">Grants a hefty amount of Earth Damage Type on your Weapon, but reduces Attack Speed accordingly. This reduction can be mitigated by Earth Boost.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Magical
+|Stats=
+<li><b>Magic Boost:</b> x1.2</li>
+<li><b>Magic Boost:</b> +10%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Surging
+|Stats=
+<li><b>Magic Boost:</b> +5%</li>
+<li><b>[[Magic Surge]]:</b> +1</li>
+<div class="enchantPerkDescription">You have a chance to reset your Weapon Art cooldown on Weapon Art usage. Each failed reset increases the chance of the next.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Cursed
+|Stats=
+<li><b>Hex Boost:</b> x1.2</li>
+<li><b>Hex Boost:</b> +10%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Eldritch
+|Stats=
+<li><b>[[Dark One]]:</b> +1</li>
+<div class="enchantPerkDescription">Increase the duration of Debuffs on self, but gain a Damage Boost for each unique Debuff you're afflicted with.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Windy
+|Stats=
+<li><b>Air Boost:</b> x1.2</li>
+<li><b>Air Boost:</b> +10%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Tempestuous
+|Stats=
+<li><b>Air Boost:</b> +5%</li>
+<li><b>[[Tempest]]:</b> +1</li>
+<div class="enchantPerkDescription">Launch a tornado on most hits of Finishers with greatly reduced Proc Coefficient.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Enlightened
+|Stats=
+<li><b>Holy Boost:</b> x1.2</li>
+<li><b>Holy Boost:</b> +10%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Blessed
+|Stats=
+<li><b>Holy Boost:</b> +5%</li>
+<li><b>Water Boost:</b> +5%</li>
+<li><b>[[Heal Boost]]:</b> +1</li>
+<div class="enchantPerkDescription">You gain bonus healing.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Summoners
+|Stats=
+<li><b>Summon Boost:</b> x1.2</li>
+<li><b>Summon Boost:</b> +10%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Sacrificial
+|Stats=
+<li><b>Summon Boost:</b> x1.1</li>
+<li><b>Summon Boost:</b> +5%</li>
+<li><b>[[Minion Absorption]]:</b> +1</li>
+<div class="enchantPerkDescription">Minions summoned are instantly consumed to grant the Buff ''Minion Absorbed'' if you don't possess it already. ''Minion Absorbed'' heals you based on the strength of the consumed minion, and grants a Damage Boost equal to a portion of your Summon Boost.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Hardened
+|Stats=
+<li><b>Protection:</b> +7.5</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Wall of
+|Stats=
+<li><b>[[Wall]]:</b> +1</li>
+<div class="enchantPerkDescription">Blocking releases pulses around yourself that grants other Allies the neutral status ''Redirect''. ''Redirect'' sends a portion of most Damage they take to you.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Warded
+|Stats=
+<li><b>Warding:</b> +30%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Spell Proof
+|Stats=
+<li><b>[[Hex Shield]]:</b> +1</li>
+<div class="enchantPerkDescription">Every 10 seconds, gain a stack of the neutral status ''Hex Shield'' per perk amount.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Tenacious
+|Stats=
+<li><b>Tenacity:</b> +0.1</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Ferocious
+|Stats=
+<li><b>Tenacity:</b> +0.05</li>
+<li><b>[[Ferocity]]:</b> +1</li>
+<div class="enchantPerkDescription">Tenacity grants a Damage Multiplier.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Insulated
+|Stats=
+<li><b>Cold Resistance:</b> +100%</li>
+<li><b>Heat Resistance:</b> +100%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Contained
+|Stats=
+<li><b>Cold Resistance:</b> +20%</li>
+<li><b>Heat Resistance:</b> +20%</li>
+<li><b>[[Contained]]:</b> +1</li>
+<div class="enchantPerkDescription">Both Debuff and Buff durations on self are increased. Does not affect neutral statuses..</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Vampiric
+|Stats=
+<li><b>Holy Defense:</b> -40%</li>
+<li><b>[[Lifesteal]]:</b> +1</li>
+<div class="enchantPerkDescription">Heal for a portion of damage dealt.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Necrotic
+|Stats=
+<li><b>[[Undead Might]]:</b> +1</li>
+<div class="enchantPerkDescription">Weapon Arts and Runes gain a sizable Damage Boost, but take Earth and Hex self damage if it lands.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Tanky
+|Stats=
+<li><b>Defense Boosts:</b> x1.5</li>
+<li><b>Physical Defense:</b> +10%</li>
+<li><b>Speed Boost:</b> -5%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Turtle King's
+|Stats=
+<li><b>Defense Boosts:</b> x1.2</li>
+<li><b>Physical Defense:</b> +5%</li>
+<li><b>Magic Defense:</b> +5%</li>
+<li><b>[[Turtle]]:</b> +1</li>
+<div class="enchantPerkDescription">One-fifth chance per perk to automatically Block a non-Guardbreaking Attack.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Berserking
+|Stats=
+<li><b>Physical Boost:</b> x1.2</li>
+<li><b>Physical Boost:</b> +20%</li>
+<li><b>Protection:</b> -10</li>
+<li><b>Positive Defenses:</b> x0.5</li>
+<li><b>Negative Defenses:</b> x2</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Frenzied
+|Stats=
+<li><b>Protection:</b> -2</li>
+<li><b>[[Frenzy]]:</b> +1</li>
+<div class="enchantPerkDescription">Rage grants a Movement Speed and universal Damage Multiplier, but cuts healing recieved in half and also multiplies Damage taken.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Fragile
+|Stats=
+<li><b>Physical Defense:</b> -20%</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Piercing
+|Stats=
+<li><b>[[Armor Penetration]]:</b> +10</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Worthless
+|Stats=
+<li><b>Positive Stats:</b> x0.5</li>
+<li><b>Negative Stats:</b> x2</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Restored
+|Stats=
+<li><b>Negative Stats:</b> -x1</li>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Thirsty
+|Stats=
+<li><b>Physical Defense:</b> -5%</li>
+|Notes=
+<li>Can only be obtained by killing mobs with the Bloody modifier.</li>
+}}
+{{EnchantTableCell
+|Enchant Name=Quenched
+|Stats=
+<li><b>Physical Boost:</b> +5%</li>
+<li><b>[[Life Drinker]]:</b> +1</li>
+<div class="enchantPerkDescription">Gain Lifesteal on damage done by DoTs. Additionally, increase the duration of all DoTs.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Corroded
+|Stats=
+<li><b>Warding:</b> -20%</li>
+|Notes=
+<li>Can only be obtained from [[Lord Frogg's Cavern]]</li>
+}}
+{{EnchantTableCell
+|Enchant Name=Acidic
+|Stats=
+<li><b>Earth Boost:</b> +3%</li>
+<li><b>Hex Boost:</b> +3%</li>
+<li><b>[[Melting Shred]]:</b> +1</li>
+<div class="enchantPerkDescription">All DoTs now gain additional True Damage Type. Additionally, opponents inflicted with your DoTs are also inflicted with the Debuff ''Anti Heal''. ''Anti Heal'' reduces any and all incoming healing</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Sweet
+|Stats=
+<li><b>Magic Boost:</b> x1.1</li>
+<li><b>Magic Boost:</b> +5%</li>
+<li><b>Holy Boost:</b> x1.1</li>
+<li><b>Holy Boost:</b> +5%</li>
+<li><b>Summon Boost:</b> x1.1</li>
+<li><b>Summon Boost:</b> +5%</li>
+<li><b>Speed Boost:</b> -7%</li>
+|Notes=
+<li>Can only be obtained from [[The Bumblz Hive]].</li>
+}}
+{{EnchantTableCell
+|Enchant Name=Candied
+|Stats=
+<li><b>Summon Boost:</b> x1.2</li>
+<li><b>Summon Boost:</b> +5%</li>
+<li><b>[[Sweet Tooth]]:</b> +1</li>
+<div class="enchantPerkDescription">Your minions gain a stacking chance to apply Sticky. Their hits against enemies already inflicted with Sticky removes it, but will deal bonus Damage and heal them for a % of their max HP.</div>
+|Notes=
+}}
+{{EnchantTableCell
+|Enchant Name=Corrupt
+|Stats=
+<li><b>Positive Stats:</b> x0</li>
+<li><b>Negative Stats:</b> -x2</li>
+|Notes=
+<li>Can only be obtained by killing mobs with the Corrupt modifier.</li>
+}}
+{{EnchantTableCell
+|Enchant Name=Warped
+|Stats=
+<li><b>Stats:</b> x0</li>
+<li><b>[[Perk Effectiveness]]:</b> +1</li>
+<div class="enchantPerkDescription">Increases the potency of most perks.</div>
+|Notes=
+}}
+</div>
