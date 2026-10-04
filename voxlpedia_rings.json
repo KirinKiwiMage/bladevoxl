@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Agile Ring",
+    "pageid": 902,
+    "timestamp": "2026-04-29T14:05:35Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Agile Ring\n|image = Agile Ring.png\n|obtainment = \n• [[Crafting]]\n• [[Dire Buni (Enemy)|Dire Buni Bestiary Bounty]]\n}}\n'''Agile Ring''' is a ring that can be obtained through [[Crafting]] or the [[Dire Buni (Enemy)|Dire Buni Bestiary Bounty]]. It has a value of 20V$.\n\n=='''Recipe'''==\n{{Crafting|lv=13|Buni Fur, Bronze Ring, Woof Fur, Winter Woof Fur|Buni Fur=3|Bronze Ring=1|Woof Fur=2|Winter Woof Fur=2|exp=160}}\n\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Agile Ring\n|Description= You feel more dexterous when using this ring.\n|Perk= Quick Witted\n|Perk Amount= +1\n|Dexterity Boost= +10%\n|Speed Boost= +5%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Buni Ring",
+    "pageid": 1221,
+    "timestamp": "2025-11-21T16:42:24Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Buni Ring\n|image = Buni Ring.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Buni Ring''' is a ring that can be obtained through [[Crafting]]. It has a value of 20V$.\n\n=='''Recipe'''==\n{{Crafting|lv=0|Gold Ring,Rabbits Foot (Item)|Gold Ring=1|Rabbits Foot (Item)=1|exp=60}}\n\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Buni Ring\n|Description= Fluffy!\n|Perk= Rabbits Foot\n|Perk Amount= +2\n|Speed Boost= +8%\n|Jump Boost= +1\n|Attack Speed= +3%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Bumblz Honey Ring",
+    "pageid": 1224,
+    "timestamp": "2026-05-18T11:08:08Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Bumblz Honey Ring\n|image = Bumblz Honey Ring.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Bumblz Honey Ring''' is a ring that can be obtained through [[Crafting]]. It has a value of 20V$.\n\n=='''Recipe'''==\n{{Crafting|lv=5|Pollen, Gold Ring, Bumblz Honey Vial|Pollen=1|Gold Ring=1|Bumblz Honey Vial=2|exp=100}}\n\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Bumblz Honey Ring\n|Description= Summons become stronger when using this ring.\n|Perk= Drone (Perk)\n|Perk Amount= +1\n|Summon Boost= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Blaster Ring",
+    "pageid": 1355,
+    "timestamp": "2025-09-22T14:55:41Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Blaster Ring\n|image = Blaster Ring.png\n|obtainment = \n• [[Astral Present]]\n}}\n'''Blaster Ring''' is a ring that can be obtained from [[Astral Present|Astral Presents]]. It has a value of 60V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Blaster Ring\n|Description= This ring was invented by sorcerers and represents the peak of magi-tech engineering.\n|Perk= Locked And Loaded\n|Perk Amount= +1\n|Speed Boost= +5%\n|Attack Speed= +2%\n}}\n</tabber>\n=='''Trivia'''==\n*'''Blaster Ring''' is the only ring capable of changing your stance\n*'''Blaster Ring''' was formerly unenchantable and had no stats\n__NOTOC__"
+  },
+  {
+    "title": "Bastion Ring",
+    "pageid": 1356,
+    "timestamp": "2025-09-22T14:55:41Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Bastion Ring\n|image = Bastion Ring.png\n|obtainment = \n• [[The Bastion]]\n}}\n'''Bastion Ring''' is a ring that can be obtained as a drop from [[The Bastion]]. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Bastion Ring\n|Description= A ring that contains a fragment of the bastion spirit.\n|Perk= Protector Spirit\n|Perk Amount= +1\n|Magic Defense= +15%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Caster Ring",
+    "pageid": 1357,
+    "timestamp": "2025-11-21T16:59:27Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Caster Ring\n|image = Caster Ring.png\n|obtainment = \n• [[Crafting]]\n• [[Stop The Magelings Curse]]\n}}\n'''Caster Ring''' is a ring that can be obtained through [[Crafting]] or completing the [[Stop The Magelings Curse]] Quest. It has a value of 20V$.\n\n=='''Recipe'''==\n{{Crafting|lv=5|Mage Core, Gold Ring|Mage Core=2|Gold Ring=1|exp=100}}\n\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Caster Ring\n|Description= Magic becomes stronger when using this ring.\n|Perk= Caster\n|Perk Amount= +1\n|Magic Boost= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Earthen Ring",
+    "pageid": 1358,
+    "timestamp": "2025-11-21T16:57:47Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Earthen Ring\n|image = Earthen Ring.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Earthen Ring''' is a ring that can be obtained through [[Crafting]]. It has a value of 20V$.\n\n=='''Recipe'''==\n{{Crafting|lv=5|Bronze Ring, Slizard Chunk|Bronze Ring=1|Slizard Chunk=3|exp=100}}\n\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Earthen Ring\n|Description= A tough and sturdy ring that channels the power of the earth.\n|Perk= Erosion\n|Perk Amount= +1\n|Earth Boost= +10%\n}}\n</tabber>\n=='''Trivia'''==\n*'''Earthen Ring''' formerly had the perk [[Carapace]] instead of [[Erosion]]\n__NOTOC__"
+  },
+  {
+    "title": "Fire Ring",
+    "pageid": 1370,
+    "timestamp": "2026-04-29T14:22:23Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Fire Ring\n|image = Fire Ring.png\n|obtainment = \n• [[Crafting]]\n• [[Brain Burner (Enemy)|Brain Burner Bestiary Bounty]]\n}}\n'''Fire Ring''' is a ring that can be obtained through [[Crafting]] or the [[Brain Burner (Enemy)|Brain Burner Bestiary Bounty]]. It has a value of 20V$.\n\n=='''Recipe'''==\n{{Crafting|lv=5|Ruby, Dragigator Ember, Gold Ring|Ruby=1|Dragigator Ember=1|Gold Ring=1|exp=100}}\n\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Fire Ring\n|Description= Fire magic becomes stronger when using this ring.\n|Perk= Ignition\n|Perk Amount= +1\n|Fire Boost= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Fungal Ring",
+    "pageid": 1371,
+    "timestamp": "2025-11-29T08:14:32Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Fungal Ring\n|image = Fungal Ring.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Fungal Ring''' is a ring that can be obtained through [[Crafting]]. It has a value of 50V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=13|Silver Ring, Emerald, Amethyst, Mushrooms|Silver Ring=1|Emerald=1|Amethyst=1|Mushrooms=3|exp=200}}\n\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Fungal Ring\n|Description= Poison becomes more potent when using this ring.\n|Perk= Mycotic Bloom\n|Perk Amount= +1\n|Hex Boost= +2%\n|Earth Boost= +2%\n|Magic Boost= +2%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Gemstone Ring",
+    "pageid": 1372,
+    "timestamp": "2025-11-29T08:13:45Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Gemstone Ring\n|image = Gemstone Ring.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Gemstone Ring''' is a ring that can be obtained through [[Crafting]]. It has a value of 50V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=13|Gold Ring, Emerald, Amethyst, Sapphire|Gold Ring=1|Emerald=1|Amethyst=1|Sapphire=1|exp=200}}\n\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Gemstone Ring\n|Description= Magic heals the user when using this ring.\n|Perk= Healing Arts\n|Perk Amount= +1\n|Protection= +2\n|Warding= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Hex Ring",
+    "pageid": 1373,
+    "timestamp": "2026-04-29T14:22:47Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Hex Ring\n|image = Hex Ring.png\n|obtainment = \n• [[Crafting]]\n• [[Gremlin (Enemy)|Gremlin Bestiary Bounty]]\n}}\n'''Hex Ring''' is a ring that can be obtained through [[Crafting]] or the [[Gremlin (Enemy)|Gremlin Bestiary Bounty]]. It has a value of 20V$.\n\n=='''Recipe'''==\n{{Crafting|lv=5|Gold Ring, Winter Woof Fur, Amethyst|Gold Ring=1|Winter Woof Fur=2|Amethyst=1|exp=100}}\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Hex Ring\n|Description= Hex magic becomes stronger when using this ring.\n|Perk= Weakening\n|Perk Amount= +1\n|Hex Boost= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Holy Ring",
+    "pageid": 1374,
+    "timestamp": "2025-11-21T16:55:47Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Holy Ring\n|image = Holy Ring.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Holy Ring''' is a ring that can be obtained through [[Crafting]]. It has a value of 20V$.\n\n=='''Recipe'''==\n{{Crafting|lv=5|Cleansing Tear, Emerald, Gold Ring|Cleansing Tear=1|Emerald=1|Gold Ring=1|exp=100}}\n\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Holy Ring\n|Description= Holy magic becomes stronger when using this ring.\n|Perk= Blessing\n|Perk Amount= +1\n|Holy Boost= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Lucky Ring",
+    "pageid": 1375,
+    "timestamp": "2025-09-22T14:55:53Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Lucky Ring\n|image = Lucky Ring.png\n|obtainment = \n• [[Brilliant Present]]\n}}\n'''Lucky Ring''' is a ring that can be obtained from [[Brilliant Present|Brilliant Presents]]. It has a value of 75V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Lucky Ring\n|Description= Super lucky!\n|Perk= Lucky\n|Perk Amount= +1\n}}\n</tabber>\n=='''Trivia'''==\n*'''Lucky Ring''' used to be unenchantable before the ring's stats were built into the perk\n__NOTOC__"
+  },
+  {
+    "title": "Sharp Ring",
+    "pageid": 1377,
+    "timestamp": "2026-04-29T14:09:23Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Sharp Ring\n|image = Sharp Ring.png\n|obtainment = \n• [[Crafting]]\n• [[Altolodon (Enemy)|Altolodon Bestiary Bounty]]\n}}\n'''Sharp Ring''' is a ring that can be obtained through [[Crafting]] or the [[Altolodon (Enemy)|Altolodon Bestiary Bounty]]. It has a value of 20V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=13|Toadzerker Horn, Silver Ring, Woof Fur|Toadzerker Horn=5|Silver Ring=1|Woof Fur=3|exp=150}}\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Sharp Ring\n|Description= This ring makes you feel stronger.\n|Perk= Sharp Claws\n|Perk Amount= +1\n|Physical Boost= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Sticky Ring",
+    "pageid": 1378,
+    "timestamp": "2025-09-22T14:55:58Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Sticky Ring\n|image = Sticky Ring.png\n|obtainment = \n• [[The Bumblz Hive]]\n}}\n'''Sticky Ring''' is a ring that can be obtained as a drop from [[The Bumblz Hive]]. It has a value of 20V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Sticky Ring\n|Description= Magic becomes stickier and stronger when using this ring.\n|Perk= Honey Arts\n|Perk Amount= +1\n|Magic Boost= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Stone Giant's Ring",
+    "pageid": 1379,
+    "timestamp": "2026-03-06T11:51:36Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Stone Giant's Ring\n|image = Stone Giant's Ring.png\n|obtainment = \n• <span class=\"plainlinks\">[https://voxlpedia.miraheze.org/wiki/Map?marker=NPC_Quest@662.140:176.920#tabber-Ice_Caverns Stone Giant's Ring Quest]</span>\n}}\n'''Stone Giant's Ring''' is a ring that can be obtained by completing the secret <span class=\"plainlinks\">[https://voxlpedia.miraheze.org/wiki/Map?marker=NPC_Quest@662.140:176.920#tabber-tabpanel-Ice_Caverns-0 Stone Giant's Ring Quest]</span> inside the [[Ice Caverns]]. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Stone Giant's Ring\n|Description= A cracked and dishevelled ring carved out of stone that was once living.\n|Perk= Colossus\n|Perk Amount= +1\n|Physical Boost= +5%\n|Speed Boost= -5%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Void Ring",
+    "pageid": 1380,
+    "timestamp": "2025-11-29T08:11:07Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Void Ring\n|image = Void Ring.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Void Ring''' is a ring that can be obtained through [[Crafting]]. It has a value of 20V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=13|Blood Iron, Mage Core, Gold Ring|Blood Iron=1|Mage Core=1|Gold Ring=1|exp=150}}\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Void Ring\n|Description= This ring vibrates with the energy of the void. Even holding it sends chills down your spine.\n|Perk= Void Rage\n|Perk Amount= +1\n|Hex Boost= +5%\n|Physical Boost= +5%\n|Physical Defense= -10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Water Ring",
+    "pageid": 1381,
+    "timestamp": "2026-04-29T14:08:33Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Water Ring\n|image = Water Ring.png\n|obtainment = \n• [[Crafting]]\n• [[Bulfrogg (Enemy)|Bulfrogg Bestiary Bounty]]\n}}\n'''Water Ring''' is a ring that can be obtained through [[Crafting]] or the [[Bulfrogg (Enemy)|Bulfrogg Bestiary Bounty]]. It has a value of 20V$.\n\n=='''Recipe'''==\n{{Crafting|lv=5|Bulfrogg Tongue, Sapphire, Silver Ring|Bulfrogg Tongue=3|Sapphire=1|Silver Ring=1|exp=100}}\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Water Ring\n|Description= Water magic becomes stronger when using this ring.\n|Perk= Extinguish\n|Perk Amount= +1\n|Water Boost= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Wind Ring",
+    "pageid": 1382,
+    "timestamp": "2026-04-29T14:20:38Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Wind Ring\n|image = Wind Ring.png\n|obtainment = \n• [[Crafting]]\n• [[Batty (Enemy)|Batty Bestiary Bounty]]\n• [[Whirlray (Enemy)|Whirlray Bestiary Bounty]]\n}}\n'''Wind Ring''' is a ring that can be obtained through [[Crafting]], or the [[Batty (Enemy)|Batty]] and [[Whirlray (Enemy)|Whirlray Bestiary Bounties]]. It has a value of 20V$.\n=='''Recipe'''==\n{{Crafting|lv=5|Diamond (Item), Budboys Flower, Silver Ring|Diamond (Item)=1|Budboys Flower=1|Silver Ring=1|exp=100}}\n\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Wind Ring\n|Description= Air magic becomes stronger when using this ring.\n|Perk= Tailwind\n|Perk Amount= +1\n|Air Boost= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Warden Ring",
+    "pageid": 1383,
+    "timestamp": "2025-09-22T14:56:01Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Warden Ring\n|image = Warden Ring.png\n|obtainment = \n• [[Ice Caverns]]\n}}\n'''Warden Ring''' is a ring that can be obtained as a drop from the [[Ice Caverns]]. It has a value of 20V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Warden Ring\n|Description= This ring was made to protect those who you value the most.\n|Perk= Warden Of Many\n|Perk Amount= +1\n|Summon Boost= +5%\n|Protection= +5\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Void Contract Ring",
+    "pageid": 1384,
+    "timestamp": "2025-09-22T14:56:00Z",
+    "wikitext": "[[Category:Ring]]\n{{Armor\n|title = Void Contract Ring\n|image = Void Contract Ring.png\n|obtainment = \n• [[Find Thorn|Find Thorn Quest]]\n}}\n'''Void Contract Ring''' is a ring that can be obtained by completing the [[Find Thorn]] Quest by choosing to kill him. It has a value of 60V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Void Contract Ring\n|Description= Painful thorns bind this ring to the assassin until the contract is complete. Commonly used by void cultists outsourcing <nowiki>''</nowiki>work<nowiki>''</nowiki>\n|Perk= Void Contract\n|Perk Amount= +1\n|Physical Defense= +2%\n|Attack Speed= +2%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Gold Ring",
+    "pageid": 2497,
+    "timestamp": "2026-05-12T22:49:31Z",
+    "wikitext": "[[Category:Items]] [[Category:Ring]]\n{{ItemInfobox\n|Type=Material\n|Item Name=Gold Ring\n|Image=Gold Ring\n|Description=Shiny...\n}}\n==Obtainment==\nDrops from the following :\n*[[Mageling (Enemy)|Mageling]]\n*[[Caci King (Enemy)]]\n*[[Lord Stratos (Enemy)|Lord Stratos]]\n*[[Buni Prince (Enemy)|Buni Prince]]\n*[[Lord Frogg's Cavern]]\n*[[The Bumblz Hive]]\n*[[The Bastion]]\n*[[Ice Caverns]]\n\n==Usage==\nHas a value of 20V$\n\nCan be used to craft the following items :\n*[[Buni Ring]]\n*[[Caster Ring]]\n*[[Bumblz Honey Ring]]\n*[[Fire Ring]]\n*[[Hex Ring]]\n*[[Holy Ring]]\n*[[Gemstone Ring]]\n*[[Void Ring]]"
+  },
+  {
+    "title": "Bronze Ring",
+    "pageid": 2498,
+    "timestamp": "2025-10-16T20:00:28Z",
+    "wikitext": "[[Category:Items]] [[Category:Ring]]\n{{ItemInfobox\n|Type=Material\n|Item Name=Bronze Ring\n|Image=Bronze Ring\n|Description=Looks pretty but is not great for the skin\n}}\n==Obtainment==\nDrops from the following :\n*[[Caci King (Enemy)|Caci King]]\n*[[Buni Prince (Enemy)|Buni Prince]]\n*[[Lord Frogg's Cavern]]\n*[[The Bumblz Hive]]\n*[[The Bastion]]\n*[[Ice Caverns]]\n\n==Usage==\nHas a value of 15V$\n\nCan be used to craft the following items :\n*[[Agile Ring]]\n*[[Earthen Ring]]"
+  },
+  {
+    "title": "Silver Ring",
+    "pageid": 2499,
+    "timestamp": "2025-10-16T23:19:44Z",
+    "wikitext": "[[Category:Items]] [[Category:Ring]]\n{{ItemInfobox\n|Type=Material\n|Item Name=Silver Ring\n|Image=Silver Ring\n|Description=Don't bite it\n}}\n==Obtainment==\nDrops from the following :\n*[[Sporeboss Man (Enemy)|Sporeboss Man]]\n*[[Caci King (Enemy)|Caci King]]\n*[[Lord Stratos (Enemy)|Lord Stratos]]\n*[[Buni Prince (Enemy)|Buni Prince]]\n*[[Lord Frogg's Cavern]]\n*[[The Bumblz Hive]]\n*[[The Bastion]]\n\n==Usage==\nHas a value of 15V$\n\nCan be used to craft the following items :\n*[[Water Ring]]\n*[[Wind Ring]]\n*[[Fungal Ring]]\n*[[Sharp Ring]]"
+  },
+  {
+    "title": "Sharpshooter Ring",
+    "pageid": 2610,
+    "timestamp": "2026-06-13T00:21:33Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Sharpshooter Ring\n|image = Sharpshooter Ring.png\n|obtainment = \n• [[Stone Archer (Enemy)|Stone Archer Bestiary]]\n• [[Snailfang]]\n}}\n'''Sharpshooter Ring''' is a ring that can be obtained through the [[Stone Archer (Enemy)|Stone Archer Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Sharpshooter Ring\n|Description= This ring enhances your long range attacks!\n|Perk= Sharpshooter\n|Perk Amount= +1\n|Speed Boost= +5%\n|Attack Speed= +5%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Quickstep Ring",
+    "pageid": 2615,
+    "timestamp": "2026-06-13T00:21:31Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Quickstep Ring\n|image = Quickstep Ring.png\n|obtainment = \n• [[Gremlin (Enemy)|Gremlin Bestiary]]\n• [[Snailfang]]\n}}\n'''Quickstep Ring''' is a ring that can be obtained through the [[Gremlin (Enemy)|Gremlin Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Quickstep Ring\n|Description= This ring makes your body feel like it's as light as air.\n|Perk= Untethered\n|Perk Amount= +1\n|Attack Speed= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Parrying Ring",
+    "pageid": 2617,
+    "timestamp": "2026-06-13T00:21:29Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Parrying Ring\n|image = Parrying Ring.png\n|obtainment = \n• [[Croakernaut (Enemy)|Croakernaut Bestiary]]\n• [[Snailfang]]\n}}\n'''Parrying Ring''' is a ring that can be obtained through the [[Croakernaut (Enemy)|Croakernaut Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Parrying Ring\n|Description= This ring grants you a buckler shield allowing you to parry attacks.\n|Perk= Buckler\n|Perk Amount= +1\n|Protection= +5\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Whirl Inhale Ring",
+    "pageid": 2637,
+    "timestamp": "2026-06-13T00:21:38Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Whirl Inhale Ring\n|image = Whirl Inhale Ring.png\n|obtainment = \n• [[Whirlray (Enemy)|Whirlray Bestiary]]\n• [[Snailfang]]\n}}\n'''Whirl Inhale Ring''' is a ring that can be obtained through the [[Whirlray (Enemy)|Whirlray Bestiary Bounty]] and bought from [[Snailfang]] for 6000V$. It has a value of 20V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Whirl Inhale Ring\n|Description= This ring allows creates a small vacuum when battling.\n|Perk= Power Inhale\n|Perk Amount= +1\n|Air Boost= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Phalanx Ring",
+    "pageid": 2645,
+    "timestamp": "2026-06-13T00:21:29Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Phalanx Ring\n|image = Phalanx Ring.png\n|obtainment = \n• [[Stone Knight (Enemy)|Stone Knight Bestiary]]\n• [[Snailfang]]\n}}\n'''Phalanx Ring''' is a ring that can be obtained through the [[Stone Knight (Enemy)|Stone Knight Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Phalanx Ring\n|Description= Finisher attacks are faster and cause a stab that has a chance to apply bleed.\n|Perk= Phalanx Stab\n|Perk Amount= +1\n|Earth Boost= +7%\n|Physical Boost= +7%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Sweet Ring",
+    "pageid": 2666,
+    "timestamp": "2026-06-13T00:21:35Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Sweet Ring\n|image = Sweet Ring.png\n|obtainment = \n• [[Bumblz (Enemy)|Bumblz Bestiary]]\n• [[Snailfang]]\n}}\n'''Sweet Ring''' is a ring that can be obtained through the [[Bumblz (Enemy)|Bumblz Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Sweet Ring\n|Description= Sweet honey gathered by bumblz helps cultivate the health of the hive.\n|Perk= Honey Gather\n|Perk Amount= +1\n|Magic Defense= +5%\n|Holy Defense= +5%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Boglord Ring",
+    "pageid": 2683,
+    "timestamp": "2026-06-13T00:21:18Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Boglord Ring\n|image = Boglord Ring.png\n|obtainment = \n• [[Lord Frogg (Enemy)|Lord Frogg Bestiary]]\n• [[Snailfang]]\n}}\n'''Boglord Ring''' is a ring that can be obtained through the [[Lord Frogg (Enemy)|Lord Frogg Bestiary Bounty]] and bought from [[Snailfang]] for 60000V$. It has a value of 200V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Boglord Ring\n|Description= This ring hums with the strength of the Lord Frogg's servants and the fury of his throne.\n|Perk= Vassals Croak\n|Perk Amount= +1\n|Summon Boost= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Infectious Ring",
+    "pageid": 2693,
+    "timestamp": "2026-06-13T00:21:26Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Infectious Ring\n|image = Infectious Ring.png\n|obtainment = \n• [[Crazy Hare (Enemy)|Crazy Hare Bestiary]]\n• [[Snailfang]]\n}}\n'''Infectious Ring''' is a ring that can be obtained through the [[Crazy Hare (Enemy)|Crazy Hare Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Infectious Ring\n|Description= When equipped this ring gives you a slight sniffle.\n|Perk= Infection\n|Perk Amount= +1\n|Hex Boost=+5%\n|Earth Boost=+5%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Escape Ring",
+    "pageid": 2698,
+    "timestamp": "2026-06-13T00:21:22Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Escape Ring\n|image = Escape Ring.png\n|obtainment = \n• [[Scow (Enemy)|Scow Bestiary]]\n• [[Snailfang]]\n}}\n'''Escape Ring''' is a ring that can be obtained through the [[Scow (Enemy)|Scow Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Escape Ring\n|Description= This ring fills you with adrenaline as if your being chased by a strong guy with a sword\n|Perk= Emergency Exit\n|Perk Amount= +1\n|Magic Defense= +5%\n|Speed Boost= +6%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Froggy Ring",
+    "pageid": 2716,
+    "timestamp": "2026-06-13T00:21:23Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Froggy Ring\n|image = Froggy Ring.png\n|obtainment = \n• [[Bulfrogg (Enemy)|Bulfrogg Bestiary]]\n• [[Snailfang]]\n}}\n'''Froggy Ring''' is a ring that can be obtained through the [[Bulfrogg (Enemy)|Bulfrogg Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Froggy Ring\n|Description= A weird soft gross ring shaped like the head of a bulfrogg.\n|Perk= Bounce Momentum\n|Perk Amount= +1\n|Magic Defense= +10%\n|Jump Boost= +3\n|Water Defense= +10%\n|Warding= +10%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Drill-bit Ring",
+    "pageid": 2751,
+    "timestamp": "2026-06-13T00:21:21Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Drill-bit Ring\n|image = Drill-bit Ring.png\n|obtainment = \n• [[Delta-Spider (Enemy)|Delta-Spider Bestiary]]\n• [[Snailfang]]\n}}\n'''Drill-bit Ring''' is a ring that can be obtained through the [[Delta-Spider (Enemy)|Delta-Spider Bestiary Bounty]] and bought from [[Snailfang]] for 45000V$. It has a value of 150V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Drill-bit Ring\n|Description= This ring has a small drill which can be used to break rocks, or make holes in your wall I guess...\n|Perk= Deltabit\n|Perk Amount= +1\n|Physical Boost=+5%\n|Attack Speed=+5%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Concussive Ring",
+    "pageid": 2763,
+    "timestamp": "2026-06-13T00:21:20Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Concussive Ring\n|image = Concussive Ring.png\n|obtainment = \n• [[Bowldur (Enemy)|Bowldur Bestiary]]\n• [[Snailfang]]\n}}\n'''Concussive Ring''' is a ring that can be obtained through the [[Bowldur (Enemy)|Bowldur Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Concussive Ring\n|Description= The ring reverberates with a slight rumble.\n|Perk= Concussion\n|Perk Amount= +1\n|Tenacity= +0.1\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Raging Slayer Ring",
+    "pageid": 2769,
+    "timestamp": "2026-06-13T00:21:32Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Raging Slayer Ring\n|image = Raging Slayer Ring.png\n|obtainment = \n• [[Iron Slayer (Enemy)|Iron Slayer Bestiary]]\n• [[Snailfang]]\n}}\n'''Raging Slayer Ring''' is a ring that can be obtained through the [[Iron Slayer (Enemy)|Iron Slayer Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Raging Slayer Ring\n|Description= This ring screams with the souls of 100's of dead titans.\n|Perk= Slayer Rage\n|Perk Amount= +1\n|Hex Boost= +5%\n|Physical Boost= +5%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Eyering",
+    "pageid": 2836,
+    "timestamp": "2026-06-13T00:21:22Z",
+    "wikitext": "[[Category:Ring]] \n{{Armor\n|title = Eyering\n|image = Eyering.png\n|obtainment = \n• [[Stalker (Enemy)|Stalker Bestiary]]\n• [[Snailfang]]\n}}\n'''Eyering''' is a ring that can be obtained through the [[Stalker (Enemy)|Stalker Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Ring=\n{{ArmorStats\n|Name = Eyering\n|Description= An odd barely fitting ring. It seems to be alive and twitch before you get hit.\n|Perk= Future Sight\n|Perk Amount= +1\n|Dexterity Boost= +5%\n|Magic Boost= +5%\n|Speed Boost= +5%\n}}\n</tabber>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Angelic Ring",
+    "pageid": 3194,
+    "timestamp": "2026-03-19T04:49:36Z",
+    "wikitext": "[[Category:Ring]] [[Category:Cosmetic]] [[Category:Paid]]\n{{Armor\n|title = Angelic Ring\n|image = Angelic Ring.png\n|obtainment = \n• Cosmetics Shop for 25 Robux\n}}\n'''Angelic Ring''' is a ring cosmetic obtainable by purchase in the cosmetics shop for 25 Robux\n\n\n<tabber>\n|-|Ring=\n{{CosmeticsStats\n|Name=Angelic Ring\n|Description=Wearing this as a cosmetic ring grants your character a halo.\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Angelic Ring Worn.png|thumb|center|Angelic Ring Worn]]\n__NOTOC__"
+  },
+  {
+    "title": "Electrified Ring",
+    "pageid": 3203,
+    "timestamp": "2026-08-07T23:09:55Z",
+    "wikitext": "[[Category:Ring]] [[Category:Cosmetic]] [[Category:Paid]]\n{{Armor\n|title = Electrified Ring\n|image = Electrified Ring.png\n|obtainment = \n• Cosmetics Shop for 25 Robux\n}}\n'''Electrified Ring''' is a ring cosmetic obtainable by purchase in the cosmetics shop for 25 Robux\n\n\n<tabber>\n|-|Ring=\n{{CosmeticsStats\n|Name=Electrified Ring\n|Description=...and their summon was electric.\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Electrified Ring Preview.gif|center]]\n==Trivia==\nThe item description is a reference to the Risk of Rain ukelele\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Frigid Ring",
+    "pageid": 3205,
+    "timestamp": "2026-08-07T23:09:56Z",
+    "wikitext": "[[Category:Ring]] [[Category:Cosmetic]] [[Category:Paid]]\n{{Armor\n|title = Frigid Ring\n|image = Frigid Ring.png\n|obtainment = \n• Cosmetics Shop for 25 Robux\n}}\n'''Frigid Ring''' is a ring cosmetic obtainable by purchase in the cosmetics shop for 25 Robux\n\n\n<tabber>\n|-|Ring=\n{{CosmeticsStats\n|Name=Frigid Ring\n|Description=Wearing this as a cosmetic ring makes your characters sword summon icy!\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Frigid Ring Preview.gif|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Molten Ring",
+    "pageid": 3206,
+    "timestamp": "2026-08-07T23:09:59Z",
+    "wikitext": "[[Category:Ring]] [[Category:Cosmetic]] [[Category:Paid]]\n{{Armor\n|title = Molten Ring\n|image = Molten Ring.png\n|obtainment = \n• Cosmetics Shop for 25 Robux\n}}\n'''Frigid Ring''' is a ring cosmetic obtainable by purchase in the cosmetics shop for 25 Robux\n\n\n<tabber>\n|-|Ring=\n{{CosmeticsStats\n|Name=Molten Ring\n|Description=Wearing this as a cosmetic ring makes your characters sword summon volcanic!\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Molten Ring Preview.gif|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Starbringers Ring",
+    "pageid": 3209,
+    "timestamp": "2026-08-07T23:10:02Z",
+    "wikitext": "[[Category:Ring]] [[Category:Cosmetic]] [[Category:Paid]]\n{{Armor\n|title = Starbringers Ring\n|image = Starbringers Ring.png\n|obtainment = \n• Cosmetics Shop for 25 Robux\n}}\n'''Starbringers Ring''' is a ring cosmetic obtainable by purchase in the cosmetics shop for 25 Robux\n\n\n<tabber>\n|-|Ring=\n{{CosmeticsStats\n|Name=Starbringers Ring\n|Description=Wearing this as a cosmetic ring makes your characters sword summon starry!\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Starbringers Ring Preview.gif|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Swampy Ring",
+    "pageid": 3211,
+    "timestamp": "2026-08-07T23:10:02Z",
+    "wikitext": "[[Category:Ring]] [[Category:Cosmetic]] [[Category:Paid]]\n{{Armor\n|title = Swampy Ring\n|image = Swampy Ring.png\n|obtainment = \n• Cosmetics Shop for 25 Robux\n}}\n'''Swampy Ring''' is a ring cosmetic obtainable by purchase in the cosmetics shop for 25 Robux\n\n\n<tabber>\n|-|Ring=\n{{CosmeticsStats\n|Name=Swampy Ring\n|Description=Wearing this as a cosmetic ring makes your characters sword summon swampy!\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Swampy Ring Preview.gif|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Runic Ring",
+    "pageid": 3213,
+    "timestamp": "2026-08-07T23:10:00Z",
+    "wikitext": "[[Category:Ring]] [[Category:Cosmetic]]\n{{Armor\n|title = Runic Ring\n|image = Runic Ring.png\n|obtainment = \n• Obtaining the [https://www.roblox.com/badges/2152393432/Limit-Breaker Limit Breaker badge]\n}}\n'''Runic Ring''' is a ring cosmetic obtainable via the [https://www.roblox.com/badges/2152393432/Limit-Breaker Limit Breaker badge], which was awarded to players who were above level 80 before the level cap was reduced\n\n\n<tabber>\n|-|Ring=\n{{CosmeticsStats\n|Name=Runic Ring\n|Description=Wearing this as a cosmetic ring makes your character's sword summon burst with runes! Obtained from obtaining the Limit Breaker! badge.\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Runic Ring Preview.gif|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Sanguine Ring",
+    "pageid": 3412,
+    "timestamp": "2026-08-07T23:10:00Z",
+    "wikitext": "[[Category:Ring]] [[Category:Cosmetic]] [[Category:Halloween Event 2023]] [[Category:Halloween Event 2025]]\n{{Armor\n|title = Sanguine Ring\n|image = Sanguine Ring.png\n|obtainment = \n• Bought for  55 [[Candy Corn]] during the [[Halloween Event 2023]] and [[Halloween Event 2025]]\n}}\n'''Sanguine Ring''' is an event ring cosmetic that was available during the [[Halloween Event 2023]] and [[Halloween Event 2025]]\n\n<tabber>\n|-|Ring=\n{{CosmeticsStats\n|Name=Sanguine Ring\n|Description=Wearing this as a cosmetic ring makes your character’s sword burst forth from... ‘Tomato Juice!’ Obtainable during the 2023 Halloween Event\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Sanguine Ring Preview.gif|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Skeletal Ring",
+    "pageid": 3415,
+    "timestamp": "2026-08-07T23:10:00Z",
+    "wikitext": "[[Category:Ring]] [[Category:Cosmetic]] [[Category:Halloween Event 2023]]\n{{Armor\n|title = Skeletal Ring\n|image = Skeletal Ring.png\n|obtainment =\n}}\n'''Skeletal Ring''' is an event ring cosmetic that was bought for 55 [[Candy Corn]] during the [[Halloween Event 2023]]\n\n<tabber>\n|-|Ring=\n{{CosmeticsStats\n|Name=Skeletal Ring\n|Description=Wearing this as a cosmetic ring makes your character’s sword summon skeletal! Obtainable during the 2023 Halloween Event\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Skeletal Ring Preview.gif|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Candy Cane Ring",
+    "pageid": 3477,
+    "timestamp": "2026-08-07T23:09:54Z",
+    "wikitext": "[[Category:Ring]] [[Category:Cosmetic]] [[Category:Voxlmas Event 2025]]\n{{Armor\n|title = Candy Cane Ring\n|image = Candy Cane Ring.png\n|obtainment =\n}}\n'''Candy Cane Ring''' is an event ring cosmetic that was obtained from the [[Fancy Voxlmas Present]] available during the [[Voxlmas Event 2025]]\n\n<tabber>\n|-|Ring=\n{{CosmeticsStats\n|Name=Candy Cane Ring\n|Description=Wearing this as a cosmetic ring makes your character’s sword summon taste like peppermint!\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Candy Cane Ring Preview.gif|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Festive Lights Ring",
+    "pageid": 3480,
+    "timestamp": "2026-08-07T23:09:56Z",
+    "wikitext": "[[Category:Ring]] [[Category:Cosmetic]] [[Category:Voxlmas Event 2025]]\n{{Armor\n|title = Festive Lights Ring\n|image = Festive Lights Ring.png\n|obtainment =\n}}\n'''Festive Lights Ring''' is an event ring cosmetic that was obtained from the [[Winter Voxlmas Present]] available during the [[Voxlmas Event 2025]]\n\n<tabber>\n|-|Ring=\n{{CosmeticsStats\n|Name=Festive Lights Ring\n|Description=Wearing this as a cosmetic ring makes your character’s sword summon twinkle!\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Festive Lights Ring Preview.gif|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Snoey Ring",
+    "pageid": 3483,
+    "timestamp": "2026-08-07T23:10:01Z",
+    "wikitext": "[[Category:Ring]] [[Category:Cosmetic]] [[Category:Voxlmas Event 2025]]\n{{Armor\n|title = Snoey Ring\n|image = Snoey Ring.png\n|obtainment =\n}}\n'''Snoey Ring''' is an event ring cosmetic that was obtained from the [[Snow Voxlmas Present]] available during the [[Voxlmas Event 2025]]\n\n<tabber>\n|-|Ring=\n{{CosmeticsStats\n|Name=Snoey Ring\n|Description=Wearing this as a cosmetic ring makes your character’s sword summon snoey! Snowy? Snoey.\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Snoey Ring Preview.gif|center]]\n__NOTOC__</noinclude>"
+  }
+]
