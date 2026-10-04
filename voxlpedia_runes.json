@@ -1,0 +1,320 @@
+[
+  {
+    "title": "Bounce Rune",
+    "pageid": 905,
+    "timestamp": "2026-07-29T23:52:26Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Bounce Rune\n|image = Bounce Rune.png\n|obtainment = \n• [[Buni Prince (Enemy)|Buni Prince]]\n}}\n'''Bounce Rune''' is a rune that can be obtained as a drop from the [[Buni Prince (Enemy)|Buni Prince]]. It has a value of 25V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Bounce Rune\n|Description= Cast to become bouncy!\n|Jump Boost= +5\n|Cooldown= 25\n}}\n</tabber>\n=='''Rune Details'''==\n<ul><li>Applies 0.3 potency {{StatusEffects|Bounce}} for 12 seconds</li></ul>\n=='''Preview'''==\n[[File:Bounce Rune Preview.gif|500px|border|center|link=]]\n\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Combat Roll Rune",
+    "pageid": 1050,
+    "timestamp": "2025-09-26T10:20:24Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Combat Roll Rune\n|image = Combat Roll Rune.png\n|obtainment = \n• [[Slizard (Enemy)|Slizard]]\n}}\n'''Combat Roll Rune''' is a rune that can be obtained as a drop from [[Slizard (Enemy)|Slizards]]. It has a value of 25V$.\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Combat Roll Rune\n|Description= Roll to dodge incoming attacks!\n|Dexterity Boost= +10%\n|Speed Boost= +6%\n|Cooldown= 10\n}}\n</tabber>\n=='''Rune Details'''==\n*Roll is slightly longer than default roll and gives 0.5 I-frames\n*The roll doesn't scale with Speed Boost\n=='''Preview'''==\n[[File:Combat Roll Rune Preview.mp4|gif|500px|border|center]]\n\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Caci Rune",
+    "pageid": 1051,
+    "timestamp": "2026-05-11T21:00:04Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Caci Rune\n|image = Caci Rune.png\n|obtainment = \n• [[Caci King (Enemy)|Caci King]]\n}}\n'''Caci Rune''' is a rune that can be obtained as a drop from The [[Caci King (Enemy)|Caci King]]. It has a value of 25V$.\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Caci Rune\n|Description= Summons Caci that headbutt the floor!\n|Summon Boost= +20%\n|Cooldown= 10\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n*Base Damage of <code>5</code> * 3 Hits\n**1.0 '''Physical''' Damage Type\n**1.0 '''Summon''' Scaling\n**Base '''Poise''' Damage is equal to <code>5</code> * 3 Hits\n*Doesn't count as a summon\n</div>\n=='''Preview'''==\n[[File:Caci Rune Preview.gif|frame|center|link=]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Croakernaut Rune",
+    "pageid": 1056,
+    "timestamp": "2025-12-27T15:49:55Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Croakernaut Rune\n|image = Croakernaut Rune.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Croakernaut Rune''' is a rune that can be obtained through [[Crafting]]. It has a value of 15V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=16|Void Root (Item), Shield Metal, Blank Rune|Void Root (Item)=2|Shield Metal=12|Blank Rune=1|exp=450}}\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Croakernaut Rune\n|Description= Cast to summon a Croakernaut.\n|Summon Boost= +5%\n|Physical Defense= +5%\n|Cooldown= 100\n}}\n</tabber>\n=='''Rune Details'''==\n<ul><li>Summons a [[Croakernaut (Enemy)|Croakernaut]] with the same stats as one</li>\n<ul><li>Applies 1 Potency (0.5 if you're further away) {{StatusEffects|Reinforce}} for 10 seconds</li></ul></ul>\n=='''Preview'''==\n[[File:Croakernaut Rune Preview.gif|frame|link=|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Fireball Rune",
+    "pageid": 1058,
+    "timestamp": "2026-05-11T20:56:48Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Fireball Rune\n|image = Fireball Rune.png\n|obtainment = \n• [[Dragigator (Enemy)|Dragigator]]\n}}\n'''Fireball Rune''' is a rune that can be obtained as a drop from [[Dragigator (Enemy)|Dragigators]]. It has a value of 15V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Fireball Rune\n|Description= Cast a fireball that burns enemies over time.\n|Fire Boost= +10%\n|Cooldown= 15\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 15</li>\n<ul><li>1.0 '''Fire''' Damage Type</li></ul>\n<ul><li>0.7 '''Fire''' Scaling, 0.3 '''Magic''' Scaling</li>\n<li>Base '''Poise''' Damage is equal to <code>20</code></li></ul>\n<li>Applies {{StatusEffects|Burn}} for 5 seconds</li></ul>\n</div>\n=='''Preview'''==\n[[File:Fireball Rune Preview.gif|500px|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Gastric Winds Rune",
+    "pageid": 1060,
+    "timestamp": "2026-06-30T11:05:27Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Gastric Winds Rune\n|image = Gastric Winds Rune.png\n|obtainment = \n• [[Find Thorn|Find Thorn Quest]]\n}}\n'''Gastric Winds Rune''' is a rune that can be obtained by completing the [[Find Thorn|Find Thorn Quest]] by choosing to spare him. It has a value of 25V$.\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Gastric Winds Rune\n|Description= Channel your gastric power by using this rune!\n|Hex Boost= +13%\n|Air Boost= +1%\n|Cooldown= 10\n}}\n</tabber>\n=='''Rune Details'''==\n*Does nothing\n=='''Preview'''==\n[[File:Gastric Winds Rune Preview.gif|400px|thumb|center|link=]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Heal Rune",
+    "pageid": 1062,
+    "timestamp": "2026-07-05T13:39:22Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Heal Rune\n|image = Heal Rune.png\n|obtainment = \n• [[Crafting]]\n• [[Cleric|Cleric Guild]]<br>\n• [[Stone Cleric (Enemy)|Stone Cleric Bestiary Bounty]]\n}}\n'''Heal Rune''' is a rune that can be obtained through [[Crafting]], joining the [[Cleric|Cleric Guild]] or the [[Stone Cleric (Enemy)|Stone Cleric Bestiary Bounty]]. It has a value of 15V$.\n\n=='''Recipe'''==\nCan also be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=15|Pollen, Budboys Flower, Blank Rune, Prickly Pear|Pollen=2|Budboys Flower=1|Blank Rune=1|Prickly Pear=3|exp=400}}\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Heal Rune\n|Description= Casts a weak heal.\n|Holy Boost= +10%\n|Cooldown= 40\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n*Base '''Heal''' of 8\n**0.7 '''Holy''' Scaling\n</div>\n=='''Preview'''==\n[[File:Healing Rune Preview.gif|thumb|center|link=]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Launch Rune",
+    "pageid": 1066,
+    "timestamp": "2025-09-26T10:47:19Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Launch Rune\n|image = Launch Rune.png\n|obtainment = \n• [[Lord Stratos (Enemy)|Lord Stratos]]\n}}\n'''Launch Rune''' is a rune that can be obtained as a drop from [[Lord Stratos (Enemy)|Lord Stratos]]. It has a value of 15V$.\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Launch Rune\n|Description= Cast to launch yourself into the air.\n|Air Boost= +10%\n|Cooldown= 15\n}}\n</tabber>\n=='''Preview'''==\n[[File:Launch Rune Preview.gif|500px|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Magic Missile Rune",
+    "pageid": 1069,
+    "timestamp": "2026-05-07T23:03:52Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Magic Missile Rune\n|image = Magic Missile Rune.png\n|obtainment = \n• [[Crafting]]\n• [[Stone Archer (Enemy)|Stone Archer Bestiary Bounty]]\n}}\n'''Magic Missile Rune''' is a rune that can be obtained through [[Crafting]] or the [[Stone Archer (Enemy)|Stone Archer Bestiary Bounty]]. It has a value of 30V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=14|Bulfrogg Tongue, Budboys Flower, Blank Rune, Bumblzbomb Core|Bulfrogg Tongue=3|Budboys Flower=2|Blank Rune=1|Bumblzbomb Core=2|exp=400}}\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Magic Missile Rune\n|Description= Cast to fire a couple magic missles.\n|Magic Boost= +10%\n|Cooldown= 10\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n*Base Damage of 6 * 3 Hits\n**1.0 Damage Type of weapons highest damage type\n**0.5 Scaling of weapons highest damage type, 0.5 '''Magic''' Scaling\n*Missile's color also changes based on Damage Type\n</div>\n=='''Preview'''==\n[[File:Magic Missile Rune Preview.gif|500px|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Rune of Cleansing",
+    "pageid": 1071,
+    "timestamp": "2026-08-29T11:30:15Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Rune of Cleansing\n|image = Rune of Cleansing.png\n|obtainment = \n• [[Crafting]]\n• [[Irine|Purify Debuffs Quest]]\n}}\n'''Rune of Cleansing''' is a rune that can be obtained through [[Crafting]] or starting [[Irine|Irine's Purify debuffs]] quest. It has a value of 15V$.\n\n=='''Recipe'''==\n{{Crafting|lv=15|Bulfrogg Tongue, Toadzerker Horn, Blank Rune, Prickly Pear|Bulfrogg Tongue=2|Toadzerker Horn=1|Blank Rune=1|Prickly Pear=3|exp=400}}\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Rune of Cleansing\n|Description= Cast to cleanse debuffs.\n|Water Boost= +10%\n|Cooldown= 20\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n*Base '''Heal''' of 1\n**0.5 '''Water''' Scaling\n</div>\n=='''Preview'''==\n[[File:Rune of Cleansing Preview.gif|500px|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Rage Rune",
+    "pageid": 1072,
+    "timestamp": "2026-09-24T02:54:29Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Rage Rune\n|image = Rage Rune.png\n|obtainment = \n• [[Crafting]]\n• [[Gladiator|Gladiator Guild]]\n}}\n'''Rage Rune''' is a rune that can be obtained through [[Crafting]] or joining the [[Gladiator|Gladiator Guild]]. It has a value of 25V$.\n\n=='''Recipe'''==\n{{Crafting|lv=15|Blood Iron, Toadzerker Horn, Blank Rune, Scow Horn|Blood Iron=1|Toadzerker Horn=2|Blank Rune=1|Scow Horn=2|exp=400}}\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Rage Rune\n|Description= Become enraged and deal more damage!\n|Physical Boost= +10%\n|Cooldown= 60\n}}\n</tabber>\n=='''Rune Details'''==\n<ul><li>Applies 0.3 potency {{StatusEffects|Rage}} for 30 seconds</li></ul>\n=='''Preview'''==\n[[File:Rage Rune Preview.mp4|gif|500px|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Reinforce Rune",
+    "pageid": 1074,
+    "timestamp": "2026-04-29T14:07:02Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Reinforce Rune\n|image = Reinforce Rune.png\n|obtainment = \n• [[Crafting]]\n• [[Croakernaut (Enemy)|Croakernaut Bestiary Bounty]]\n}}\n'''Reinforce Rune''' is a rune that can be obtained through [[Crafting]] or the [[Croakernaut (Enemy)|Croakernaut Bestiary Bounty]]. It has a value of 25V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=14|Toadzerker Horn, Shield Metal, Blank Rune|Toadzerker Horn=2|Shield Metal=5|Blank Rune=1|exp=410}}\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Reinforce Rune\n|Description= Cast to reduce incoming damage!\n|Magic Defense= +10%\n|Cooldown= 40\n}}\n</tabber>\n=='''Rune Details'''==\n<ul><li>Applies 0.5 potency {{StatusEffects|Reinforce}} for 20 seconds</li></ul>\n=='''Preview'''==\n[[File:Reinforce Rune Preview.gif|500px|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Rubble Rune",
+    "pageid": 1076,
+    "timestamp": "2026-05-13T01:54:53Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Rubble Rune\n|image = Rubble Rune.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Rubble Rune''' is a rune that can be obtained through [[Crafting]]. It has a value of 15V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=13|Bowldur Chunk, Amethyst, Blank Rune|Bowldur Chunk=2|Amethyst=1|Blank Rune=1|exp=400}}\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Rubble Rune\n|Description= Toss a handful of rocks at the opponent.\n|Earth Boost= +10%\n|Cooldown= 15\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n*Base Damage of <code>18</code>\n**1.0 '''Earth''' Damage Type\n**0.7 '''Earth''' Scaling, 0.3 '''Physical''' Scaling\n**Base '''Poise''' Damage is equal to <code>75</code>\n*Only deals one hit\n*Guardbreaks\n</div>\n=='''Preview'''==\n[[File:Rubble Rune Preview.gif|500px|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Swarm Rune",
+    "pageid": 1077,
+    "timestamp": "2025-09-26T11:05:03Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Swarm Rune\n|image = Swarm Rune.png\n|obtainment = \n• [[Bumblz (Enemy)|Bumblz]]\n}}\n'''Swarm Rune''' is a rune that can be obtained as a drop from [[Bumblz (Enemy)|Bumblz]]. It has a value of 15V$.\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Swarm Rune\n|Description= Cast to summon a swarm of bumblz.\n|Summon Boost= +10%\n|Cooldown= 30\n}}\n</tabber>\n=='''Rune Details'''==\n*Spawns 3 [[Bumblz (Enemy)|Bumblz]] with the same stats as one\n=='''Preview'''==\n[[File:Swarm Rune Preview.gif|500px|border|center]]\n=='''Trivia'''==\n*'''Swarm Rune''' used to only summon 2 [[Bumblz (Enemy)|Bumblz]] instead of 3\n__NOTOC__"
+  },
+  {
+    "title": "Slizard Mount Rune",
+    "pageid": 1085,
+    "timestamp": "2026-08-06T11:53:15Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Slizard Mount Rune\n|image = Slizard Mount Rune.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Slizard Mount Rune''' is a rune that can be obtained through [[Crafting]]. It has a value of 15V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=24|Slizard Chunk, Bowldur Chunk, Blank Rune|Slizard Chunk=50|Bowldur Chunk=5|Blank Rune=1|exp=1000}}\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Slizard Mount Rune\n|Description= Cast to mount a slizard. Your LMBs and weapon art is modified while riding.\n|Summon Boost= +10%\n|Cooldown= 10\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n*M1 Base Damage: 15\n**1.0 '''Physical''' Damage Type\n**0.5 '''Summon''' Scaling\n**Affected by attack speed stat, unaffected by attack speed related [[Perks]]\n**Counts as a Rune Hit\n*Weapon Art Base Damage: 1.1 * 10 Hits + 4.4 (final hit does 4.4)\n**1.0 '''Physical''' Damage Type\n**0.5 '''Summon''' Scaling\n**Sets weapon art CD to 25 seconds\n**Does not count as Rune Hit(s)\n</div>\n=='''Preview'''==\n===M1/M2===\n[[File:Slizard Mount Rune M1 Preview.gif|500px|border|center]]\n===Weapon Art===\n[[File:Slizard Mount Rune WA Preview.gif|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Glacial Snapper Mount Rune",
+    "pageid": 1087,
+    "timestamp": "2026-08-06T11:57:35Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Glacial Snapper Mount Rune\n|image = Glacial Snapper Mount Rune.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Glacial Snapper Mount Rune''' is a rune that can be obtained through [[Crafting]]. It has a value of 15V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=28|Glacial Snapper Chunk, Blank Rune|Glacial Snapper Chunk=40|Blank Rune=1|exp=1500}}\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Glacial Snapper Mount Rune\n|Description= Cast to mount a glacial snapper. Gain additional defense and your LMBs and weapon art are modified while riding.\n|Summon Boost= +10%\n|Cooldown= 10\n|Perk= Mounted Defense\n|Perk Amount= +1\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>M1 Base Damage: 15</li>\n<ul><li>0.5 '''Water''' Damage Type, 0.5 '''Physical''' Damage Type</li>\n<li>0.5 '''Summon''' Scaling</li>\n<li>Affected by attack speed stat, unaffected by attack speed related [[Perks]]</li>\n<li>Counts as a Rune Hit</li></ul>\n<li>Weapon Art Base Damage: 30</li>\n<ul><li>0.5 '''Water''' Damage Type, 0.5 '''Physical''' Damage Type</li>\n<li>0.5 '''Summon''' Scaling</li>\n<li>Guardbreaks and applies {{StatusEffects|Bleed}} for 4 seconds and {{StatusEffects|Slowness}} for 12 seconds</li>\n<li>Sets weapon art CD to 25 seconds</li>\n<li>Does not count as a Rune Hit</li></ul></ul>\n</div>\n=='''Preview'''==\n===M1/M2===\n[[File:Glacial Snapper Mount Rune M1 Preview.mp4|gif|500px|border|center]]\n\n===Weapon Art===\n[[File:Glacial Snapper Mount Rune WA Preview.mp4|gif|600px|border|center]]\n\n=='''Trivia'''==\n*'''Glacial Snapper Mount Rune''' has a [[Voxlmas Glacial Snapper Mount Rune|Christmas themed version]]\n__NOTOC__"
+  },
+  {
+    "title": "Sanguine Bolt Rune",
+    "pageid": 1090,
+    "timestamp": "2026-06-16T09:04:06Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Sanguine Bolt Rune\n|image = Sanguine Bolt Rune.png\n|obtainment = \n• [[Lord Stratos (Enemy)#Lord_Vaen|Lord Vaen]]\n}}\n'''Sanguine Bolt Rune''' is a rune that can be obtained as a drop from [[Lord Stratos (Enemy)#Lord_Vaen|Lord Vaen]]. It has a value of 25V$.\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Sanguine Bolt Rune\n|Description= Expend health to cast a blood bolt! The rune button can be held down to continue channeling for a bit.\n|Air Boost= +4%\n|Magic Boost= +4%\n|Physical Boost= +4%\n|Cooldown= 15\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 3.45 * 11 Hits</li>\n<ul><li>0.333 '''Air''' Damage Type, 0.333 '''Magic''' Damage Type, 0.333 '''Physical''' Damage Type</li></ul>\n<ul><li>0.75 '''Air''' Scaling, 0.75 '''Magic''' Scaling, 0.75 '''Physical''' Scaling</li></ul>\n<ul><li>Deals 2.4 '''Physical''' Self-Damage per hit (can be reduced)</li></ul>\n<li>Guardbreaks and applies {{StatusEffects|Bleed}} for 5 seconds on every hit</li>\n<li>The hitbox is actually a very large cuboid that extends from well behind the player to the end of the beam</li></ul>\n</div>\n=='''Preview'''==\n[[File:Sanguine Bolt Rune Preview.gif|border]]\n\n[[File:Sanguine Bolt Rune Tap Preview.gif|border]]\n\n=='''Trivia'''==\n*'''Sanguine Bolt''' is a reference to Choso's Blood Manipulation technique from Jujutsu Kaisen\n__NOTOC__"
+  },
+  {
+    "title": "False Sun Rune",
+    "pageid": 1101,
+    "timestamp": "2026-06-18T02:18:43Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = False Sun Rune\n|image = False Sun Rune.png\n|obtainment = \n• [[Crafting]]\n}}\n'''False Sun Rune''' is a rune that can be obtained through [[Crafting]]. It has a value of 15V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=17|Dragigator Ember, Bumblzbomb Core, Blank Rune|Dragigator Ember=3|Bumblzbomb Core=3|Blank Rune=1|exp=450}}\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = False Sun Rune\n|Description= Cast to create a small sun that grants a buff that activates daylight required perks and deals fire and holy damage.\n|Fire Boost= +5%\n|Holy Boost= +5%\n|Cooldown= 50\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 2.5 * 10 Hits</li>\n<ul><li>0.5 '''Holy''' Damage Type, 0.5 '''Fire''' Damage Type</li></ul>\n<ul><li>1.0 '''Holy''' Scaling, 1.0 '''Fire''' Scaling</li></ul>\n<li>Lasts for 20 seconds, pulsating every 2 seconds</li>\n<li>Applies {{StatusEffects|Sun Blessed}} every pulse which lasts for 10 seconds</li>\n<ul><li>Sun Blessed does not apply to allies</li></ul>\n<li>Can only have 1 sun active at a time, if you use the rune while a sun is still active the rune goes on cooldown for 10 seconds with no effects (can still proc rune activated perks)</li></ul>\n</div>\n=='''Preview'''==\n[[File:False Sun Rune Preview.mp4|gif|600px|border|center]]\n\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Taunting Rune",
+    "pageid": 1130,
+    "timestamp": "2026-05-11T20:35:47Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Taunting Rune\n|image = Taunting Rune.png\n|obtainment = \n• [[Crafting]]\n• [[Stone Knight (Enemy)|Stone Knight Bestiary Bounty]]\n}}\n'''Taunting Rune''' is a rune that can be obtained through [[Crafting]] or the [[Stone Knight (Enemy)|Stone Knight Bestiary Bounty]]. It has a value of 25V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=14|Blood Iron, Bowldur Chunk, Blank Rune, Woof Fur|Blood Iron=1|Bowldur Chunk=1|Blank Rune=1|Woof Fur=3|exp=410}}\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Taunting Rune\n|Description= Taunt nearby enemies!\n|Physical Defense= +10%\n|Cooldown= 20\n|Perk=Dominating\n|Perk Amount=+1\n}}\n</tabber>\n=='''Rune Details'''==\n<ul><li>Applies {{StatusEffects|Taunt}} for 10 seconds</li>\n<li>Base '''Poise''' Damage is equal to <code>80</code></li>\n<li>Cannot proc anything</li></ul>\n=='''Preview'''==\n[[File:Taunting Rune Preview.mp4|gif|600px|border|center]]\n\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Ancient Cleric Rune",
+    "pageid": 2631,
+    "timestamp": "2026-07-05T13:41:50Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Ancient Cleric Rune\n|image = Ancient Cleric Rune.png\n|obtainment = \n• [[Stone Cleric (Enemy)|Stone Cleric Bestiary]]\n• [[Snailfang]]\n}}\n'''Ancient Cleric Rune''' is a rune that can be obtained through the [[Stone Cleric (Enemy)|Stone Cleric Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Ancient Cleric Rune\n|Description= Consume buffs that you have applied to nearby allies and convert them into a shield.\n|Holy Boost= +7%\n|Earth Boost= +7%\n|Cooldown= 20\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Grants {{StatusEffects|Ancient Shield}} for 15 seconds with potency equal to <code>20 + 4 * buffsConsumed</code></li>\n<ul><li>Ancient Shield grants max shield equal to its potency</li>\n<li>Consumes buffs the user applied to allies as well and counts them towards the total, as well as granting them the status</li>\n<li>Also consumes neutral statuses applied by the user</li></ul>\n<li>Base '''Heal''' of 0.5</li>\n<ul><li>0.5 '''Holy''' Scaling, 0.5 '''Earth''' Scaling</li></ul></ul>\n</div>\n=='''Preview'''==\n[[File:Ancient Cleric Rune Preview.mp4|gif|600px|thumb|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Plan Bee Rune",
+    "pageid": 2633,
+    "timestamp": "2026-06-13T00:21:30Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Plan Bee Rune\n|image = Plan Bee Rune.png\n|obtainment = \n• [[Drone (Enemy)|Drone Bestiary]]\n• [[Snailfang]]\n}}\n'''Plan Bee Rune''' is a rune that can be obtained through the [[Drone (Enemy)|Drone Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Plan Bee Rune\n|Description= Its good to always have a plan bee! Grant yourself shield based on missing HP and grant regen below 20%\n|Physical Defense= +5%\n|Magic Defense= +5%\n|Cooldown= 30\n}}\n</tabber>\n=='''Rune Details'''==\n<ul><li>Grants {{StatusEffects|Drone Armor}} for 8 seconds with potency equal to the users missing HP</li>\n<ul><li>Drone Armor grants max shield equal to its potency</li></ul>\n<li>When below 20% HP, grants {{StatusEffects|Regen}} at 1 potency for 10 seconds</li></ul>\n=='''Preview'''==\n[[File:Plan Bee Rune Preview.mp4|gif|450px|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Thunderous Charge Rune",
+    "pageid": 2642,
+    "timestamp": "2026-06-13T00:21:36Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Thunderous Charge Rune\n|image = Thunderous Charge Rune.png\n|obtainment = \n• [[Altolodon (Enemy)|Altolodon Bestiary]]\n• [[Snailfang]]\n}}\n'''Thunderous Charge Rune''' is a rune that can be obtained through the [[Altolodon (Enemy)|Altolodon Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Thunderous Charge Rune\n|Description= Turn into a lightning form and dash through your enemies! Hold and let go of the rune key right as you hit an enemy to strengthen it.\n|Air Boost= +8%\n|Magic Boost= +8%\n|Cooldown= 25\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 20</li>\n<ul><li>0.5 '''Air''' Damage Type, 0.5 '''Magic''' Damage Type</li></ul>\n<ul><li>1.0 '''Air''' Scaling, 1.0 '''Magic''' Scaling</li></ul>\n<li>When held and released right before hitting an enemy, this rune will crit and grant {{StatusEffects|Lightning Cloak}} for 5 seconds</li>\n<ul><li>An enemy does not actual need to be hit, or present to activate lightning cloak</li></ul></ul>\n</div>\n=='''Preview'''==\n[[File:Thunderous Charge Rune Preview.gif|400px|thumb|Normal Casting|left|link=]]\n[[File:Thunderous Charge Rune Preview Charged.gif|400px|thumb|Charged Casting|center|link=]]\n<br>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Brainblast Rune",
+    "pageid": 2648,
+    "timestamp": "2026-07-23T04:31:42Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Brainblast Rune\n|image = Brainblast Rune.png\n|obtainment = \n• [[Brain Burner (Enemy)|Brain Burner Bestiary]]\n• [[Snailfang]]\n}}\n'''Brainblast Rune''' is a rune that can be obtained through the [[Brain Burner (Enemy)|Brain Burner Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Brainblast Rune\n|Description= Release a psionic magmatic blast!\n|Fire Boost= +4%\n|Magic Boost= +4%\n|Earth Boost= +4%\n|Cooldown= 15\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 10.0 * 2 Hits</li>\n<ul><li>0.33 '''Fire''' Damage Type, 0.33 '''Earth''' Damage Type, 0.33 '''Magic''' Damage Type</li></ul>\n<ul><li>1.0 '''Fire''' Scaling, 1.0 '''Earth''' Scaling, 1.0 '''Magic''' Scaling</li></ul>\n<li>Applies a red variant of {{StatusEffects|Sticky}} that increases '''Fire''', '''Earth''', and '''Magic''' damage by 20%, and {{StatusEffects|Burn}} for 5 seconds</li>\n<ul><li>Doesn't stack with other Sticky variants; cannot override it nor be overridden by it</li></ul>\n<li>Guardbreaks</li></ul>\n</div>\n=='''Preview'''==\n[[File:Brainblast Rune Preview.gif|frame|center|link=]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Beenade Rune",
+    "pageid": 2652,
+    "timestamp": "2026-06-13T00:21:17Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Beenade Rune\n|image = Beenade Rune.png\n|obtainment = \n• [[Bomber (Enemy)|Bomber Bestiary]]\n• [[Snailfang]]\n}}\n'''Beenade Rune''' is a rune that can be obtained through the [[Bomber (Enemy)|Bomber Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Beenade Rune\n|Description= \" \"\n|Perk= Bomber Satchel\n|Perk Amount= +1\n|Holy Boost= +5%\n|Magic Boost= +5%\n|Cooldown= 5\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 11</li>\n<ul><li>0.5 '''Magic''' Damage Type, 0.5 '''Holy''' Damage Type</li></ul>\n<ul><li>1.0 '''Holy''' Scaling, 1.0 '''Magic''' Scaling</li></ul>\n<li>Gain up to 5 potency {{StatusEffects|Beenades}} when hitting an enemy with a Weapon Art, the next use of this rune will consume this status and throw extra beenades equal to the status's potency</li></ul>\n=='''Preview'''==\n[[File:Beenade Rune Preview.gif|border|center|link=]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Toad Slam Rune",
+    "pageid": 2655,
+    "timestamp": "2026-06-13T00:21:36Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Toad Slam Rune\n|image = Toad Slam Rune.png\n|obtainment = \n• [[Toadzerker (Enemy)|Toadzerker Bestiary]]\n• [[Snailfang]]\n}}\n'''Toad Slam Rune''' is a rune that can be obtained through the [[Toadzerker (Enemy)|Toadzerker Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Toad Slam Rune\n|Description= Slam into the floor and become enraged\n|Physical Boost= +5%\n|Jump Boost= +5\n|Cooldown= 40\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 20</li>\n<ul><li>1.0 '''Physical''' Damage Type</li></ul>\n<ul><li>1.0 '''Physical''' Scaling</li></ul>\n<li>Grants {{StatusEffects|Rage}} at 0.2 potency for 10 seconds</li>\n<li>Guardbreaks</li></ul>\n</div>\n=='''Preview'''==\n[[File:Toad Slam Rune Preview.gif|frame|link=|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Enchanted Sword Rune",
+    "pageid": 2661,
+    "timestamp": "2026-06-13T00:21:21Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Enchanted Sword Rune\n|image = Enchanted Sword Rune.png\n|obtainment = \n• [[Mageling (Enemy)|Mageling Bestiary]]\n• [[Snailfang]]\n}}\n'''Enchanted Sword Rune''' is a rune that can be obtained through the [[Mageling (Enemy)|Mageling Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Enchanted Sword Rune\n|Description= Conjure a magical weapon, holding down the rune key will change the weapon type and effects but also increase the cooldown.\n|Magic Boost= +10%\n|Cooldown= 10\n}}\n</tabber>\n==Rune Details==\nHolding down the rune key will cycle through the following weapon types :<br>\nDagger -> One-Handed Sword -> Greatsword<br>\nReleasing the rune key will activate the m2 of the aforementioned weapon types, having different properties depending the weapon type\n===Dagger===\n*7 Base Damage\n**1.0 Damage Type of weapons highest damage type\n**1.0 Scaling of weapons highest damage type\n**Base '''Poise''' Damage is equal to <code>10</code>\n*Guaranteed to crit\n*Guardbreaks\n*Counts as a finisher, and can proc related effects\n*10 Second Cooldown</div>\n===Sword===\n*15 Base Damage\n**1.0 Damage Type of weapons highest damage type\n**1.0 Scaling of weapons highest damage type\n**Base '''Poise''' Damage is equal to <code>12</code>\n*Guardbreaks\n*Counts as a finisher, and can proc related effects\n*15 Second Cooldown\n<ul><li>Applies {{StatusEffects|Runic Glass}} for 5 seconds</li>\n<ul><li>Runic Glass deals 1.5 base damage per tick</li>\n<ul><li>1.0 Damage Type of weapons highest damage type</li>\n<li>1.0 Scaling of weapons highest damage type</li></ul>\n<li>Counts as Rune Damage</li>\n<li>Can proc other effects</li>\n<li>increased potency doesn't affect its damage, but debuff duration increases do work on it</li>\n<li>works with [[Life Drinker]] and [[Melting Shred]], but does not work with [[Wildfire]]</li></ul></ul>\n===Greatsword===\n*40 Base Damage\n**1.0 Damage Type of weapons highest damage type\n**1.0 Scaling of weapons highest damage type\n**Base '''Poise''' Damage is equal to <code>65</code>\n*Guardbreaks\n*Counts as a finisher, and can proc related effects\n*20 Second Cooldown\n=='''Notes'''==\n* If Weapon Damage Type is '''True Damage Type''' then it has 1.0 magic scaling\n=='''Preview'''==\n<div class=\"rune-gif\" style=\"display:flex; align-items:center; gap:10px;\">\n[[File:Enchanted Sword Rune Hold.gif|frame|Holding down the rune key|link=]]\n[[File:Enchanted Sword Dagger.gif|frame|Dagger|link=]]\n[[File:Enchanted Sword Sword.gif|frame|Sword|link=]]</div>\n<div class=\"rune-gif\" style=\"display:flex; align-items:center; gap:10px;\">\n[[File:Enchanted Sword Greatsword.gif|frame|Greatsword|link=]]\n</div>\n=='''Trivia'''==\n<ul><li>Before its rework, it used to grant the {{StatusEffects|Enchanted Sword}} status on use</li></ul>\n__NOTOC__"
+  },
+  {
+    "title": "Pack Leader Rune",
+    "pageid": 2667,
+    "timestamp": "2026-09-24T19:38:58Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Pack Leader Rune\n|image = Pack Leader Rune.png\n|obtainment = \n• [[Winter Woof (Enemy)|Winter Woof Bestiary]]\n• [[Snailfang]]\n}}\n'''Pack Leader Rune''' is a rune that can be obtained through the [[Winter Woof (Enemy)|Winter Woof Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Pack Leader Rune\n|Description= Cast to summon 2 Winter Woofs.\n|Physical Boost= +5%\n|Summon Boost= +5%\n|Cooldown= 60\n}}\n</tabber>\n=='''Rune Details'''==\n<ul><li>Spawns 2 [[Winter Woof (Enemy)|Winter Woofs]] with the same stats as one</li>\n<li>Their howl applies 0.5 potency {{StatusEffects|Shatter}} for '''~'''10 seconds</li>\n<ul><li>Shatter does not stack with multiple howls despite the visual appearance</li></ul></ul>\n=='''Preview'''==\n[[File:Pack Leader Rune Preview.mp4|gif|400px|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Foot Dive Rune",
+    "pageid": 2669,
+    "timestamp": "2026-06-13T00:21:23Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Foot Dive Rune\n|image = Foot Dive Rune.png\n|obtainment = \n• [[Dire Buni (Enemy)|Dire Buni Bestiary]]\n• [[Snailfang]]\n}}\n'''Foot Dive Rune''' is a rune that can be obtained through the [[Dire Buni (Enemy)|Dire Buni Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Foot Dive Rune\n|Description= A perfected form of the buni kick. Propell forewards using your sword and kick the opponent. The cooldown is reduced if it hits an opponent\n|Physical Boost= +5%\n|Dexterity Boost= +5%\n|Cooldown= 15\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of <code>18</code></li>\n<ul><li>1.0 '''Physical''' Damage Type</li></ul>\n<ul><li>1.0 '''Physical''' Scaling, 1.0 '''Dexterity''' Scaling</li>\n<li>Base '''Poise''' Damage is equal to <code>75</code></li></ul>\n<li>Base cooldown on miss is 25 seconds, when successfully landing this rune the base cooldown is instead 5 seconds</li><li>Guardbreaks</li></ul>\n</div>\n=='''Preview'''==\n[[File:Foot Dive Rune Preview.gif|frame|link=|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Hex Web Rune",
+    "pageid": 2671,
+    "timestamp": "2026-07-23T04:32:03Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Hex Web Rune\n|image = Hex Web Rune.png\n|obtainment = \n• [[Deep Spider (Enemy)|Deep Spider Bestiary]]\n• [[Snailfang]]\n}}\n'''Hex Web Rune''' is a rune that can be obtained through the [[Deep Spider (Enemy)|Deep Spider Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Hex Web Rune\n|Description= Toss hex web up in the air that lands on the closest enemy to you.\n|Hex Boost= +10%\n|Cooldown= 20\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 2 * 10 Hits</li>\n<ul><li>1.0 '''Hex''' Damage Type</li></ul>\n<ul><li>1.0 '''Hex''' Scaling</li></ul>\n<li>Applies Purple {{StatusEffects|Sticky}} each hit for 5 seconds which increases '''Hex''' and '''Magic''' damage taken by 20%</li>\n<ul><li>Counts as normal Sticky for all related perk effects</li>\n<ul><li>Doesn't stack with other Sticky variants; cannot override it nor be overridden by it</li></ul>\n<li>Damage ticks every '''~'''0.5 seconds for 5 seconds</li>\n<li>Has a lowered chance to proc other effects</li>\n<li>Web Projectile aims at the nearest target</li>\n<li>Guardbreaks</li></ul>\n</div>\n=='''Preview'''==\n[[File:Hex Web Rune Preview.mp4|gif|500px|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Glacial Shell Rune",
+    "pageid": 2674,
+    "timestamp": "2026-09-10T10:59:53Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Glacial Shell Rune\n|image = Glacial Shell Rune.png\n|obtainment = \n• [[Glacial Snapper (Enemy)|Glacial Snapper Bestiary]]\n• [[Snailfang]]\n}}\n'''Glacial Shell Rune''' is a rune that can be obtained through the [[Glacial Snapper (Enemy)|Glacial Snapper Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Glacial Shell Rune\n|Description= Surround yourself in ice restoring shield and increasing max shield temporarily!\n|Cold Resistance= +200%\n|Protection= +10\n|Cooldown= 40\n}}\n</tabber>\n=='''Rune Details'''==\n<ul><li>Grants {{StatusEffects|Ice Shell}} for 20 seconds</li>\n<ul><li>Ice Shell grants 50 max shield, 30% faster shield recovery rate, and immunity to slowing effects</li>\n<ul><li>Using this rune while {{StatusEffects|Ice Shell}} is already active still grants 50 shield.</ul></ul></ul>\n=='''Preview'''==\n[[File:Glacial Shell Rune RE-Preview.mp4|gif|500px|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Jetstream Rune",
+    "pageid": 2679,
+    "timestamp": "2026-06-13T00:21:27Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Jetstream Rune\n|image = Jetstream Rune.png\n|obtainment = \n• [[Batty (Enemy)|Batty Bestiary]]\n• [[Snailfang]]\n}}\n'''Jetstream Rune''' is a rune that can be obtained through the [[Batty (Enemy)|Batty Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Jetstream Rune\n|Description= Activate to move as fast as you can for a moment, though youll become exhausted afterwards.\n|Air Boost= +10%\n|Cooldown= 15\n}}\n</tabber>\n=='''Rune Details'''==\n<ul><li>Grants the {{StatusEffects|Jetstream}} at 0.1 potency for 5 seconds, after this buff ends gain {{StatusEffects|Slowness}} of 0.5 potency for 5 seconds</li></ul>\n=='''Preview'''==\n[[File:Jetstream Rune Preview.gif|center|link=]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Cacitrops Rune",
+    "pageid": 2694,
+    "timestamp": "2026-08-26T21:09:52Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Cacitrops Rune\n|image = Cacitrops Rune.png\n|obtainment = \n• [[Caci (Enemy)|Caci Bestiary]]\n• [[Snailfang]]\n}}\n'''Cacitrops Rune''' is a rune that can be obtained through the [[Caci (Enemy)|Caci Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Cacitrops Rune\n|Description= Dash backwards and drop spikes on the floor!\n|Dexterity Boost=+8%\n|Physical Boost=+8%\n|Cooldown= 15\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 4 * 27 Hits</li>\n<ul><li>1.0 '''Physical''' Damage Type</li></ul>\n<ul><li>1.0 '''Physical''' Scaling, 1.0 '''Dexterity''' Scaling</li></ul>\n<li>Every hit applies {{StatusEffects|Bleed}} for 5 seconds</li>\n<li>Damage ticks every '''~'''0.75 seconds for 20.25 seconds</li>\n<li>Dodge incoming attacks during the casting animation</li>\n<li>Has a reduced chance to proc other effects</li></ul>\n</div>\n=='''Preview'''==\n[[File:Cacitrops Rune Preview.gif|border|center|link=]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Snarl Rune",
+    "pageid": 2702,
+    "timestamp": "2026-09-12T13:25:26Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Snarl Rune\n|image = Snarl Rune.png\n|obtainment = \n• [[Plains Woof (Enemy)|Plains Woof Bestiary]]\n• [[Snailfang]]\n}}\n'''Snarl Rune''' is a rune that can be obtained through the [[Plains Woof (Enemy)|Plains Woof Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Snarl Rune\n|Description= Snarl at your opponents applying a debuff that allows you to heal by hitting them!\n|Physical Boost= +10%\n|Cooldown= 30\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 2 * 4 Hits</li>\n<ul><li>1.0 '''Physical''' Damage Type</li></ul>\n<ul><li>1.0 '''Physical''' Scaling</li></ul>\n<li>Applies 0.1 potency {{StatusEffects|Snarled}} for 10 seconds</li>\n<ul><li>Lifesteal is not affected by damage boosting perks or effects</li>\n<li>Doesn't work on attacks without proc coefficient</li></ul></ul>\n</div>\n\n=='''Preview'''==\n[[File:Snarl Rune Preview.gif|link=|frame|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Sporeling Toss Rune",
+    "pageid": 2756,
+    "timestamp": "2026-06-13T00:21:34Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Sporeling Toss Rune\n|image = Sporeling Toss Rune.png\n|obtainment = \n• [[Sporeboss Man (Enemy)|Sporeboss Man Bestiary]]\n• [[Snailfang]]\n}}\n'''Sporeling Toss Rune''' is a rune that can be obtained through the [[Sporeboss Man (Enemy)|Sporeboss Man Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Sporeling Toss Rune\n|Description= Cast to throw 2 sporelings and additionally any sporelings you've summoned!\n|Hex Boost= +5%\n|Physical Boost= +5%\n|Summon Boost= +5%\n|Cooldown= 45\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 3.5 * Sporelings Tossed</li>\n<ul><li>0.5 '''Hex''' Damage Type, 0.5 '''Physical''' Damage Type</li></ul>\n<ul><li>1.0 '''Hex''' Scaling, 1.0 '''Physical''' Scaling, 1.0 '''Summon''' Scaling</li></ul>\n<li>Applies {{StatusEffects|Poison}} for 5 seconds</li>\n<li>Tosses 2 sporelings and all the sporelings you have summoned</li></ul>\n</div>\n=='''Preview'''==\n[[File:Sporeling Toss Rune Preview.gif|border|center|link=]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Boostshroom Rune",
+    "pageid": 2766,
+    "timestamp": "2026-06-13T00:21:18Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Boostshroom Rune\n|image = Boostshroom Rune.png\n|obtainment = \n• [[Sporeling (Enemy)|Sporeling Bestiary]]\n• [[Snailfang]]\n}}\n'''Boostshroom Rune''' is a rune that can be obtained through the [[Sporeling (Enemy)|Sporeling Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Boostshroom Rune\n|Description= Cast to summon a bouncy mushroom!\n|Jump Boost= +5\n|Warding= +20%\n|Cooldown= 20\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 3</li>\n<ul><li>1.0 '''Hex''' Damage Type</li></ul>\n<ul><li>1.0 '''Hex''' Scaling</li></ul>\n<li>Applies {{StatusEffects|Poison}} for 5 seconds on hit</li>\n<li>The boostshroom lasts for 20 seconds and can be activated multiple times</li>\n<ul><li>Can be activated by other players, but the damage still counts as yours</li></ul>\n<ul><li>Has an internal CD of '''~'''2 seconds per player</li></ul></ul>\n</div>\n=='''Preview'''==\n[[File:Boostshroom Rune Preview.gif|frame|link=|center]]\n=='''Trivia'''==\n* This is the only rune in the game to have its icon on both sides!\n__NOTOC__"
+  },
+  {
+    "title": "Static Field Rune",
+    "pageid": 2774,
+    "timestamp": "2026-10-01T19:30:20Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Static Field Rune\n|image = Static Field Rune.png\n|obtainment = \n• [[Lord Stratos (Enemy)|Lord Stratos Bestiary]]\n• [[Snailfang]]\n}}\n'''Static Field Rune''' is a rune that can be obtained through the [[Lord Stratos (Enemy)|Lord Stratos Bestiary Bounty]] and bought from [[Snailfang]] for 45000V$. It has a value of 150V$.\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Static Field Rune\n|Description= Create a static field to parry away your enemies attacks automatically!\n|Air Boost= +8%\n|Magic Boost= +8%\n|Cooldown= 35\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 10</li>\n<ul><li>0.5 '''Air''' Damage Type, 0.5 '''Magic''' Damage Type</li></ul>\n<ul><li>1.0 '''Air''' Scaling, 1.0 '''Magic''' Scaling</li></ul>\n<ul><li>Counts as a Rune Hit</li></ul>\n<li>Creates a field that applies {{StatusEffects|Electro Shield}} up to 4 times for 5 seconds</li>\n<ul><li>Applies to allies as well</li>\n<li>the status itself doesn't have a duration</li></ul>\n<li>Only hits the enemy that activated the parry</li>\n<li>Can proc effects</li>\n<li>Guardbreaks</li></ul>\n</div>\n=='''Preview'''==\n<div style=\"display:flex; justify-content:center; gap:20px;\">\n[[File:Static Field Rune Preview.gif|400px|border|link=]]\n</div>\n=='''Trivia'''==\n<ul><li>Static Field used to apply {{StatusEffects|Electro Shield}} up to 8 times before being reduced to 4 in update v1542</li></ul>\n<ul><li>Static Field used to not count as a rune hit before being changed in update v1570</li></ul>\n__NOTOC__"
+  },
+  {
+    "title": "Rocky Tail Rune",
+    "pageid": 2797,
+    "timestamp": "2026-09-24T18:54:41Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Rocky Tail Rune\n|image = Rocky Tail Rune.png\n|obtainment = \n• [[Slizard (Enemy)|Slizard Bestiary]]\n• [[Snailfang]]\n}}\n'''Rocky Tail Rune''' is a rune that can be obtained through the [[Slizard (Enemy)|Slizard Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Rocky Tail Rune\n|Description= Use this rune to grow a tail from your back which restores shield on hit. Holding will continue to slap with the tail but instead of restoring shield it consumes it to make your tail bigger.\n|Heat Resistance= +150%\n|Earth Boost= +5%\n|Protection= +10\n|Cooldown= 20\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n*Base Damage of <code>8</code>\n**0.5 '''Earth''' Damage Type, 0.5 '''Physical''' Damage Type\n**1.0 '''Earth''' Scaling, 0.04 '''Protection''' Scaling\n**Base '''Poise''' Damage is equal to <code>27.5</code>\n**'''Protection''' is not a % like other Stat Boosts, making it 100x more effective in scaling\n*First hit recovers <code>5% * maxProtection + 10</code> protection, continuing to hold down the rune key drains <code>1% * maxProtection + 5</code> protection per tail slap combo\n*Guardbreaks\n</div>\n=='''Preview'''==\n{{Preview\n|Preview=Rocky Tail Rune Preview 1, Rocky Tail Rune Preview 2\n|Name=Single hit, Rune key held down\n}}\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Proto Grappler Rune",
+    "pageid": 2832,
+    "timestamp": "2026-06-24T23:10:18Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Proto Grappler Rune\n|image = Proto Grappler Rune.png\n|obtainment = \n• [[Proto-Mungus (Enemy)|Proto-Mungus Bestiary]]\n• [[Snailfang]]\n}}\n'''Proto Grappler Rune''' is a rune that can be obtained through the [[Proto-Mungus (Enemy)|Proto-Mungus Bestiary Bounty]] and bought from [[Snailfang]] for 60000V$. It has a value of 200V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Proto Grappler Rune\n|Description= Using will launch the grapple hook in the direction your facing. Hold down to aim the grapple hook.\n|Physical Defense= +8%\n|Magic Defense= +8%\n|Cooldown= 15\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 7</li>\n<ul><li>0.5 '''Hex''' Damage Type, 0.5 '''Physical''' Damage Type</li></ul>\n<ul><li>0.5 '''Hex''' Scaling, 0.5 '''Physical''' Scaling, 0.5 '''Dexterity''' Scaling</li></ul>\n<li>Applies {{StatusEffects|Poison}} for 5 seconds on hit</li>\n<li>The grappler can be cancelled by pressing space as it's pulling you towards an object</li>\n<ul><li>Automatically cancels upon reaching the grappling hook</li></ul>\n<li>Grappling onto a small enemy will bring them to you, while grappling onto a larger enemy will bring you to them</li>\n<li>Guardbreaks</li></ul>\n</div>\n=='''Preview'''==\n<div style=\"display:flex; justify-content:center; gap:20px;\">\n[[File:Proto Grappler Rune Preview.mp4|gif|400px|thumb|Small Enemy]]\n[[File:Proto Grappler Rune Preview 2.mp4|gif|400px|thumb|Large/Immovable Enemy]]\n</div>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Snoeball Rune",
+    "pageid": 2838,
+    "timestamp": "2026-06-13T00:21:34Z",
+    "wikitext": "[[Category:Rune]] \n{{Armor\n|title = Snoeball Rune\n|image = Snoeball Rune.png\n|obtainment = \n• [[Snoeman (Enemy)|Snoeman Bestiary]]\n• [[Snailfang]]\n}}\n'''Snoeball Rune''' is a rune that can be obtained through the [[Snoeman (Enemy)|Snoeman Bestiary Bounty]] and bought from [[Snailfang]] for 15000V$. It has a value of 50V$.\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Snoeball Rune\n|Description= Gather a large snoeball then throw it to cause a massive explosion that slows.\n|Water Boost= +5%\n|Magic Boost= +5%\n|Cooldown= 25\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 30</li>\n<ul><li>0.5 '''Water''' Damage Type, 0.5 '''Air''' Damage Type</li></ul>\n<ul><li>1.0 '''Water''' Scaling, 1.0 '''Magic''' Scaling</li></ul>\n<li>Applies {{StatusEffects|Frostbite}} for 5 seconds</li>\n<li>Guardbreaks</li></ul>\n</div>\n=='''Preview'''==\n<div style=\"display:flex; justify-content:center; gap:20px;\">\n[[File:Snoeball Rune Preview.gif|frame|link=]]\n</div>\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Aristocrat Rune",
+    "pageid": 3218,
+    "timestamp": "2026-08-07T23:09:52Z",
+    "wikitext": "[[Category:Rune]] [[Category:Cosmetic]]\n{{Armor\n|title = Aristocrat Rune\n|image = Aristocrat Rune.png\n|obtainment = \n• Obtaining the [https://www.roblox.com/badges/2152736710/Top-Donator Top Donator badge]\n}}\n'''Aristocrat Rune''' is a rune cosmetic obtainable via the [https://www.roblox.com/badges/2152736710/Top-Donator Top Donator badge], which is awarded to players who are in the top 10 of the donation leaderboard\n\n\n<tabber>\n|-|Rune=\n{{CosmeticsStats\n|Name=Aristocrat Rune\n|Description=Equipping as a cosmetic rune gives your character a rainbow nametag, Hits with your weapon also emit rainbow electricity. Obtained from obtaining the Top Donator! badge. (thanks btw)\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Aristocrat Rune Preview.gif|center]]\n=='''Trivia'''==\nThe rainbow name isn't tied to this rune unlike what the item description says, and is instead a [[Titles|Title]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Easter Spark Rune",
+    "pageid": 3368,
+    "timestamp": "2026-08-07T23:09:55Z",
+    "wikitext": "[[Category:Rune]] [[Category:Cosmetic]] [[Category:Easter Event 2024]]\n{{Armor\n|title = Easter Spark Rune\n|image = Easter Spark Rune.png\n|obtainment = \n}}\n'''Easter Spark Rune''' is a rune cosmetic that was obtainable during the [[Easter Event 2024]] by collecting all of the other Easter Event Eggs\n\n\n<tabber>\n|-|Rune=\n{{CosmeticsStats\n|Name=Easter Spark Rune\n|Description=Equipping as a cosmetic rune makes hits with your weapon emit colorful eggs. Obtained from completing the 2024 Easter Event\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Easter Spark Rune Preview.gif|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Head Removal Rune",
+    "pageid": 3409,
+    "timestamp": "2026-08-07T23:09:58Z",
+    "wikitext": "[[Category:Rune]] [[Category:Cosmetic]] [[Category:Halloween Event 2023]] [[Category:Halloween Event 2025]]\n{{Armor\n|title = Head Removal Rune\n|image = Head Removal Rune.png\n|obtainment =\n• Bought for 70 [[Candy Corn]] during the [[Halloween Event 2023]]\n• [[THE HALLOW SOUL (Enemy)|The Hallow Soul]]\n}}\n'''Head Removal Rune''' is an event rune cosmetic that was available during the [[Halloween Event 2023]] and [[Halloween Event 2025]]\n\n<tabber>\n|-|Rune=\n{{CosmeticsStats\n|Name=Head Removal Rune\n|Description=Hardly a surgical procedure... Equipping as a cosmetic rune removes your characters head. Obtainable during the 2023 Halloween Event\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Head Removal Rune Preview.png|thumb|center|Head Removal Rune Preview]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Head Ignition Rune",
+    "pageid": 3451,
+    "timestamp": "2026-08-07T23:09:58Z",
+    "wikitext": "[[Category:Rune]] [[Category:Cosmetic]] [[Category:Halloween Event 2024]]\n{{Armor\n|title = Head Ignition Rune\n|image = Head Ignition Rune.png\n|obtainment =\n}}\n'''Head Ignition Rune''' is an event rune cosmetic that was bought for 70 [[Candy Corn]] during the [[Halloween Event 2024]]\n\n<tabber>\n|-|Rune=\n{{CosmeticsStats\n|Name=Head Ignition Rune\n|Description=AGHHHH MY HEAD!!! Equipping as a cosmetic rune replaces your character head with blue flames. Obtainable during the 2024 Halloween Event\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Head Ignition Rune Preview.png|thumb|center|Head Ignition Rune Preview]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Skeletal Wings Rune",
+    "pageid": 3452,
+    "timestamp": "2026-08-07T23:10:00Z",
+    "wikitext": "[[Category:Rune]] [[Category:Cosmetic]] [[Category:Halloween Event 2024]]\n{{Armor\n|title = Skeletal Wings Rune\n|image = Skeletal Wings Rune.png\n|obtainment =\n}}\n'''Skeletal Wings Rune''' is an event rune cosmetic that was bought for 50 [[Candy Corn]] during the [[Halloween Event 2024]]\n\n<tabber>\n|-|Rune=\n{{CosmeticsStats\n|Name=Skeletal Wings Rune\n|Description=SKELETON WINGS!!!! Equipping as a cosmetic rune replaces draconic wings with skeletal wings. Obtainable during the 2024 Halloween Event\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Skeletal Wings Rune Preview.png|thumb|center|Skeletal Wings Rune Preview]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Jolly Knight Shield Rune",
+    "pageid": 3486,
+    "timestamp": "2026-08-07T23:09:58Z",
+    "wikitext": "[[Category:Rune]] [[Category:Cosmetic]] [[Category:Voxlmas Event 2025]]\n{{Armor\n|title = Jolly Knight Shield Rune\n|image = Jolly Knight Shield Rune.png\n|obtainment =\n}}\n'''Jolly Knight Shield Rune''' is an event rune cosmetic that was obtained from the [[Fancy Voxlmas Present]] available during the [[Voxlmas Event 2025]]\n\n<tabber>\n|-|Rune=\n{{CosmeticsStats\n|Name=Jolly Knight Shield Rune\n|Description=Equipping as a cosmetic rune makes your knight guild’s shield voxlmas themed! Obtainable during the 2025 Voxlmas Event!\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Jolly Knight Shield Rune Preview.gif|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Voxlmas Glacial Snapper Mount Rune",
+    "pageid": 3493,
+    "timestamp": "2026-08-07T23:10:02Z",
+    "wikitext": "[[Category:Rune]] [[Category:Cosmetic]] [[Category:Voxlmas Event 2025]]\n{{Armor\n|title = Voxlmas Glacial Snapper Mount Rune\n|image = Voxlmas Glacial Snapper Mount Rune.png\n|obtainment = \n}}\n'''Voxlmas Glacial Snapper Mount Rune''' is an event rune cosmetic that was obtained from opening any Voxlmas Present available during the [[Voxlmas Event 2025]]\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Voxlmas Glacial Snapper Mount Rune\n|Description= Cast to mount a glacial snapper. Gain additional defense and your LMBs and weapon art are modified while riding.\n|Summon Boost= +10%\n|Cooldown= 10\n|Perk= Mounted Defense\n|Perk Amount= +1\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>M1 Base Damage: 15</li>\n<ul><li>0.5 '''Water''' Damage Type, 0.5 '''Physical''' Damage Type</li>\n<li>0.5 '''Summon''' Scaling</li>\n<li>Affected by attack speed stat, unaffected by attack speed related [[Perks]]</li>\n<li>Counts as a Rune Hit</li></ul>\n<li>Weapon Art Base Damage: 30</li>\n<ul><li>0.5 '''Water''' Damage Type, 0.5 '''Physical''' Damage Type</li>\n<li>0.5 '''Summon''' Scaling</li>\n<li>Guardbreaks and applies {{StatusEffects|Bleed}} for 4 seconds and {{StatusEffects|Slowness}} for 12 seconds</li>\n<li>Sets weapon art CD to 25 seconds</li>\n<li>Does not count as a Rune Hit</li></ul></ul>\n</div>\n=='''Preview'''==\n===M1/M2===\n[[File:Voxlmas Glacial Snapper Mount Rune M1 Preview.gif|border|center]]\n\n===Weapon Art===\n[[File:Voxlmas Glacial Snapper Mount Rune WA Preview.gif|border|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Spooky Woof Mount Rune",
+    "pageid": 3602,
+    "timestamp": "2026-08-07T23:10:01Z",
+    "wikitext": "[[Category:Rune]] [[Category:Cosmetic]] [[Category:Halloween Event 2025]]\n{{Armor\n|title = Spooky Woof Mount Rune\n|image = Spooky Woof Mount Rune.png\n|obtainment = \n• Bought for 50 [[Candy Corn]] during the [[Halloween Event 2025]]\n}}\n'''Spooky Woof Mount Rune''' is an event rune cosmetic that was available during the [[Halloween Event 2025]]\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Spooky Woof Mount Rune\n|Description=Cast to mount a skeletal winter woof. Your LMBs and weapon art are modified while riding. Obtainable during the 2025 Halloween Event\n|Summon Boost= +10%\n|Cooldown= 10\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>M1 Base Damage: 8</li>\n<ul><li>1.0 '''Physical''' Damage Type</li>\n<li>0.5 '''Summon''' Scaling</li>\n<ul><li>has a flat 4 HP '''heal'''</li>\n<li>Affected by attack speed stat, unaffected by attack speed related [[Perks]]</li>\n<li>Counts as a Rune Hit</li></ul>\n<li>Weapon Art Base Damage: 5.5</li>\n<ul><li>1.0 '''Physical''' Damage Type</li>\n<li>0.5 '''Summon''' Scaling</li>\n<li>Guardbreaks and applies 0.2 potency {{StatusEffects|Shatter}} for 10 seconds</li>\n<li>Sets weapon art CD to 25 seconds</li>\n<li>Does not count as a Rune Hit</li></ul></ul>\n</div>\n=='''Preview'''==\n===M1/M2===\n[[File:Spooky Woof Mount M1 Preview.mp4|gif|230px|border|center]]\n===Weapon Art===\n[[File:Spooky Woof Mount Rune WA Preview.mp4|gif|500px|border|center]]\n=='''Trivia'''==\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Hallow Summons Rune",
+    "pageid": 3603,
+    "timestamp": "2026-08-07T23:09:57Z",
+    "wikitext": "[[Category:Rune]] [[Category:Cosmetic]] [[Category:Halloween Event 2025]]\n{{Armor\n|title = Hallow Summons Rune\n|image = Hallow Summons Rune.png\n|obtainment =\n• Bought for 70 [[Candy Corn]] during the [[Halloween Event 2025]]\n}}\n'''Hallow Summons Rune''' is an event rune cosmetic that was available during the [[Halloween Event 2025]]\n\n<tabber>\n|-|Rune=\n{{CosmeticsStats\n|Name=Hallow Summons Rune\n|Description=Equipping as a cosmetic rune changes your summons to their Halloween variant if available or corrupt if Halloween variant isnt available. Obtainable during the 2025 Halloween Event\n}}\n</tabber>\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Demonic Fervor Rune",
+    "pageid": 3604,
+    "timestamp": "2026-08-07T23:09:55Z",
+    "wikitext": "[[Category:Rune]] [[Category:Cosmetic]] [[Category:Halloween Event 2025]]\n{{Armor\n|title = Demonic Fervor Rune\n|image = Demonic Fervor Rune.png\n|obtainment =\n• Bought for 70 [[Candy Corn]] during the [[Halloween Event 2025]]\n}}\n'''Demonic Fervor Rune''' is an event rune cosmetic that was available during the [[Halloween Event 2025]]\n\n<tabber>\n|-|Rune=\n{{CosmeticsStats\n|Name=Demonic Fervor Rune\n|Description=Equipping as a cosmetic rune replaces Luminescent Fervor with Demon Wings. Obtainable during the 2025 Halloween Event\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Demonic Fervor Rune Preview.gif|center]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Cursed Head Ignition Rune",
+    "pageid": 3607,
+    "timestamp": "2026-08-07T23:09:55Z",
+    "wikitext": "[[Category:Rune]] [[Category:Cosmetic]] [[Category:Halloween Event 2025]]\n{{Armor\n|title = Cursed Head Ignition Rune\n|image = Cursed Head Ignition Rune.png\n|obtainment =\n• [[THE HALLOW SOUL (Enemy)|The Hallow Soul]]\n}}\n'''Cursed Head Ignition Rune''' is an event rune cosmetic that was available during the [[Halloween Event 2025]]\n\n<tabber>\n|-|Rune=\n{{CosmeticsStats\n|Name=Cursed Head Ignition Rune\n|Description=HAHAHAUAUAUAU MY HEAD!!! Equipping as a cosmetic rune replaces your character head with purple flames. Obtainable during the 2025 Halloween Event\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Cursed Head Ignition Rune Preview.png|thumb|center|Cursed Head Ignition Rune Preview]]\n__NOTOC__</noinclude>"
+  },
+  {
+    "title": "Weakening Roar Rune",
+    "pageid": 1132,
+    "timestamp": "2025-11-29T08:36:58Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Weakening Roar Rune\n|image = Weakening Roar Rune.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Weakening Roar Rune''' is a rune that can be obtained through [[Crafting]]. It has a value of 25V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=14|Iron Slayer Helmet,Hex Core, Blank Rune|Iron Slayer Helmet=1|Hex Core=1|Blank Rune=1|exp=400}}\n\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Weakening Roar Rune\n|Description= Unleash a mighty roar to weaken those around you!\n|Hex Boost= +10%\n|Cooldown= 20\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>Base Damage of 10</li>\n<ul><li>1.0 '''Hex''' Damage Type</li></ul>\n<ul><li>0.7 '''Hex''' Scaling, 0.3 '''Magic''' Scaling</li></ul>\n<li>Applies 0.5 potency {{StatusEffects|Weakness}} for 15 seconds</li>\n<li>Guardbreaks</li></ul>\n</div>\n=='''Preview'''==\n[[File:Weakening Roar Rune Preview.gif|500px|border|center]]\n=='''Trivia'''==\n*'''Weakening Roar Rune''' used to be unable to proc anything\n__NOTOC__"
+  },
+  {
+    "title": "Winter Woof Mount Rune",
+    "pageid": 1133,
+    "timestamp": "2026-08-06T11:55:54Z",
+    "wikitext": "[[Category:Rune]]\n{{Armor\n|title = Winter Woof Mount Rune\n|image = Winter Woof Mount Rune.png\n|obtainment = \n• [[Crafting]]\n}}\n'''Winter Woof Mount Rune''' is a rune that can be obtained through [[Crafting]]. It has a value of 15V$.\n\n=='''Recipe'''==\nCan be obtained through [[Crafting]], using the following recipe:\n{{Crafting|lv=27|Shield Metal, Winter Woof Fur, Blank Rune|Shield Metal=5|Winter Woof Fur=50|Blank Rune=1|exp=1500}}\n=='''Stats'''==\n<tabber>\n|-|Rune=\n{{ArmorStats\n|Name = Winter Woof Mount Rune\n|Description= Cast to mount a winter woof. Your LMBs and weapon art is modified while riding.\n|Summon Boost= +10%\n|Cooldown= 10\n}}\n</tabber>\n=='''Rune Details'''==\n<div class=\"perk-Details\">\n<ul><li>M1 Base Damage: 8</li>\n<ul><li>1.0 '''Physical''' Damage Type</li>\n<li>0.5 '''Summon''' Scaling</li>\n<li>has a flat 4 HP '''heal'''</li>\n<li>Affected by attack speed stat, unaffected by attack speed related [[Perks]]</li>\n<li>Counts as a Rune Hit</li></ul>\n<li>Weapon Art Base Damage: 5.5</li>\n<ul><li>1.0 '''Physical''' Damage Type</li>\n<li>0.5 '''Summon''' Scaling</li>\n<li>Guardbreaks and applies 0.2 potency {{StatusEffects|Shatter}} for 10 seconds</li>\n<li>Sets weapon art CD to 25 seconds</li>\n<li>Does not count as a Rune Hit</li></ul></ul>\n</div>\n=='''Preview'''==\n===M1/M2===\n[[File:Winter Woof Mount M1 Preview.mp4|gif|230px|border|center]]\n===Weapon Art===\n[[File:Winter Woof Mount Rune WA Preview.mp4|gif|500px|border|center]]\n=='''Trivia'''==\n__NOTOC__"
+  },
+  {
+    "title": "Winter Star Scholar Rune",
+    "pageid": 3489,
+    "timestamp": "2026-08-07T23:10:03Z",
+    "wikitext": "[[Category:Rune]] [[Category:Cosmetic]] [[Category:Voxlmas Event 2025]]\n{{Armor\n|title = Winter Star Scholar Rune\n|image = Winter Star Scholar Rune.png\n|obtainment =\n}}\n'''Winter Star Scholar Rune''' is an event rune cosmetic that was obtained from the [[Winter Voxlmas Present]] available during the [[Voxlmas Event 2025]]\n\n<tabber>\n|-|Rune=\n{{CosmeticsStats\n|Name=Winter Star Scholar Rune\n|Description=Equipping as a cosmetic rune makes your scholar guild’s orb a bright star! Obtainable during the 2025 Voxlmas Event!\n}}\n</tabber>\n=='''Gallery'''==\n[[File:Winter Star Scholar Rune Preview.gif|center]]\n__NOTOC__</noinclude>"
+  }
+]
