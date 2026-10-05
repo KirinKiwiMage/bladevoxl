@@ -1,0 +1,383 @@
+<includeonly><templatestyles src="Template:StatusEffects/style.css"/>{{#switch:{{{1|}}}
+<!-- BUFF LIST -->
+|Bounce =
+<div class="perk-Details"><div class="ingameStatusDescription">Jump x% higher.</div>
+<ul><li>Increase jump height by 10% per 0.1 potency </li></ul></div>
+|Regen =
+<div class="perk-Details"><div class="ingameStatusDescription">Recover HP over time.</div>
+<ul><li>Base <b>Healing</b> is equal to <code>Potency</code></li>
+<li>1.0 <b>Water</b> Scaling, 1.0 <b>Holy</b> Scaling</li></ul></div>
+|Rage =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% more physical damage.</div>
+<ul><li>Increase pure <b>Physical</b> damage dealt by 10% per 0.1 potency</li></ul></div>
+|Tailwind =
+<div class="perk-Details"><div class="ingameStatusDescription">Move x% faster.</div>
+<ul><li>Increase movement speed by 10% per 0.1 potency</li></ul></div>
+|Reinforce =
+<div class="perk-Details"><div class="ingameStatusDescription">Take x% less damage.</div>
+<ul><li>Reduces damage taken by <code>100-100/(1+Potency)</code>%</li></ul></div>
+|Critical Boost =
+<div class="perk-Details"><div class="ingameStatusDescription">Next attack will crit.</div>
+<ul><li>Makes your next hit a [[Critical Hit]]</li>
+<li>Only activates on hits with Proc Coefficient</li></ul></div>
+|Whirlwind =
+<div class="perk-Details"><div class="ingameStatusDescription">Move and jump x% faster/higher, your WA/Rune comes up y% faster and you release a wind slash when you use a rune or a weapon art.</div>
+<ul><li>Increase movement speed and jump height by 6.66% per 0.1 potency</li>
+<li>Grants +30% WA/Rune cooldown reduction per 1 of the [[Whirlwind]] perk</li>
+<ul><li>Uses the <code>cooldown/(1+cooldownReduction%)</code> formula</li>
+<li>See [[Cooldowns]] for more details</li>
+<li>Cooldown Reduction is tied to [[Whirlwind]] perk amount, not status potency</li></ul>
+<li>Wind Slash mentioned in the status description is unrelated to this status, and is instead a function of the [[Whirlwind]] perk</li></ul></div>
+|Air Pressure =
+<div class="perk-Details"><div class="ingameStatusDescription">Take x% less damage and upon using a rune release an air burst.</div>
+<ul><li>Reduces damage taken by <code>100-100/(1+Potency/100)</code>%</li>
+<li>For information on the Air Burst see [[Air Pressure]]</li></ul></div>
+|Bloodlust =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain x% attack speed gain more upon hitting an opponent.</div>
+<ul><li>Increases attack speed by 2% per 0.1 potency</li>
+<li>Reduces the Proc Coefficient of attacks by an unknown amount based on status potency</li>
+<li>Hitting enemies while this buff is active will increase the potency of this status effect up to a limit depending on your [[Blood Lust]] perk amount</li></ul></div>
+|King's Luck =
+<div class="perk-Details"><div class="ingameStatusDescription">Dramatically increase the chance of many chance based combat effects. Additionally grant a chance to dodge attacks and crit on any attack.</div>
+<ul><li>Grants a 20% chance to Dodge or Critically Hit</li>
+<ul><li>These increases are separate from other dodge chance and critical chance sources, and are a separate roll</li>
+<li>Critical Chance from this status cannot be negatively affected by Proc Coefficient, but can be positively affected</li></ul>
+<li>Gives the equivalent of +2 [[Lucky]]</li>
+<li>[[Ruler Of The Sands]] is guaranteed to activate while this status is active</li></ul></div>
+|Minion Absorbed =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% more damage</div>
+<ul><li>Increase damage dealt by 10% per 0.1 potency</li></ul></div>
+|Draconic Infusion =
+<div class="perk-Details"><div class="ingameStatusDescription">Apply a x damage type depending on your draconic element on all your attacks.</div>
+<ul><li>Attacks gain 0.1 damage type of your draconic element per 0.1 potency</li>
+<ul><li>Gain additional effects based on your draconic element</li>
+<li>Damage type and additional effects do not apply to attacks without Proc Coefficient</li></ul>
+<li>See [[Draconic Blood#Dragon Infusion|Draconic Blood]] for more details</li></ul></div>
+|Glyph Conduit =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% more magic damage.</div>
+<ul><li>Increase pure <b>Magic</b> damage dealt by 20% per 0.1 potency</li></ul></div>
+|Magic Reinforce =
+<div class="perk-Details"><div class="ingameStatusDescription">Take x% less damage and gain y flat reduction to magic damage.</div>
+<ul><li>Reduces damage taken by <code>100-100/(1+Potency/2.5)</code>%</li>
+<li>Reduces magic damage taken by 0.3 per 0.1 potency</li>
+<ul><li>Magic damage refers to any magical damage type, not just pure <b>Magic</b></li></ul></ul></div>
+|Autoparry =
+<div class="perk-Details"><div class="ingameStatusDescription">Autoparry any attack that hits you.</div>
+<ul><li>Autoparry activates the [[Parry]] effect on blocked hits and consumes one potency</li></ul></div>
+|Inspired =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% more damage.</div>
+<ul><li>Increase damage dealt by 7.5% per 0.1 potency</li></ul></div>
+|Lithic Veil =
+<div class="perk-Details"><div class="ingameStatusDescription">Take x less seconds of stun and gain y flat damage reduction to physical damage.</div>
+<ul><li>Reduce stun taken by 0.4 seconds per 0.1 potency</li>
+<li>Reduce physical damage taken by 0.25 per 0.1 potency</li>
+<ul><li>Physical damage refers to any physical damage type, not just pure <b>Physical</b></li></ul></ul></div>
+|Luminescent =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% of your damage as bonus holy damage that counts as the applier's damage</div>
+<ul><li>Deal 5% of damage dealt as bonus <b>Holy</b> damage per 0.1 potency</li></ul></div>
+|Rotted =
+<div class="perk-Details"><div class="ingameStatusDescription">Apply poison of x Potency on hit.</div>
+<ul><li>Apply Poison on hit</li>
+<ul><li>Only works on hits with Proc Coefficient</li>
+<li>Counts as the appliers Poison</li>
+<li>Potency of applied Poison is unrelated to this statuses potency despite the status description</li></ul></ul></div>
+|Queens Power =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain x% attack speed and gain y summon scaling on your weapon.</div>
+<ul><li>Increases attack speed by 20% + 10% per 0.1 potency</li>
+<li><b>Summon</b> scaling is equal to 0.2 per 0.1 potency</li>
+<ul><li>Only applies to M1s/M2s</li>
+<li>Summon Scaling provided by this status is a separate damage boost from [[Damage Type and Scalings#Damage_Scaling|Weapon Scaling]]</li></ul></ul></div>
+|Converted Energy =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% more damage.</div>
+<ul><li>Increases damage dealt by 10% per 0.1 potency</li></ul></div>
+|Star Mode =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain x% attack speed.</div>
+<ul><li>Increases attack speed by 20% + 25% per 0.1 potency</li></ul></div>
+|Friendship =
+<div class="perk-Details"><div class="ingameStatusDescription">Your next WA comes up x% faster.</div>
+<ul><li>Grants +50% Weapon Art cooldown reduction per 0.1 potency</li>
+<ul><li>Uses the <code>cooldown/(1+cooldownReduction%)</code> formula</li>
+<li>See [[Cooldowns]] for more details</li></ul>
+<li>Heals for <code>3 + 1.5 per 0.1 potency</code> HP on weapon art use</li>
+<ul><li>1.0 <b>Holy</b> Scaling</li>
+<ul><li>Uses the <b>Holy</b> Boost of the player that has the status effect to calculate its heal rather than its applier</li></ul>
+<li>Can proc healing related effects</li></ul></ul></div>
+|Voltaic Body =
+<div class="perk-Details"><div class="ingameStatusDescription">Cause lightning to strike your opponent when you hit them with a rune. Deals less damage the more hits done within a 3 second period.</div>
+<ul><li>Indicator for [[Voltaic Body]]</li></ul></div>
+|Autoblock =
+<div class="perk-Details"><div class="ingameStatusDescription">Automatically block any hit.</div></div>
+|Sun Blessed =
+<div class="perk-Details"><div class="ingameStatusDescription">You count as if you are in sunlight.</div>
+<ul><li>Activates sunlight based perks and effects</li></ul></div>
+|Lightning Cloak =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain 20% movement speed and apply chain lightning on your hits.</div>
+<ul><li>Increases movement speed by 20%</li>
+<li>Chain Lightning deals damage equal to <code>1/3</code> of the original attacks damage to the initial target, and enemies it chains to</li>
+<ul><li>0.5 <b>Air</b> Damage Type, 0.5 <b>Magic</b> Damage Type</li>
+<li>Damage dealt by this effect is unaffected by Level Bonus Multiplier and Damage Bonus multiplier, but can indirectly benefit from those effects by inheriting increased damage from the original hit</li>
+<li>Damage dealt by this effect does not take into account the Damage Type or post-Damage Type Multipliers of the attack that activated this perk, but can benefit from damage type bonuses and post-Damage Type Multipliers itself</li>
+<ul><li>See [[Damage Calculation]] for more information</li></ul>
+<li>Chains prioritize the furthest target within its range, and can only chain to each target once</li>
+<ul><li>Chains are capable of chaining to the original target</li></ul>
+<li>Only one instance of chain lightning is triggered per attack, regardless of how many targets were hit</li>
+<li>Can chain to up to 4 additional targets</li>
+<li>Has a 130% chance to activate, and can be reduced by the proc coefficient of the attack</li></ul></ul></div>
+|Oceanic Blade =
+<div class="perk-Details"><div class="ingameStatusDescription">Heal allies hit for x% of your weapon base damage on m1/m2 and gain y water scaling on your weapon.</div>
+<ul><li><b>Heal</b> allies for 3.5% of weapon attack base damage per 0.1 potency</li>
+<ul><li><b>Healing</b> has 1.0 <b>Water</b> Scaling</li></ul>
+<li><b>Water</b> scaling is equal to 0.15 per 0.1 potency</li>
+<ul><li>Only applies to M1s/M2s</li>
+<li>Water Scaling provided by this status is a separate damage boost from [[Damage Type and Scalings#Damage_Scaling|Weapon Scaling]]</li></ul></ul></div>
+|Flash Strike =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain x% attack speed.</div>
+<ul><li>Increases attack speed by 75% per 0.1 potency</li></ul></div>
+|Bursting =
+<div class="perk-Details"><div class="ingameStatusDescription">Doubles bombadier proc chance.</div>
+<ul><li>Doubles [[Bombardier]]'s proc chance from 40% to 80%</li></ul></div>
+|Cinder Surge =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain an additional x fire damage type on your attacks.</div>
+<ul><li>Attacks gain 0.05 <b>Fire</b> damage type per 0.1 potency</li></ul></div>
+|Hexigen =
+<div class="perk-Details"><div class="ingameStatusDescription">Rage increases hex based on your rage boost.</div>
+<ul><li>Rage also applies to <b>Hex</b> damage while you have this status</li></ul></div>
+|Drone Armor =
+<div class="perk-Details"><div class="ingameStatusDescription">Increase shield max by x</div>
+<ul><li>Gain maximum shield equal to <code>Potency</code></li></ul></div>
+|Jetstream =
+<div class="perk-Details"><div class="ingameStatusDescription">Move x% faster and become less impacted by slowdown effects of moves. Inflict yourself with slow when this ends.</div>
+<ul><li>Increases movement speed by 50% per 0.1 potency</li>
+<li>Reduces impact from slowown effects, see [[Untethered]] for more information</li></ul></div>
+|Enchanted Sword =
+<div class="perk-Details"><div class="ingameStatusDescription">Your m1/m2 temporarily has a chance to count as rune damage but reduce damage. Also gain attack speed based on rune CD</div>
+<ul><li>Gain a 75% chance for M1/M2 damage to also count as rune damage and proc related effects
+<li>Reduce M1/M2 damage dealt by 25%</li>
+<ul><li>Increase attack speed based on Rune Cooldown Reduction</li></ul></div>
+|Directive =
+<div class="perk-Details"><div class="ingameStatusDescription">???</div>
+<ul><li>Increase damage dealt by 10% per 0.1 potency</li></div>
+|Cloudpush =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% of your damage as bonus air damage that counts as the applier's damage</div>
+<ul><li>Deal 7.5% of damage dealt as bonus <b>Air</b> damage per 0.1 potency</li></ul></div>
+|Cinderpull =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% of your damage as bonus fire damage that counts as the applier's damage</div>
+<ul><li>Deal 7.5% of damage dealt as bonus <b>Fire</b> damage per 0.1 potency</li></ul></div>
+|Exhaust =
+<div class="perk-Details"><div class="ingameStatusDescription">All hits apply burn.</div>
+<ul><li>Apply Burn on hit</li>
+<ul><li>Only works on hits with Proc Coefficient</li></ul></div>
+|Perfection =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% more damage, gain y% crit chance and damage, and z% movement speed.</div>
+<ul><li>Increases damage dealt by 2% per 1 potency</li>
+<li>Increases Critical Chance and Critical Damage by 1% per 1 potency</li>
+<li>Increases movement speed by 3% per 1 potency</li>
+<li>Despite what the in-game status description displays, Perfection grants 2% damage bonuse per 1 potency <b style="color:red;">not</b> 1.5%</li></ul></div>
+|Cragblade =
+<div class="perk-Details"><div class="ingameStatusDescription">Your weapon counts as weapon art damage, has static attack speed, and deals 30% more damage and 100% more poise damage.</div>
+<ul><li><b>M1</b> and <b>M2</b> damage now also counts as <b>Weapon Art</b> damage</li>
+<li>Increases damage dealt by <b>M1s</b> and <b>M2s</b> by 30%</li>
+<li>Increases poise damage dealt by <b>M1s</b> and <b>M2s</b> by 100%</li>
+<li>Sets the users attack speed multiplier to ~0.75 and disables all attack speed increases and decreases</li>
+<ul><li>See [[Attack Speed]] for more details</li></ul>
+<li>While active it converts the following weapon types into different weapon types:</li>
+<ul><li>Dagger, 1h Sword -> Mallet</li>
+<li>Spear -> Warhammer</li>
+<li>Greatsword -> Unbalanced Sword</li>
+<li>Dual Swords -> Dual Unbalanced Swords</li>
+<li>Dual Daggers -> Dual Mallets</li>
+<li>Lance -> Unbalanced Sword (retains its M2</li></ul>
+<li>Any unlisted weapon type is either unobtainble when trying to meet the WA requirements, or remains the same</li></ul>
+<li></div>
+<!-- DEBUFF LIST -->
+|Burn =
+<div class="perk-Details"><div class="ingameStatusDescription">Take fire damage overtime.</div>
+<ul><li>Deals <b>Fire</b> damage once per second</li>
+<li>When inflicted by a player, Base Damage is equal to <code>1.75 * (1 + potency/1.1)</code></li>
+<ul><li>1.5 <b>Fire</b> Scaling</li></ul>
+<li>When inflicted by any source other than a player, Base Damage is equal to <code>???</code></li></ul></div>
+|Bleed =
+<div class="perk-Details"><div class="ingameStatusDescription">Take physical damage over time.</div>
+<ul><li>Deals <b>Physical</b> damage once per second</li>
+<li>When inflicted by a player, Base Damage is equal to <code>1.75 * (1 + potency/1.1)</code></li>
+<ul><li>1.0 <b>Physical</b> Scaling, 1.0 <b>Dexterity</b> Scaling</li></ul>
+<li>When inflicted by any source other than a player, Base Damage is equal to <code>???</code></li></ul></div>
+|Poison =
+<div class="perk-Details"><div class="ingameStatusDescription">Take Hex Damage over time.</div>
+<ul><li>Deals <b>Hex</b> damage once per second</li>
+<li>When inflicted by a player, Base Damage is equal to <code>1.75 * (1 + potency/1.1)</code></li>
+<ul><li>1.0 <b>Hex</b> Scaling, 1.0 <b>Earth</b> Scaling</li></ul>
+<li>When inflicted by any source other than a player, Base Damage is equal to <code>???</code></li></ul></div>
+|Shatter =
+<div class="perk-Details"><div class="ingameStatusDescription">Lose x Armor.</div>
+<ul><li>Decreases armor by 10 per 0.1 potency</li>
+<ul><li>See [[Armor Penetration]] for more details</li></ul></ul></div>
+|Slowness =
+<div class="perk-Details"><div class="ingameStatusDescription">Move x% slower.</div>
+<ul><li>Decreases movement speed by 10% per 0.1 potency</li>
+<ul><li>Uses the <code>movementSpeed/(1+Potency)</code> formula</li></ul></ul></div>
+|Weakness =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% less damage.</div>
+<ul><li>Reduces damage dealt by <code>100-100/(1+Potency)</code>%</li></ul></div>
+|Taunt =
+<div class="perk-Details"><div class="ingameStatusDescription">If applied to an npc they are unable to focus anyone but the person who applied it.</div>
+<ul><li>Enemies with this debuff will only target whoever applied it</li></div>
+|Sticky =
+<div class="perk-Details"><div class="ingameStatusDescription">Move x% slower and take 20% more magic damage.</div>
+<ul><li>Decreases movement speed by 10% per 0.1 potency</li>
+<ul><li>Uses the <code>movementSpeed/(1+Potency)</code> formula</li></ul>
+<li>Increases pure <b>Magic</b> damage taken by 20% regardless of potency</li></ul></div>
+|Despair =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% more damage</div>
+<ul><li>Increases damage dealt by 8.5% per 0.1 potency</li></ul></div>
+|Frostbite =
+<div class="perk-Details"><div class="ingameStatusDescription">Take 10% more water and air damage.</div>
+<ul><li>Decreases movement speed by 10% per 0.1 potency</li>
+<ul><li>Uses the <code>movementSpeed/(1+Potency)</code> formula</li></ul>
+<li>Increases <b>Water</b> and <b>Air</b> damage taken by 10% regardless of potency</li></ul></div>
+|Hypnotized =
+<div class="perk-Details"><div class="ingameStatusDescription">???</div>
+<ul><li>Decreases magic armor by 5 per 0.1 potency</li>
+<ul><li>Magic armor includes all magical damage types</li>
+<li>See [[Armor Penetration]] for more details</li></ul>
+<li>Hypnotized enemies cannot target the applier unless the applier is the only valid target</li></ul></div>
+|Electrical Rend =
+<div class="perk-Details"><div class="ingameStatusDescription">Take x% more stun and lose y armor</div>
+<ul><li>Increases stun taken by 10% per 0.1 potency</li>
+<li>Decreases armor by 10 per 0.1 potency</li>
+<ul><li>See [[Armor Penetration]] for more details</li></ul></ul></div>
+|Wound =
+<div class="perk-Details"><div class="ingameStatusDescription">Grant bleed x seconds of stun and addsy% true damage to bleed.</div>
+<ul><li>Bleed gains 0.1 additional <b>True</b> damage type per 0.1 potency</li>
+<li>Bleed deals 0.05 seconds of stun per 0.1 potency</li></ul></div>
+|Ghastly Rot =
+<div class="perk-Details"><div class="ingameStatusDescription">Have a chance to get poisoned when hit.</div>
+<ul><li>When hit have a chance to be inflicted with Poison</li></ul></div>
+|Possession =
+<div class="perk-Details"><div class="ingameStatusDescription">???</div>
+<ul><li>Marks target for [[Possession]]</li></ul></div>
+|Runic Blades =
+<div class="perk-Details"><div class="ingameStatusDescription">???</div>
+<ul><li>Marks target for [[Runic Blades]]</li></ul></div>
+|Void Contract =
+<div class="perk-Details"><div class="ingameStatusDescription">???</div>
+<ul><li>Increases damage taken by 30% per 1 of the [[Void Contract]] perk</li></ul></div>
+|Anti Heal =
+<div class="perk-Details"><div class="ingameStatusDescription">Reduce healing by x%.</div>
+<ul><li>Reduces healing by <code>100-100/(1+Potency)</code></li></ul></div>
+|Snarled =
+<div class="perk-Details"><div class="ingameStatusDescription">???</div>
+<ul><li>Damage taken heals enemies by 0.5% of damage dealt as lifesteal per 0.1 potency, and 0.1 flat HP</li>
+<ul><li>Healing does not consider Damage Boosting perks or effects</li></ul></ul></div>
+|Runic Glass =
+<div class="perk-Details"><div class="ingameStatusDescription">???</div>
+<ul><li>Deals 1.5 base damage as rune damage per second</li>
+<ul><li>1.0 Damage Type of highest weapon damage type</li>
+<li>1.0 Scaling of highest weapon damage type</li>
+<li>Counts as rune damage</li>
+<li>Can proc other effects</li></ul></ul></div>
+|Terror =
+<div class="perk-Details"><div class="ingameStatusDescription">Leaving the Hallow Arena will cause you to take heavy DoT.</div>
+<ul><li>Deals 8.25 <b>Fire</b> and <b>True</b> damage to players who leave the arena</li></ul></div>
+|Heavy Gravity=
+<div class="perk-Details"><div class="ingameStatusDescription">???</div>
+<ul><li>Decreases movement speed by 10% per 0.1 potency</li>
+<ul><li>Uses the <code>movementSpeed/(1+Potency)</code> formula</li></ul></ul></div>
+<!-- NEUTRAL LIST -->
+|Anti-Venom =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain immunity to hex damage and increase movement speed by 20%.</div>
+<ul><li>Reduces <b>Hex</b> damage taken by 90%</li>
+<li>Increases movement speed by 20%</li>
+<li>Increases Poison duration by 50%</li></ul></div>
+|Channeled Depths =
+<div class="perk-Details"><div class="ingameStatusDescription">Slowly gain potency and above 0.2 any attack will add a lot of water damage type</div>
+<ul><li>While at the maximum potency, your next attack gains <b>Water</b> Damage Type depending on the potency of the status effect, then consumes the status effect</li>
+<ul><li>0.5 additional <b>Water</b> Damage Type per 0.1 potency</li>
+<li>Maximum Potency is equal to <code>0.1 + 0.1 * [[Channeled Depths|ChanneledDepthsPerkAmount]]</code></ul>
+<li>The in-game status description is outdated, and does not reflect the actual behavior of the status</li></ul></div>
+|Tentacle Strain =
+<div class="perk-Details"><div class="ingameStatusDescription">You take x more true damage type from all sources.</div>
+<ul><li>Adds 0.05 <b>True</b> Damage Type to all damage taken per 1 potency</li></ul></div>
+|Spiritual Energy =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain spiritual energy on M1/M2.</div>
+<ul><li>Resource used to activate [[Spirit Commune|Monk Spirits]]</li></ul></div>
+|Quickdraw =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% more damage with your weapon arts and runes.</div>
+<ul><li>Increases damage dealt by [[Weapon Arts]] and [[Equipment#tabber-Runes|Runes]] by 30% per 0.1 potency</li></ul></div>
+|Hex Shield =
+<div class="perk-Details"><div class="ingameStatusDescription">Block the next debuff you recieve and heal</div>
+<ul><li>Negates one debuff per 1 potency</li>
+<li>Upon activation grant Converted Energy, and gain debuff immunity for 1 second</li>
+<li><b>Healing</b> is based on [[Hex Shield]] perk amount</li></ul></div>
+|Torpedos =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain Torpedos on M1/M2.</div>
+<ul><li>Resource for [[Torpedo Barrage]]</li></ul></div>
+|Vital Mist =
+<div class="perk-Details"><div class="ingameStatusDescription">Slowly drains to heal people around yourself.</div>
+<ul><li>Resource for [[Vital Mist]]</li></ul></div>
+|Redirect =
+<div class="perk-Details"><div class="ingameStatusDescription">Redirect x% of damage taken to [PlayerName]</div>
+<ul><li>Redirects 10% of damage taken per 0.1 potency to the applier of this status</li></ul></div>
+|Heating =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain immunity from getting cold.</div>
+<ul><li>No longer become cold in cold biomes</li></ul></div>
+|Cooling =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain immunity from getting hot.</div>
+<ul><li>No longer become hot in hot biomes</li></ul></div>
+|Focus =
+<div class="perk-Details"><div class="ingameStatusDescription">Dodge and retaliate to any close range attack with a quick jab.</div>
+<ul><li>Automatically dodge attacks and retaliate with a punch</li></ul></div>
+|Tongue Shot =
+<div class="perk-Details"><div class="ingameStatusDescription">Next finisher will shoot out a tongue that roots the nearest enemy.</div>
+<ul><li>Indicator for [[Bounce Momentum]]</li></ul></div>
+|Stored Sporelings =
+<div class="perk-Details"><div class="ingameStatusDescription">Throw out x Sporelings when you RMB.</div>
+<ul><li>Resource for [[Spore Trooper]]</li>
+<li>Stores 1 [[Sporeling (Enemy)|Sporeling]] per 1 potency</li></ul></div>
+|Ancient Shield =
+<div class="perk-Details"><div class="ingameStatusDescription">Increase shield max by x</div>
+<ul><li>Gain maximum shield equal to <code>Potency</code></li></ul></div>
+|Beenades =
+<div class="perk-Details"><div class="ingameStatusDescription">Throw an additional x Beenades.</div>
+<ul><li>Indicator for [[Bomber Satchel]]</li>
+<li>[[Beenade Rune]] will throw an additional 1 Beenade per 1 potency on use</li></ul></div>
+|Gathering Tide =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain potency over time at 100 stacks allow yourself to either release an empowered M2 or Weapon Art</div>
+<ul><li>Resource for [[Wave Rider]]</li></ul></div>
+|Ice Shell =
+<div class="perk-Details"><div class="ingameStatusDescription">Increase shield max by 50, boost shield recovery rate by 30% and grant immunity to slowing effects.</div></div>
+|Last Croak =
+<div class="perk-Details"><div class="ingameStatusDescription">RMB to consume stacks and release a explosive hit that deals damage in a large aoe. Strength scales on the stacks.</div>
+<ul><li>Resource for [[Vassals Croak]]</li></ul></div>
+|Steam Buildup =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain stacks upon applying burn and at max allow yourself to shoot a steam blast with RMB.</div>
+<ul><li>Resource for [[Steam Charge]]</li></ul></div>
+|Fragrance =
+<div class="perk-Details"><div class="ingameStatusDescription">Give regen to allies and, deal water damage and inflict poison around yourself.</div>
+<ul><li>Indicator for [[Fragrance Aura]]</li></ul></div>
+|Electro Shield =
+<div class="perk-Details"><div class="ingameStatusDescription">Autoparry anything that hits you and shock them in retaliation. Consumed when hit.</div>
+<ul><li>Automatically parry incoming attacks while you have this status</li>
+<ul><li>Status is consumed on activation</li></ul></ul></div>
+|Future Glimpse =
+<div class="perk-Details"><div class="ingameStatusDescription">Dodge next hit.</div></div>
+|Sweating =
+<div class="perk-Details"><div class="ingameStatusDescription">Take x% more damage</div>
+<ul><li>Increase damage taken by up to 70% based on temperature</li></ul></div>
+|Cold =
+<div class="perk-Details"><div class="ingameStatusDescription">Deal x% less damage</div>
+<ul><li>Decrease damage dealt by up to 25% based on temperature</li></ul></div>
+|Overheating =
+<div class="perk-Details"><div class="ingameStatusDescription">Lose 2% of your current HP per second as half true damage and half fire damage if your above 10% HP</div>
+<ul><li>Take 2% of your maximum HP as <b>Fire</b> and <b>True</b> damage per second if you are above 10% HP</li></ul></div>
+|Freezing =
+<div class="perk-Details"><div class="ingameStatusDescription">Lose 2% of your current HP per second as half true damage and half air damage if your above 10% HP</div>
+<ul><li>Take 2% of your maximum HP as <b>Air</b> and <b>True</b> damage per second if you are above 10% HP</li></ul></div>
+|Arrows =
+<div class="perk-Details"><div class="ingameStatusDescription">Gain Arrows after not shooting them for a while</div>
+<ul><li>Resource used for [[Bastion Ballista]]</li></ul></div>
+|Ice Crystals =
+<div class="perk-Details"><div class="ingameStatusDescription">???</div>
+<ul><li>Resource used for [[Glacial Buildup]]</li></ul></div>
+}}</includeonly><noinclude>
+</noinclude>
