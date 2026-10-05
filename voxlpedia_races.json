@@ -1,0 +1,224 @@
+==Description==
+[[Category:Race]]
+'''Races''' are a part of character creation in [[:Voxlblade Wiki|Voxlblade]] each providing bonuses to your character.
+
+While most races start automatically unlocked at character creation, some are only available via gamepass, or unlocked through in-game achievements.
+
+After creating a character, you are only able to change your race using the [[Lost_Shrine#tabber-Shrine_of_Change|Shrine of Change]].
+
+==List of Races==
+<tabber>
+|-|Human=
+{{Race
+|Race Name = HUMAN
+|Image = Human1.png,
+Human2.png,
+Human3.png,
+Human4.png,
+Human5.png,
+Human6.png
+|Race Description =Humans are the most common race, generally seen as weak by others. However, their strong will as well as their desire for money and prestige keeps them alive.
+|Race Passive = Gain 20% damage reduction and 20% damage boost when below 50% hp.
+}}
+==Passive Details==
+<div class="raceDetails">
+<p>When below 50% HP, gain a 20% damage boost, and 20% damage reduction.</p>
+<p>The provided damage reduction does not have diminishing returns and directly applies a multiplier of x0.8 to all incoming damage.</p>
+</div>
+
+|-|Half-Ork=
+{{Race
+|Race Name = HALF-ORK
+|Image = Half Ork1.png,
+Half Ork2.png,
+Half Ork3.png,
+Half Ork4.png,
+Half Ork5.png,
+Half Ork6.png
+|Race Description = Half-Orks are known to be ill tempered and renowned for their strength. Many have since learned their manners nowadays.
+|Race Passive = Gain 10 armor penetration on all attacks.
+}}
+==Passive Details==
+<div class="raceDetails">
+<p>Gain +10 [[Armor Penetration]] on all attacks.</p>
+</div>
+
+|-|Elf=
+{{Race
+|Race Name = ELF
+|Image = Elf1.png,
+Elf2.png,
+Elf3.png,
+Elf4.png,
+Elf5.png,
+Elf6.png
+|Race Description = Elves are the royalty and high class, they make up a small percentage of the population. Known widely for their magical prowess
+|Race Passive = Gain 40% rune cooldown reduction.
+}}
+==Passive Details==
+<div class="raceDetails">
+<p>Reduces the cooldown of [[Runes]] by 40%</p>
+<p>The provided cooldown reduction does not have diminishing returns and directly applies a multiplier of x0.6 to rune cooldowns.</p>
+</div>
+
+|-|Dark Elf=
+{{Race
+|Race Name = DARK ELF
+|Image = Dark Elf1.png,
+Dark Elf2.png,
+Dark Elf3.png,
+Dark Elf4.png,
+Dark Elf5.png,
+Dark Elf6.png
+|Race Description = Dark Elf origins are shrowded in mystery. However some believe an elf was charged with hex energy and when he had his kids, they too had hex energy within them.
+|Race Passive = An 8% chance to apply a random debuff to the opponent when hitting them.
+}}
+==Passive Details==
+<div class="raceDetails">
+<p>Gain an 8% chance to randomly apply one of the following debuffs:</p>
+<ul>
+<li>{{StatusEffects|Shatter}} (0.2 potency)</li>
+<li>{{StatusEffects|Bleed}}</li>
+<li>{{StatusEffects|Burn}}</li>
+<li>{{StatusEffects|Poison}}</li>
+<li>{{StatusEffects|Slowness}} (0.2 potency)</li>
+<li>{{StatusEffects|Weakness}} (0.5 potency)</li>
+</ul>
+</div>
+
+|-|Dragon Blooded=
+{{Race
+|Race Name = DRAGON BLOODED
+|Image = Dragon Blooded1.png,
+Dragon Blooded2.png,
+Dragon Blooded3.png,
+Dragon Blooded4.png,
+Dragon Blooded5.png,
+Dragon Blooded6.png
+|Race Description = The Dragon-Blooded are descendents of the ancient race known as Dracos. They possess incredible power but the draco blood within them gets weaker through every generation.
+|Race Passive = Gain 30% Warding and 10 Protection alongside 100% Heat and Cold Resistance.
+}}
+==Passive Details==
+<div class="raceDetails">
+<p>Gain 50% Warding and 10 Protection alongside 100% Heat and Cold Resistance.</p>
+<p>The description still says 30% Warding despite giving 50%.</p>
+</div>
+
+==Additional Notes==
+This race is the only one with the ability to join the [[Draconic|Draconic Guild]], however it is possible to use the [[Lost_Shrine#tabber-Shrine_of_Change|Shrine of Change]] to become any other race after joining the guild.
+*(1) Red is <b style="color: rgb(255, 88, 5);">Fire</b>
+*(2) White is <b style="color: rgb(255, 255, 255);">Air</b>
+*(3) Green is <b style="color: rgb(132, 89, 54);">Earth</b>
+*(4) Blue is <b style="color: rgb(73, 128, 255);">Water</b>
+*(5) Yellow is <b style="color: rgb(238, 255, 46);">Holy</b>
+*(6) Purple is <b style="color: rgb(123, 8, 255);">Hex</b>
+
+|-|Ork=
+{{Race
+|Race Name = ORK
+|Image = Ork1.png,
+Ork2.png,
+Ork3.png,
+Ork4.png,
+Ork5.png,
+Ork6.png
+|Race Description = Orks are a very secluded race consisted of only the strong. Many Orks are viewed as impulsive and are disliked by many.
+|Race Passive = Weapon arts gain 10 armor penetration. +0.2 Tenacity and for each active buff you gain an additional +0.1 tenacity.
+}}
+==Passive Details==
+<div class="raceDetails">
+<p>Provides +10 [[Armor Penetration]] to weapon arts, and +0.2 Tenacity, with an additional +0.1 Tenacity per active [[Status_Effects#Buffs|Buff]].</p>
+</div>
+
+==Additional Notes==
+Unlocked via the [https://www.roblox.com/game-pass/36304796/Ork Ork gamepass] for 50 robux.
+
+|-|High Elf=
+{{Race
+|Race Name = HIGH ELF
+|Image = High Elf1.png,
+High Elf2.png,
+High Elf3.png,
+High Elf4.png,
+High Elf5.png,
+High Elf6.png
+|Race Description = The High Elves are consisted of the upper echelon of the elven tribes, They are known to be rude and respect only those who are the same status. Known widely for their vast knowledge.
+|Race Passive = Gain 25% Weapon Art cooldown reduction.
+}}
+==Passive Details==
+<div class="raceDetails">
+<p>Reduces the cooldown of [[Weapon Arts]] by 25%.</p>
+<p>The provided cooldown reduction does not have diminishing returns and directly applies a multiplier of x0.75 to weapon art cooldowns.</p>
+</div>
+
+==Additional Notes==
+Unlocked via the [https://www.roblox.com/game-pass/36304752/High-Elf High Elf gamepass] for 50 robux.
+
+|-|Arborian=
+{{Race
+|Race Name = ARBORIAN
+|Image = Arborian1.png,
+Arborian2.png,
+Arborian3.png,
+Arborian4.png,
+Arborian5.png,
+Arborian6.png
+|Race Description = The Arborians are druidic in nature. They are trees made of tough bark and use their power to protect all life
+|Race Passive = -50% Fire Defense, +15 Protection, passive regen that is boosted in the sun, and a chance to entangle foes on hit.
+}}
+==Passive Details==
+<div class="raceDetails">
+<p>Healing whilst in sun is 0.41% per second.</p>
+<p>Attacks have a 5% chance to entangle enemies for 1 second, which deals 2 earth damage, 50 poise damage and prevents the enemy from attacking or moving.</p>
+<p>Entangle damage does not scale with level but scales with any other damage boost or debuff.</p>
+<p>You can still regenerate in the darkness, but at a reduced rate.</p>
+<p>Being [[Vampire]] will cause you to regenerate in the darkness at the full rate, but regenerate in the sunlight at a reduced rate.</p>
+</div>
+
+==Additional Notes==
+Unlocked via the [https://www.roblox.com/game-pass/36304725/Arborian Arborian gamepass] for 50 robux.
+
+You cannot join [[Vampire]] as an Arborian, however it is possible to be a '''Vampire''' and '''Arborian''' at the same time using the [[Lost_Shrine#tabber-Shrine_of_Change|Shrine of Change]] to become an Arborian after joining the guild.
+
+|-|Kitsune=
+{{Race
+|Race Name = KITSUNE
+|Image = Kitsune1.png,
+Kitsune2.png,
+Kitsune3.png,
+Kitsune4.png,
+Kitsune5.png,
+Kitsune6.png
+|Race Description = The Kitsune are a nomadic race travelling alone or in packs rarely staying in one place to long. They posess incredible speed and reflex and are not often caught by surprise.
+|Race Passive = Gain +2 Jump Boost and 10% Movement Speed and +0.1 to your attack speed.
+}}
+==Passive Details==
+<div class="raceDetails">
+<p>Gain +2 Jump Boost and 10% Movement Speed and +0.1 to your weapon attack speed.</p>
+<p>The attack speed bonus is additive to your weapons innate attack speed.</p>
+</div>
+
+==Additional Notes==
+Unlocked via the [https://www.roblox.com/game-pass/36304859/Kitsune Kitsune gamepass] for 50 robux.
+
+|-|Bunikin=
+{{Race
+|Race Name = BUNIKIN
+|Image = Bunikin1.png,
+Bunikin2.png,
+Bunikin3.png,
+Bunikin4.png,
+Bunikin5.png,
+Bunikin6.png
+|Race Description = The mysterious bunikin are being of mystical whimsy and are rarely seen anywhere in the world
+|Race Passive = Gain +5 Jump Boost and Gain dodge chance based on Jump Boost, when you dodge with the passive you gain a 100% chance to crit for one attack.
+}}
+==Passive Details==
+<div class="raceDetails">
+<p>The passive dodge chance is not affected by [[Lucky]] perk.</p>
+<div>Grants the {{StatusEffects|Critical Boost}} status for 10 seconds upon successful dodge. Despite what the passive description says the dodge does not have to come from the passive to activate this effect.</div>
+</div>
+
+==Additional Notes==
+Unlocked by defeating the [[Buni Prince (Enemy)|Buni Prince]].
+</tabber>
