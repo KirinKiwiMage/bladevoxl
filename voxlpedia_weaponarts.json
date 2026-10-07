@@ -1,0 +1,1276 @@
+<includeonly>
+{{#switch:{{{1|}}}
+|Lunge={{WeaponArtInfobox
+|Name=Lunge
+|Description=Lunge forwards with your sword!
+|Stats=<nowiki/>
+*'''Cooldown:''' 12 Seconds
+*'''Base Damage:''' 3.6 * 10 Hits
+*'''Damage Type(s):''' Same as weapon
+*'''Scaling:''' Same as weapon
+====Requirements====
+*Available on any weapon, except for gloves and shields from [[Monk]]
+====Additional Notes====
+*Has a proc coefficient of 0.7
+*Modified by [[Heat Drill]]
+|Preview  = LungePreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 3.2 -> 3.6
+ver. ??? (12/08/2024)
+*Increased '''Lunge''' damage by 100%
+ver. ??? (11/01/2024)
+*Reduced '''Lunge''' cooldown from 20 to 12
+*Buffed '''Lunge''' Proc coefficient from 0.5 to 0.7
+}}
+|Spin={{WeaponArtInfobox
+|Name=Spin
+|Description=Spin with your weapon to quickly chop up the opponent!
+|Stats=<nowiki/>
+*'''Cooldown:''' 10 Seconds
+*'''Base Damage:''' 3.5 * 5 Hits + 17.5
+*'''Damage Type(s):''' Same as weapon
+*'''Scaling:''' Same as weapon
+====Requirements====
+*Two Handed Sword, Greatsword, or Unbalanced Sword Weapon Type.
+====Additional Notes====
+*Final hit guardbreaks
+*Modified by [[Guardian Spin]]
+|Preview  = SpinPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 2.7x5 + 13 -> 3.5x5 + 17.5
+ver. ??? (12/08/2024)
+*Increased '''Spin''' damage by 50%
+ver. ??? (11/01/2024)
+*Reduced '''Spin''' cooldown from  12 to 10
+*Buffed '''Spin''' damage from  14 to 18
+ver. ??? (02/10/2024)
+*Removed the stat requirement for '''Spin''' weapon art
+*Unbalanced Swords can now use '''Spin'''
+ver. ??? (10/29/2023)
+*Buffed '''Spin''' damage and made the last hit guard break
+}}
+|Rapid Stabs={{WeaponArtInfobox
+|Name=Rapid Stabs
+|Description=Preform three fast stabs that deal low damage and reset your M1 combo!
+|Stats=<nowiki/>
+*'''Cooldown:''' 10 Seconds
+*'''Base Damage:''' 12 * 3 Hits
+*'''Damage Type(s):''' Same as weapon
+*'''Scaling:''' Same as weapon
+====Requirements====
+*Dagger, Rapier, or Spear Weapon Type
+*No Requirements For Dagger
+*0.5 Dexterity Scaling (Spear, Rapier)
+====Additional Notes====
+*Each hit counts as an individual RMB Finisher and will proc all related effects.
+*Has a reduced chance to proc other effects
+|Preview  = RapidStabsPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 8.75x3 -> 12x3
+ver. ??? (12/08/2024)
+*Increased '''Rapid Stabs''' damage by 75%
+ver. ??? (11/01/2023)
+*Reduced '''Rapid Stabs''' cooldown from 20 to 10
+*Increased '''Rapid Stabs''' damage from 10.5 to 15
+*'''Rapid Stabs''' now triggers finisher effects.
+ver. ??? (04/11/2023)
+*Reworked '''Rapid Stabs''' it can be used on rapiers now
+}}
+|Javelin={{WeaponArtInfobox
+|Name=Javelin
+|Description=Throw your spear like a javelin and apply bleed!
+|Stats=<nowiki/>
+*'''Cooldown:''' 15 Seconds
+*'''Base Damage:''' 40
+*'''Damage Type(s):''' Same as weapon
+*'''Scaling:''' Same as weapon
+====Requirements====
+*Spear or Great Spear Weapon Type
+====Additional Notes====
+<ul><li>Inflicts {{StatusEffects|Bleed}} and 1 potency {{StatusEffects|Slowness}} for 6 seconds</li></ul>
+|Preview  = JavelinPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*damage increased from 27 -> 40, now applies slow for 6 seconds
+ver. ??? (12/8/2024)
+*Increased '''Javelin''' damage by 50%
+ver. ??? (11/1/2024)
+*Increased '''Javelin''' damage from 14 to 18
+*Reduced '''Javelin''' cooldown from 20 to 15
+ver. ??? (07/25/2023)
+*Great spear can use Holy Phalanx and '''Javelin'''
+*Energize now works with '''Javelin''' correctly.
+ver. ??? (04/11/2023)
+*Decreased '''Javelin''' cooldown from 30 to 20
+}}
+|Rend={{WeaponArtInfobox
+|Name=Rend
+|Description=Release a slow strong slash that gains size and speed on each enemy hit and critically strikes the first enemy hit.
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+*'''Base Damage:''' 35
+*'''Damage Type(s):''' Same as weapon
+*'''Scaling:''' Same as weapon
+====Requirements====
+*Greatsword Weapon Type
+====Additional Notes====
+*Guardbreaks
+*Projectile can only be one color even if the attack has multiple damage types
+*True Damage has the same color as Physical for whatever reason
+|Preview  = RendPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 20 -> 35
+ver. ??? (10/09/2025)
+Rend now has an increased vertical hitbox
+}}
+|Slam={{WeaponArtInfobox
+|Name=Slam
+|Description=Slam your sword into the floor!
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+*'''Base Damage:''' 30
+*'''Damage Type(s):''' Same as weapon
+*'''Scaling:''' Same as weapon
+====Requirements====
+*Unbalanced Sword, Greatsword, Great Spear, Mallet, or War Hammer Weapon Type
+*0.5 Physical Scaling
+====Additional Notes====
+*Guardbreaks
+*Modified by [[Weighty Slam]]
+|Preview  = SlamPreview.gif
+|Patch History=<nowiki/>
+ver. ??? (12/08/2024)
+*Increased '''Slam'''/Weighty slam damage by 50% 
+ver. ??? (04/27/2024)
+*Increased '''Slam''' AOE
+ver. ??? (10/29/2023)
+*'''Slam''' cooldown 30 to 20 sec
+}}
+|Dagger Throw={{WeaponArtInfobox
+|Name=Dagger Throw
+|Description=Throw three poisonous daggers downwards.
+|Stats=<nowiki/>
+*'''Cooldown:''' 15 Seconds
+*'''Base Damage:''' 7.5 * 3 Hits
+*'''Damage Type(s):''' Same as weapon
+*'''Scaling:''' Same as weapon
+====Requirements====
+*Dagger Weapon Type
+*0.7 Dexterity Scaling
+====Additional Notes====
+*Has i-frames during the hop
+*Cast time is unaffected by Attack Speed
+<ul><li>Applies {{StatusEffects|Poison}} for 5 seconds</li></ul>
+|Preview  = DaggerThrowPreview.gif
+|Patch History=<nowiki/>
+ver. ??? (12/08/2024)
+*Increased '''Dagger throw''' damage by 50% 
+ver. ??? (11/01/2024)
+*Reduced '''Dagger throw''' cooldown from 20s to 15s
+ver. ??? (11/05/2023)
+*'''Dagger throw''' grants iframes as the hitbox and dash happens
+ver. ??? (04/11/2023)
+*'''Dagger throw''' cooldown increased from 15s to 20s
+}}
+|Cross Slash={{WeaponArtInfobox
+|Name=Cross Slash
+|Description=Slash in a cross weakening the opponents defenses.
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+*'''Base Damage:''' 5 + 25
+*'''Damage Type(s):''' Same as weapon
+*'''Scaling:''' Same as weapon
+*'''Shatter Potency:''' 0.2
+*'''Shatter Duration:''' 10 Seconds
+====Requirements====
+*One-Handed Sword or Two-Handed Sword Weapon Type
+*0.4 Dexterity Scaling
+*0.4 Physical Scaling
+====Additional Notes====
+<ul><li>Inflicts {{StatusEffects|Shatter}}</li></ul>
+*Guardbreaks
+|Preview  = CrossSlashPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage changed from 12x2 -> 5 + 25
+ver. ??? (12/08/2024)
+*Increased '''Cross Slash''' damage by 50%%
+ver. ??? (11/01/2024)
+*Reduced '''Cross Slash''' cooldown from  30 to 20
+ver. ??? (10/29/2023)
+*'''Cross slash''' cooldown 40 to 30 sec
+ver. ??? (04/11/2023)
+*'''Cross Slash''' now breaks gaurds
+}}
+|Impale={{WeaponArtInfobox
+|Name=Impale
+|Description=Stab though the opponent in a critical spot and then throw them aside.
+|Stats=<nowiki/>
+*'''Cooldown:''' 12 Seconds
+*'''Base Damage:''' 25 + 5
+*'''Damage Type(s):''' 1.0 True (First hit), Same as weapon (Second Hit)
+*'''Scaling:''' Same as weapon
+*'''Poise Damage:''' 100 per hit
+====Requirements====
+*One-Handed Sword or Spear Weapon Type
+*0.6 Physical or Dexterity Scaling
+====Additional Notes====
+*First Hit crits
+*Guardbreaks
+|Preview  = ImpalePreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage changed from 10.5 + 21 -> 25 + 5. First hit now crits
+ver. ??? (12/08/2024)
+*Increased '''Impale''' damage by 50%
+*Increased '''Impale''' poise from 20 to 100
+ver. ??? (11/01/2024)
+*Reduced '''Impale''' cooldown from 20s to 12s
+ver. ??? (04/27/2024)
+*Buffed '''Impale''' damage from 6 to 7
+ver. ??? (10/29/2023)
+*'''Impale''' cooldown 30 to 20 sec
+}}
+|Warrior Stomp={{WeaponArtInfobox
+|Name=Warrior Stomp
+|Description=Stomp the floor giving yourself rage and taunting everyone around you.
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+*'''Base Damage:''' 10
+*'''Damage Type(s):''' Same as weapon
+*'''Scaling:''' Same as weapon
+*'''Poise Damage:''' 80
+*'''Rage Potency:''' 0.3
+*'''Rage Duration:''' 10 Seconds
+*'''Taunt Duration:''' 15 Seconds
+====Requirements====
+Physical Defense: +5%
+|Preview  = WarriorStompPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 3 -> 10
+ver. ??? (12/08/2024)
+*Increased '''Warrior Stomp''' damage by 50%
+*Increased '''Warrior Stomp''' poise from 40 to 80
+ver. ??? (11/01/2024)
+*Increased rage on '''Warrior Stomp''' from 0.2 to 0.3
+*Increased rage duration on '''Warrior Stomp''' from 8 to 10
+ver. ??? (04/15/2024)
+*Buffed '''Warrior Stomp''' to 20% rage and increased its aoe by about 1.6x
+}}
+|Barrage={{WeaponArtInfobox
+|Name=Barrage
+|Description=Barrage with a flurry of punches!
+|Stats=<nowiki/>
+*'''Cooldown:''' 10 Seconds
+*'''Base Damage:''' 3 * 12 Hits
+*'''Damage Type(s):''' Same as weapon
+*'''Scaling:''' Same as weapon
+====Requirements====
+*[[Monk]]
+====Additional Notes====
+<ul><li>Grants 4.8 Base {{StatusEffects|Spiritual Energy}} per hit, see [[Spirit Commune]] for more details</li>
+<li>Modified by [[Heat Drill]]</li></ul>
+|Preview  = BarragePreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 2x12 -> 3x12.
+*Now gains 6 base spirit commune per hit, unaffected by attack speed
+ver. ??? (12/08/2024)
+*Reduced '''Barrage''' cooldown from 20s to 10s
+ver. ??? (11/01/2024)
+*Increased '''Barrage''' damage from 14.4 to 24
+*Increased '''Barrage''' stun from 0.7 to 1
+ver. ??? (10/29/2023)
+*'''Barrage''' cooldown 35 to 20 sec
+}}
+|Shatter={{WeaponArtInfobox
+|Name=Shatter
+|Description=Wind back your fist and release a brutal punch sundering the opponents defenses!
+|Stats=<nowiki/>
+*'''Cooldown:''' 30 Seconds
+*'''Base Damage:''' 50
+*'''Damage Type(s):''' Same as weapon
+*'''Scaling:''' Same as weapon
+*'''Shatter Potency:''' 0.3
+*'''Shatter Duration:''' 10 seconds
+====Requirements====
+*[[Monk]]
+*Physical Scaling: 0.6
+====Additional Notes====
+*Guardbreaks
+<ul><li>Inflicts {{StatusEffects|Shatter}}</li></ul>
+|Preview  = ShatterPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 37.5 -> 50
+ver. ??? (10/09/2025)
+Buffed Shatter forward hitbox
+ver. ??? (12/08/2024)
+*Increased '''Shatter''' damage by 50%
+*Reduced '''Shatter''' cooldown from 50s to 30s
+ver. ??? (11/01/2024)
+*Nerfed '''Shatter''' weapon art's shatter potency from 0.5 to 0.3
+ver. ??? (10/29/2023)
+*'''Shatter''' cooldown 60 to 50 sec
+ver. ??? (10/1/2023)
+*Buffed speed of '''Shatter''' weapon art.
+}}
+|Focus={{WeaponArtInfobox
+|Name=Focus
+|Description=Predict an incoming attack to enter a flow state where you retaliate any hit with a punch!
+|Stats=<nowiki/>
+*'''Cooldown:''' 25 seconds
+*'''Base Damage (Punch):''' 8
+*'''Damage Type(s):''' Same as weapon
+*'''Scaling:''' Same as weapon
+*'''Duration:''' 10 seconds
+====Requirements====
+*[[Monk]]
+*Dexterity Scaling: 0.6
+====Additional Notes====
+<ul><li>{{StatusEffects|Focus}} makes you automatically dodge attacks and punch afterwards</li>
+<li>You can attack, block, etc. while Focus is active and you will dodge attacks as normal</li>
+<li>Attacking while Focus is active will override its own auto punch, and the auto punch can also override your attacks</li>
+<li>Focus will not work on attacks from enemies too far away</li>
+<li>Your eyes glow red during Focus</li></ul>
+|Preview  = FocusPreview.gif
+|Patch History=
+}}
+|Retaliate={{WeaponArtInfobox
+|Name=Retaliate
+|Description=Absorb pre-mitigation damage and then release it back at the opponent.
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+*'''Base Damage:''' 15 (Base), 175 (Fully charged)
+*'''Damage Type(s):''' 0.5 Physical 0.5 True
+*'''Scaling:''' None
+====Requirements====
+*Tenacity: 0.1
+====Additional Notes====
+*You take 90% less damage and are stun immune during the windup
+*Flat damage decreases (“Damage mitigation”) are disabled during the windup
+*Cast time is unaffected by Attack Speed
+*Fully charges upon taking 60 pre-mitigation damage
+*Modified by [[Bomber Charge]]
+|Preview  = RetaliatePreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage now caps out at 60 damage taken instead of 100
+ver. ??? (12/08/2024)
+*Increased '''Retaliate''' damage form 15-115 to 15-175
+ver. ??? (07/07/2024)
+*'''Retaliate''' now maxes out much faster even when taking less damage
+ver. ??? (05/21/2024)
+*'''Retaliate''' dmg doesnt bypass shield
+*'''Retaliate''' requires half the damage to max out the damage.
+ver. ??? (05/20/2024)
+*Fixed '''Retaliate''' maxing out after taking a single hit.
+ver. ??? (04/12/2023)
+*Nerfed '''Retaliate''' damage reduction
+ver. ??? (04/11/2023)
+*Reworked '''Retaliate''', much faster startup(less counter time) added a damage cap of 200 DMG, you take chip damage during the charge, and increased the recovery by 1 second but increased base damage  (uncharged) and decreased cooldown
+}}
+|Laser={{WeaponArtInfobox
+|Name=Laser
+|Description=Shoot a laser from the tip of your sword!
+|Stats=<nowiki/>
+*'''Cooldown:''' 6 Seconds
+*'''Base Damage:''' 19.5
+*'''Damage Type(s):''' 1.0 Damage Type as your weapon’s highest damage type
+*'''Scaling:''' Same as weapon
+====Requirements====
+*Magic Scaling: 0.3
+====Additional Notes====
+*The color of laser is based on the damage type it deals
+*Modified by [[Wild Bolt]]
+|Preview  = LaserPreview.gif
+|Patch History=<nowiki/>
+ver. ??? (12/08/2024)
+*Buffed '''Laser''' damage by 50%
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, '''Laser''', Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+*Reduced '''Laser''' cooldown from 15 to 6
+}}
+|Mines={{WeaponArtInfobox
+|Name=Mines
+|Description=Throw 5 mines on the floor that explode when touched!
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 seconds
+*'''Base Damage (each Mine):''' 15
+*'''Damage Type(s):''' 1.0 Damage Type as your weapon’s highest damage type
+*'''Scaling:''' Same as weapon
+*'''Lifespan (Mines):''' 30 seconds
+====Requirements====
+*Magic Scaling: 0.5
+====Additional Notes====
+*The color of the mines is based on the damage type it deals
+|Preview  = MinesPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 10x5 -> 15x5
+ver. ??? (12/10/2024)
+*Summons no longer trigger '''Mines'''
+}}
+|Mage Bomb={{WeaponArtInfobox
+|Name=Mage Bomb
+|Description=Release a giant bomb of energy that deals high damage!
+|Stats=<nowiki/>
+*'''Cooldown:''' 25 Seconds
+*'''Base Damage:''' 70
+*'''Damage Type(s):''' 1.0 Damage Type as your weapon’s highest damage type
+*'''Scaling:''' Same as weapon
+====Requirements====
+*Magic Boost: +11%
+====Additional Notes====
+*The color of mage bomb is based on the damage type it deals
+*Can collide with terrain to detonate early
+*Guardbreaks
+*Has an increased chance to proc other effects
+**Roughly equal to 3 proc coefficient
+|Preview  = MageBombPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 45 -> 70
+ver. ??? (12/08/2024)
+*Increased '''Mage Bomb''' damage by 50% 
+*Reduced '''Mage Bomb''' cooldown from 30s to 25s
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, '''Mage Bomb''', Erupt.
+*Reduced '''Mage Bomb''' cooldown from  60 to 30 
+ver. ??? (10/29/2023)
+*'''Mage Bomb''' cooldown 70 to 60 sec
+}}
+|Magical Ray={{WeaponArtInfobox
+|Name=Magical Ray
+|Description=Shoot out a continous ray of magic that keeps opponents at bay.
+|Stats=<nowiki/>
+*'''Cooldown:''' 15 Seconds
+*'''Base Damage:''' 3 * 15 Hits
+*'''Damage Type(s):''' 1.0 Damage Type as your weapon’s highest damage type
+*'''Scaling:''' Same as weapon
+====Requirements====
+*Magic Boost: +21%
+====Additional Notes====
+*The color of magical ray is based on the damage type it deals
+*Activation key needs to be held down for full duration
+*Modified by [[Essence Ray]]
+|Preview  = MagicalRayPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 2.25x15 -> 3x15
+ver. ??? (12/08/2024)
+*Increased '''Magical Ray''' damage by 50%
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, '''Ray''', Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+*Reduced '''Magical Ray''' cooldown from 20s to 15s
+}}
+|Condensed Star={{WeaponArtInfobox
+|Name=Condensed Star
+|Description=Release a star of condensed energy that amplifies proc chance of chance based effects/perks
+|Stats=<nowiki/>
+*'''Cooldown:''' 4 Seconds
+*'''Base Damage:''' 4
+*'''Damage Type(s):''' 1.0 True
+*'''Scaling:''' 1.0 Magic 1.0 Dex
+====Requirements====
+*Have both Dex Scaling and Magic Scaling
+*One of them needs to be greater than 0.5
+====Additional Notes====
+*Description is poorly worded, it has a 100% guaranteed chance to proc on-hit effects
+**This means it does not proc things like [[Perks#Ruler Of The Sands|Ruler Of The Sands]] at a 100% chance, since they are not on hit but rather on activation
+*Guardbreaks
+|Preview  = CondensedStarPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Cooldown decreased from 8s -> 4s
+ver. ??? (12/08/2024)
+*Reduced '''Condensed Star''' cooldown from 13s to 8s
+ver. ??? (11/05/2023)
+*'''Condensed Star''' CD reduced from 20 to 13 sec
+}}
+|Mage Bomber Summon={{WeaponArtInfobox
+|Name=Mage Bomber Summon
+|Description=Summon 2 mage bombers to explode the enemy!
+|Stats=<nowiki/>
+*'''Cooldown:''' 10 Seconds
+====Requirements====
+*Magic Scaling: 0.3
+*Summon Boost: +10%
+====Additional Notes====
+* Summons 2 Mage Bombers
+*Explosion base damage of 35
+*Has a large amount of knockback resistance
+See the [[Summons]] page for more info
+|Preview  = MageBomberSummonPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Explosion damage increased from 25 -> 35
+ver. ??? (10/09/2025)
+Mage Bomber Summon has buffed damage from 20 to 25
+Gave Mage Bombers a large amount of knockback resistance
+ver. ??? (12/08/2024)
+*Reduced '''Mage Bomber Summon''' from 25s to 10s
+}}
+|Blessedlings Summon={{WeaponArtInfobox
+|Name=Blessedlings Summon
+|Description=Summon 2 Blessedlings to help fight!
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+====Requirements====
+*Holy Scaling: 0.3
+*Summon Boost: +10%
+====Additional Notes====
+*Summons 2 Blessedlings
+*Radial Explosion base damage of 20
+**Radial explosion guardbreaks
+*Beam base damage of 15
+See the [[Summons]] page for more info
+|Preview  = BlessedlingsSummonPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Explosion damage increased from 15 -> 20
+*Beam damage increased from 10 -> 15
+ver. ??? (10/09/2025)
+Blessedling Summon has buffed damage from 10 to 15
+ver. ??? (12/08/2024)
+*Reduced '''Blessedling Summon''' cooldown from 40s to 20s
+}}
+|Toaladin Summon={{WeaponArtInfobox
+|Name=Toaladin Summon
+|Description=Summon a toaladin!
+|Stats=<nowiki/>
+*'''Cooldown:''' 40 Seconds
+====Requirements====
+*Holy Scaling: >0
+*Summon Boost: 20%
+====Additional Notes====
+* Summons 1 Toaladin
+*Slash base damage of 20
+*Body Slam base damage of 25
+See the [[Summons]] page for more info
+|Preview  = ToaladinSummonPreview.gif
+|Patch History=<nowiki/>
+ver. ??? (10/9/2025)
+removed rage from the initial cast, but decreased cooldown from 50 to 40
+ver. ??? (12/11/2024)
+*Increased '''Toaladin Summon''' cooldown from 25 to 50
+}}
+|Undead Buni Summon={{WeaponArtInfobox
+|Name=Undead Buni Summon
+|Description=Summon undead bunis!
+|Stats=<nowiki/>
+*'''Cooldown:''' 10 Seconds
+====Requirements====
+*Hex Scaling: 0.3
+*Summon Boost: +7%
+====Additional Notes====
+* Summons 2 Undead Bunis
+*Kick Base Damage of 7
+*Headbutt base damage of 10
+**Headbutt guardbreaks
+See the [[Summons]] page for more info
+|Preview  = UndeadBuniSummonPreview.gif
+|Patch History=<nowiki/>
+ver. ??? (12/08/2024)
+*Reduced '''Undead Buni''' cooldown from 20s to 10s 
+ver. ??? (04/15/2024)
+*Halved '''Undead Buni''' cooldown to 20 seconds. Additionally made it summon two bunis.
+ver. ??? (08/26/2023)
+*Increased the summon speed for Skeletal Woof and '''Undead Buni''' and decreased the cooldown for both
+}}
+|Skeletal Woof Summon={{WeaponArtInfobox
+|Name=Skeletal Woof Summon
+|Description=Summon a skeletal woof!
+|Stats=<nowiki/>
+*'''Cooldown:''' 25 Seconds
+====Requirements====
+*Hex Scaling: 0.3
+*Summon Boost: +20% (Lowest I got this with was 24%)
+====Additional Notes====
+<ul><li>Summons 1 Skeletal Woof</li>
+<li>Bite base damage of 10</li>
+<li>Howl guardbreaks and applies 1.0 potency {{StatusEffects|Weakness}}, does no damage</li></ul>
+See the [[Summons]] page for more info
+|Preview  = SkeletalWoofSummonPreview.gif
+|Patch History=<nowiki/>
+ver. ??? (12/08/2024)
+*Reduced '''Skeletal Woof Summon''' cooldown from 50s to 25s
+ver. ??? (08/26/2023)
+*Increased the summon speed for '''Skeletal Woof''' and Undead Buni and decreased the cooldown for both
+}}
+|Infernal Legion={{WeaponArtInfobox
+|Name=Infernal Legion
+|Description=Summon a Swarm of imps!
+|Stats=<nowiki/>
+*'''Cooldown:''' 10 Seconds
+====Requirements====
+*Fire Boost: +5%
+*Summon Boost: +5%
+====Additional Notes====
+<ul><li>Summons 3 Imps</li>
+<li>Stab Base Damage of 14 and Applies {{StatusEffects|Burn}} for 2 seconds</li></ul>
+See the [[Summons]] page for more info
+|Preview  = PlaceholderBox.png
+|Patch History=<nowiki/>
+ver. 1627 (24/09/2026)
+*Added Infernal Legion
+}}
+|Lesser Heal={{WeaponArtInfobox
+|Name=Lesser Heal
+|Description=Heal in a small area around yourself!
+|Stats=<nowiki/>
+*'''Cooldown:''' 60 Seconds
+*'''Base Healing:''' 15
+*'''Scaling:''' 0.7 Holy 0.3 Magic
+====Requirements====
+*Holy Scaling: 0.3
+====Additional Notes====
+*Modified by [[Solar Light]]
+|Preview  = LesserHealPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Healing increased from 11 -> 15
+ver. ??? (10/29/2023)
+*Buffed '''Lesser Heal''' heal amount
+}}
+|Holy Phalanx={{WeaponArtInfobox
+|Name=Holy Phalanx
+|Description=Raise a shield and rapidly stab holy spears through it.
+|Stats=<nowiki/>
+*'''Cooldown:''' 15 Seconds
+*'''Base Damage:''' 1.5 * 20 hits + 10
+*'''Base Healing:''' 4.5
+*'''Scaling:''' Same as weapon
+*'''Output:''' 1.0 Holy
+====Requirements====
+*Spear or Great Spear
+*Holy Scaling: 0.4
+====Additional Notes====
+*Each hit counts as an m1/m2 finisher and will proc related effects
+*Activation key needs to be held down for full duration
+*You are blocking during this weapon art (Can proc related perks as well)
+*Heal only activates if the final hit strikes an enemy
+*Final hit guardbreaks
+*Has a reduced chance to proc other effects
+|Preview  = HolyPhalanxPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 1.05x20 + 10.5 -> 1.5*20 + 10
+*Healing increased from 3.15 -> 4.5
+*All hits now count as finishers
+ver. ??? (12/08/2024)
+*Increased '''Holy Phalanx''' damage by 50% 
+ver. ??? (11/01/2024)
+*Blackhole, Ray, '''Holy Phalanx''', and Flamethrower can now be held down to be used instead of being a set timer.
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: '''Holy Phalanx''', Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+*Reduced '''Holy Phalanx''' cooldown from 25 to 15
+ver. ??? (04/27/2024)
+*Buffed the attack speed of '''Holy Phalanx'''
+ver. ??? (11/05/2023)
+*'''Holy Phalanx''' only requires 0.4 holy scaling
+*You can rotate while using '''Phalynx'''
+*'''Phalanx''' stab rate/Flamethrower hit rate/Ray hit rate scale on weapon speed now
+*Heavily increased '''Holy Phalanx''' stun from 0.3 to 0.7
+ver. ??? (10/29/2023)
+*'''Holy Phalanx''' cooldown 35 to 25 sec
+ver. ??? (07/25/2023)
+*Great Spear can use '''Holy Phalanx''' and Javelin
+}}
+|Holy Shrine={{WeaponArtInfobox
+|Name=Holy Shrine
+|Description=Radiate holy energy from your character that heals allies and deals slight holy damage!
+|Stats=<nowiki/>
+*'''Cooldown:''' 60 Seconds
+*'''Base Damage:''' 5 * 6 hits
+*'''Base Healing:''' 1.6 * 6 hits
+*'''Scaling:''' 0.7 Holy
+*'''Damage Type:''' 1.0 Holy
+====Requirements====
+*Holy Scaling: 0.8
+*Holy Boost: 15%
+|Preview  = HolyShrinePreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 2x6 -> 5x6
+*Healing decreased from 2.6x -> 1.6x6
+ver. ??? (11/13/2024)
+*Reduced holy scaling on '''Holy Shrine''' to 0.7
+ver. ??? (11/01/2024)
+*'''Holy Shrine''' now requires Holy Boost on your weapon equal or greater than 15 to get as a weapon art on your weapon
+ver. ??? (04/30/2024)
+*Tripled '''Holy Shrines''' Proc Coefficient
+}}
+|Polarity Cannon={{WeaponArtInfobox
+|Name=Polarity Cannon
+|Description=Hold and release to charge up and release an unstable blast of holy and hex energy. Overcharging will cause the energy to backfire.
+|Stats=<nowiki/>
+*'''Cooldown:''' 25 Seconds
+*'''Base Damage:''' 50
+*'''Base Healing:''' 5
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 0.5 Holy 0.5 Hex
+====Requirements====
+*Holy Scaling: 0.5
+*Hex Scaling: 0.5
+====Additional Notes====
+*Can be charged for up to 5 seconds to increase damage, healing, and size
+*Damage and healing dealt increases by 20% per second charged up to a maximum of 100%
+*Guardbreaks
+*Can proc other effects
+*Charging for roughly 6 seconds will cause the Weapon Art to backfire, dealing 27.5 Holy and 27.5 Hex Self Damage
+*Capable of healing the same target more than once
+|Preview  = PlaceholderBox.png
+|Patch History=<nowiki/>
+ver. 1627 (24/09/2026)
+*Added Polarity Cannon
+}}
+|Cursed Ground={{WeaponArtInfobox
+|Name=Cursed Ground
+|Description=Stab the floor weakening all nearby opponents with hex energy!
+|Stats=<nowiki/>
+*'''Cooldown:''' 15 Seconds
+*'''Base Damage:''' 26.25 (?)
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 1.0 Hex
+*'''Weakening Potency:''' 1
+*'''Weakening Duration:''' ~15 seconds
+====Requirements====
+*Hex Scaling: 0.3
+==Additional Notes==
+<ul><li>Applies 2 debuffs from the following pool :</li>
+<ul><li>{{StatusEffects|Bleed}} for 5 seconds</li>
+<li>{{StatusEffects|Burn}} for 5 seconds</li>
+<li>{{StatusEffects|Poison}} for 5 seconds</li>
+<li>{{StatusEffects|Shatter}} at 0.2 potency for 5 seconds</li>
+<li>{{StatusEffects|Slowness}} at 0.2 potency for 5 seconds</li>
+<li>{{StatusEffects|Weakness}} at 0.5 potency for 5 seconds</li></ul></ul>
+|Preview  = CursedGroundPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Applies 2 random debuffs from the standard debuff pool.
+ver. ??? (12/08/2024)
+*Increased '''Cursed Grounds''' damage by 75%
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, '''Cursed Ground''', Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+ver. ??? (04/27/2024)
+*Increased '''Cursed Ground''' magic/hex scaling
+ver. ??? (10/29/2023)
+*'''Cursed Ground''' cooldown 30 to 20 sec
+}}
+|Jinx={{WeaponArtInfobox
+|Name=Jinx
+|Description=Detonate all debuffs around yourself dealing bonus damage based on how many debuffs they have!
+|Stats=<nowiki/>
+*'''Cooldown:''' 15 Seconds
+*'''Base Damage:''' 10 * Debuff Amount
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 1.0 Hex
+====Requirements====
+*Hex Scaling: 0.6
+====Additional Notes====
+*Can only target enemies with debuffs
+*Does not do anything to the debuffs themselves
+|Preview  = JinxPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 8.25*debuff# -> 10*debuff#
+ver. ??? (12/08/2024)
+*Increased '''Jinx''' damage by 50%
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, '''Jinx''', Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+}}
+|Dark Tentacle={{WeaponArtInfobox
+|Name=Dark Tentacle
+|Description=Conjure dark forces to summon a hex tentacle. Quickly repeated casts increase the amount of tentacles summoned but also put a toll on your body.
+|Stats=<nowiki/>
+*'''Cooldown:''' 3 Seconds
+*'''Base Damage:''' 7
+*'''Scaling:''' 1.0 Hex
+*'''Damage Type:''' 1.0 Hex
+====Requirements====
+*Hex Scaling: 0.8
+====Additional Notes====
+*Limit of 5 tentacles per cast
+*Only the final tentacle of each cast deals knockback
+*Self damage and stun increases with consecutive casts with stun having a cap
+*Proc coefficient decreases with consecutive casts (Limit of 0.3 at 10 Casts)
+*Every hit guardbreaks
+*Cooldown increases depending on how slow your weapon's attack speed is
+**If Attack Speed bonuses are equal or greater than 0 then <code>newCD = Cooldown / (weaponAtkSpeed * (1 + AtkSpeedBonus))</code>
+**If Attack Speed bonuses are less than 0 then <code>newCD = Cooldown / (weaponAtkSpeed / (1 + {{!}}AtkSpeedBonus{{!}}))</code>
+**Attack speed cannot reduce cooldown, only increase
+<ul><li>Applies {{StatusEffects|Tentacle Strain}} to self upon cast</li></ul>
+|Preview  = DarkTentaclePreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 5.5 -> 7
+ver. ???(09/11/2025)
+*Reduced '''Tentacle''' Self Damage by 66%
+*Increased '''Tentacle''' CD from 2 to 3
+*Decreased '''Tentacle''' Self Stun from 0.25 per cast to 0.1
+*Changed '''Tentacle''' strain from decreasing healing to making you take more true damage from attacks.
+ver. ??? (05/21/2024)
+*'''Tentacle''' cooldown gets larger with negative attack speed.
+ver. ??? (05/20/2024)
+*Reduced '''Tentacle''' Damage from 4 to 3.5
+*'''Tentacle''' loses proc coefficient as it is used more down to 0.3 at 10 slaps. 
+*'''Tentacle''' applies a status that slowly reduces healing received up to half at 10 tentacle slaps.
+ver. ??? (03/18/2024)
+*'''Tentacle''' slap now caps at 10
+ver. ??? (10/29/2023)
+*'''Dark Tentacle''' cant be blocked.
+}}
+|Curse Flame Ray={{WeaponArtInfobox
+|Name=Curse Flame Ray
+|Description=Use your eyes to blast out a ray of cursed flames but take damage in return!
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+*'''Base Damage:''' 42 (Ray), 2.1 (?) (Explosion)
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 0.5 Fire 0.5 Hex
+====Requirements====
+*Hex Scaling: 0.4
+*Fire Scaling: 0.4
+====Additional Notes====
+*The explosion hits before the ray
+<ul><li>Sets the user on fire (regular {{StatusEffects|Burn}})</li></ul>
+<ul><li>Self-{{StatusEffects|Burn}} lasts for 5 seconds</li></ul>
+*Applies [[Cursed Flames]] for 5 seconds to enemies hit
+|Preview  = CurseFlameRayPreview.gif
+|Patch History=<nowiki/>
+ver. ??? (12/08/2024)
+*Increased '''Curse Flame Ray''' damage by 50% 
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, '''Curse Flame Ray''', Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+*Reduced '''Curse Flame Ray''' cooldown from 30s to 20s
+ver. ??? (04/28/2024)
+*Buffed hitbox and range of '''Curse Flame Ray'''.
+ver. ??? (04/27/2024)
+*Reworked '''Curse Flame Ray'''
+ver. ??? (10/29/2023)
+*'''Curse Flame Ray''' cooldown 40 to 30 sec
+ver. ??? (04/11/2023)
+*Buffed '''Curse Flame Ray'''
+}}
+|Gale Assault={{WeaponArtInfobox
+|Name=Gale Assault
+|Description=Dash though your opponent and deal a moderate amount of damage.
+|Stats=<nowiki/>
+*'''Cooldown:''' 15 Seconds
+*'''Base Damage:''' 20
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' Same as weapon
+====Requirements====
+*Air Scaling: 0.3
+|Preview  = GaleAssaultPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 19.5 -> 20
+ver. ??? (12/08/2024)
+*Increased '''Gale Assault''' damage by 50% 
+}}
+|Storm Stomp={{WeaponArtInfobox
+|Name=Storm Stomp
+|Description=Stomp with immense force to create a brutal tornado.
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+*'''Base Damage:''' 20 * 2 hits
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 1.0 Air
+====Requirements====
+*Air Scaling: 0.5
+====Additional Notes====
+*Second hit guardbreaks
+|Preview  = StormStompPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 13x2 -> 20x2
+ver. ??? (12/08/2024)
+*Increased '''Storm Stomp''' damage by 50% <b><span style="color:red">(didn't actually happen)</span></b>
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, '''Storm Stomp''', Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+*Reduced '''Storm Stomp''' cooldown from 30 to 20
+*Increased '''Storm Stomp''' damage from 20 to 26
+ver. ??? (04/15/2024)
+*Buffed '''Storm Stomp''' aoe by 1.5x
+}}
+|Lightning Cloak={{WeaponArtInfobox
+|Name=Lightning Cloak
+|Description=Gain chain lightning on hit, aswell as a 20% speed boost.
+|Stats=<nowiki/>
+*'''Cooldown:''' 50 Seconds
+*'''Duration:''' 40 Seconds
+====Requirements====
+*Air Scaling: 0.5
+*Magic Scaling: 0.5
+====Additional Notes====
+<ul><li>Applies {{StatusEffects|Lightning Cloak}} to self for 40 seconds, and deals <code>5</code> damage to the user and surrounding enemies</li>
+<ul><li>Increases movement speed by 20%</li>
+<li>Lightning Strike Damage cannot proc other effects, and cannot be increased by user perks/effects</li></ul>
+<li>Chain Lightning deals damage equal to <code>1/3</code> of the original attacks damage to the initial target, and enemies it chains to</li>
+<ul><li>0.5 <b>Air</b> Damage Type, 0.5 <b>Magic</b> Damage Type</li>
+<li>Does not take into account output or post output multipliers when considering the attack that activated this effect, but damage dealt by this effect can be affected directly by post output multipliers</li>
+<li>Chains prioritize the furthest target within its range, and can only chain to each target once</li>
+<li>Chains are capable of chaining to the original target</li>
+<li>Only one instance of chain lightning is triggered per attack, regardless of how many targets were hit</li>
+<li>Can chain to up to 4 additional targets</li>
+<li>Has a 130% chance to activate, and can be reduced by the proc coefficient of the attack</li></ul>
+|Preview  = LightningCloakPreview.gif
+|Patch History=<nowiki/>
+ver. ??? (12/08/2024)
+*Reduced '''Lightning Cloak''' cooldown from 75s to 50s
+}}
+|Flame Slash={{WeaponArtInfobox
+|Name=Flame Slash
+|Description=Send a blade of fire though the air!
+|Stats=<nowiki/>
+*'''Cooldown:''' 10 Seconds
+*'''Base Damage:''' 35
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 1.0 Fire
+*'''Burn Potency:''' 0
+*'''Burn Duration:''' 5 Seconds
+====Requirements====
+*Fire Scaling: 0.3
+|Preview  = FlameSlashPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 22.5 -> 35
+*Cooldown decreased from 15s -> 10s
+ver. ??? (12/08/2024)
+*Increased '''Flame Slash''' damage by 50%
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, '''Flame Slash''', Mage Bomb, Erupt.
+*Reduced '''Flame Slash''' cooldown from 20 to 15 
+*Increased '''Flame Slash''' damage from 10 to 15
+*Increased '''Flame Slash''' Burn Potency from 0.2 to 0.5
+*Reduced '''Flame Slash''' recovery by 0.5
+ver. ??? (04/27/2024)
+*Buffed '''Flame Slash''' damage from 9 to 10
+ver. ??? (07/25/2023)
+*Reduced '''Flame Slash''' cooldown from 30 seconds to 20 seconds and increased its stun.
+}}
+|Flamethrower={{WeaponArtInfobox
+|Name=Flamethrower
+|Description=Blast a stream of flames out the end of your sword.
+|Stats=<nowiki/>
+*'''Cooldown:''' 15 Seconds
+*'''Base Damage:''' 1.8 * 25 hits
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 1.0 Fire
+====Requirements====
+*Fire Scaling: 0.6
+====Additional Notes====
+*Activation key needs to be held down for full duration
+*Does not apply burn by itself
+|Preview  = FlamethrowerPreview.gif
+|Patch History=<nowiki/>
+ver. ??? (12/08/2024)
+*Increased '''Flamethrower''' damage by 50%
+*Reduced '''Flamethrower''' cooldown from 20s to 15s
+ver. ??? (11/01/2024)
+*Blackhole, Ray, Holy Phalanx, and '''Flamethrower''' can now be held down to be used instead of being a set timer.
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, '''Flamethrower''', Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+*Increased '''Flamethrower''' damage from 22.5 to 30
+ver. ??? (04/27/2024)
+*Increased '''Flamethrower''' fire scaling
+ver. 591 (11/05/2023)
+*Phalynx stab rate/'''Flamethrower''' hit rate/Ray hit rate scale on weapon speed now
+}}
+|Erupt={{WeaponArtInfobox
+|Name=Erupt
+|Description=Krakatoa!! Explode and launch a bunch of magma balls around yourself!
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+*'''Base Damage (Explosion):''' 45
+*'''Base Damage (Magma Balls):''' 15*5
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 1.0 Fire
+====Requirements====
+*Fire Scaling: 0.3
+*Earth Scaling: 0.3
+====Additional Notes====
+*Initial explosion guardbreaks
+*Does not apply Burn
+*Grants stun immunity during the windup
+|Preview  = EruptPreview.gif
+|Patch History=<nowiki/>
+ver. ??? (12/08/2024)
+*Increased '''Erupt''' damage by 50%
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, '''Erupt'''.
+ver. ??? (04/27/2024)
+*Increased '''Erupt''' earth/fire scaling
+ver. ??? (10/29/2023)
+*'''Erupt''' cooldown 30 to 20 sec
+ver. ??? (04/11/2023)
+*Decreased '''Erupt''' cooldown from 60 to 30
+}}
+|Cleanse={{WeaponArtInfobox
+|Name=Cleanse
+|Description=Cleanse debuffs around yourself and perform a weak heal.
+|Stats=<nowiki/>
+*'''Cooldown:''' 30 Seconds
+*'''Base Healing:''' 8
+*'''Scaling:''' Same as weapon
+====Requirements====
+*Water Scaling: 0.3
+|Preview  = CleansePreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Scaling changed from 0.7 water 0.3 magic -> adaptive
+*Heal increased from 5.5 -> 8
+ver. ??? (11/01/2024)
+*Increased '''Cleanse''' healing from 5 to 5.5 
+ver. ??? (10/29/2023)
+*Nerfed '''Cleanse''' heal amount (was just way better than lesser heal + cleansing)
+ver. ??? (04/23/2023)
+*Lowered '''Cleanse''' cooldown from 45 to 30.
+}}
+|Splash={{WeaponArtInfobox
+|Name=Splash
+|Description=Crash down a orb of water around yourself.
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+*'''Base Damage:''' 40
+*'''Base Healing:''' 5
+*'''Scaling (Healing and Damage):''' Same as weapon
+*'''Damage Type:''' 0.5 Physical 0.5 Water
+====Requirements====
+*Water Scaling: 0.6
+====Additional Notes====
+*Cleanses
+*Guardbreaks
+|Preview  = SplashPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage incrreased from 30 -> 40
+*Healing increased from 2.2 -> 5
+ver. ??? (12/08/2024)
+*Increased '''Splash''' Damage by 50%
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, '''Splash''', Earthquake, Flame Slash, Mage Bomb, Erupt.
+*Increased Splash damage from 13 to 20
+*Increased Splash healing from 1.4 to 2.2 
+ver. ??? (04/27/2024)
+*Buffed '''Splash''' damage from 12 to 13
+ver.  (11/05/2023)
+*Increased '''Splash''' aoe and heal
+}}
+|Waterfall={{WeaponArtInfobox
+|Name=Waterfall
+|Description=Crash down a orb of water infront of yourself.
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+*'''Base Damage:''' 45
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 1.0 Water
+====Requirements====
+*Water Scaling: 0.8
+|Preview  = WaterfallPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 33 -> 45
+ver. ??? (12/08/2024)
+*Increased '''Waterfall''' damage by 50%
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, '''Waterfall''', Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+*Increased '''Waterfall''' damage from 17 to 22
+*Reduced '''Waterfall''' cooldown from 25 to 20
+ver. 591 (11/05/2023)
+*Buffed '''Waterfall''' damage.
+*Heavily reduced '''Waterfall''' knockback
+ver. ???  (10/29/2023)
+*'''Waterfall''' cooldown 35 to 25 sec
+}}
+|Icicle Wave={{WeaponArtInfobox
+|Name=Icicle Wave
+|Description=Stab your sword into the ground and create a wave of icicles.
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+*'''Base Damage:''' 36
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 0.5 Water 0.5 Physical
+====Requirements====
+*Water Scaling: 0.5
+*Heat Resistance: 50%
+====Additional Notes====
+<ul><li>Applies {{StatusEffects|Frostbite}} for 12 seconds (+10% Water and Air damage taken)</li></ul>
+*Guardbreaks
+|Preview  = IcicleWavePreview.gif
+|Patch History=<nowiki/>
+ver. ??? (12/08/2024)
+*Increased '''Icicle Wave''' damage by 50%
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, '''Icicle Wave''', Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+*Made '''Icicle Wave''' inflict frostbite which increases water and air damage dealt.
+* Increased '''Icicle Wave''' damage from 17 to 24
+ver. ???  (04/27/2024)
+*Buffed '''Icicle Wave''' damage from 15 to 17
+*Increased '''Icicle Wave''' water/physical scaling
+}}
+|Earthquake={{WeaponArtInfobox
+|Name=Earthquake
+|Description=Stab your sword into the floor and create an Earthquake.
+|Stats=<nowiki/>
+*'''Cooldown:''' 10 Seconds
+*'''Base Damage:''' 8 * 5 Hits
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 1.0 Earth
+====Requirements====
+*Earth Scaling: 0.3
+|Preview  = EarthquakePreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 6x5 -> 8x5
+ver. ??? (12/08/2024)
+*Increased '''Earthquake''' damage by 100%
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, '''Earthquake''', Flame Slash, Mage Bomb, Erupt.
+* Reduced '''Earthquake''' cooldown from 15 to 10
+*Increased '''Earthquake''' damage from 10 to 15
+ver. ???  (10/29/2023)
+*'''Earthquake''' cooldown 30 to 15 sec
+}}
+|Grand Quake={{WeaponArtInfobox
+|Name=Grand Quake
+|Description=Slam your sword into the floor and create a super powerful earthquake!
+|Stats=<nowiki/>
+*'''Cooldown:''' 30 Seconds
+*'''Base Damage:''' 16.5 (Slam), 3.3 * 30 Hits (Quakes)
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 1.0 Physical (Slam), 1.0 Earth (Quakes)
+====Requirements====
+*Earth Scaling: 0.8
+====Additional Notes====
+*Grants stun immunity during the windup
+|Preview  = GrandQuakePreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 12.5 + 2.5x30 -> 16.5 + 3.3x30
+ver. ??? (12/08/2024)
+*Reduced '''Grand Quake''' cooldown from 50 to 30
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, '''Grand Quake''', Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+*Reduced '''Grand Quake''' cooldown from 60 to 50
+*Increased '''Grand Quake''' damage from 60(total) to 75(total)
+ver. ???  (10/29/2023)
+*'''Grand Quake''' cooldown 70 to 60 sec
+}}
+|Earth Slam={{WeaponArtInfobox
+|Name=Earth Slam
+|Description=Slam your sword into the floor and send out a wave of earth!
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 Seconds
+*'''Base Damage:''' 45
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 0.5 Earth, 0.5 Physical
+====Requirements====
+*Earth Scaling: 0.5
+*Physical Scaling: 0.5
+====Additional Notes====
+*Guardbreaks
+|Preview  = EarthSlamPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Damage increased from 42 -> 45
+ver. ??? (12/08/2024)
+*Increased '''Earth Slam''' damage by 50%
+ver. ??? (11/01/2024)
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, Black Hole, Grand Quake, Weighty Slam (variant of slam), '''Earth Slam''', Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+*Increased '''Earth Slam''' damage from 17 to 28
+ver. ???  (04/27/2024)
+*Increased '''Earth Slam''' earth/physical scaling
+ver. 591  (11/05/2023)
+*'''Earth Slam''' guardbreaks
+}}
+|Black Hole={{WeaponArtInfobox
+|Name=Black Hole
+|Description=Pull opponents in and stun them for a long duration.
+|Stats=<nowiki/>
+*'''Cooldown:''' 25 Seconds
+*'''Base Damage:''' 3 * 24 Hits + 0.4 * 24 Hits + 4
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 0.5 Magic 0.5 Earth
+====Requirements====
+*Magic Scaling: 0.4
+*Earth Scaling: 0.4
+====Additional Notes====
+* Deals additional damage (3 * 24 Hits), to those at the center of the black hole
+* Activation key needs to be held down for full duration
+|Preview  = BlackHolePreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Deals an additional 3x24 damage to targets at the center of the black hole
+*The user can now rotate their character while casting
+*Scaling requirement increased from 0.3 earth 0.3 magic -> 0.6 earth 0.6 magic
+ver. ??? (12/08/2024)
+*Reduced '''Black Hole''' cooldown from 40s to 25s
+ver. ??? (11/01/2024)
+*'''Blackhole''', Ray, Holy Phalanx, and Flamethrower can now be held down to be used instead of being a set timer.
+*Most weapon arts that didnt use your weapons scaling before and used a set scaling now use your weapons scaling. Those weapon arts are: Holy Phalanx, Flamethrower, Ray, '''Black Hole''', Grand Quake, Weighty Slam (variant of slam), Earth Slam, Icicle Wave, Waterfall, Jinx, Storm Stomp, Laser, Curse Flame Ray, Cursed Ground, Splash, Earthquake, Flame Slash, Mage Bomb, Erupt.
+ver. ???  (07/25/2023)
+*Increased the proc coefficient of the '''Black Hole''' and made the final burst deal extra damage.
+}}
+|Cragblade={{WeaponArtInfobox
+|Name=Cragblade
+|Description=Stab your weapon into the ground and pull out a huge chunk of terrain that you can bash enemies with!
+|Stats=<nowiki/>
+*'''Cooldown:''' 40 Seconds
+*'''Base Damage:''' 8
+*'''Scaling:''' Same as weapon
+*'''Damage Type:''' 1.0 Earth
+====Requirements====
+*Earth Scaling: 0.75
+====Additional Notes====
+<ul><li>Grants the Cragblade Buff for 25 seconds</li>
+<li>Cragblade grants the following effects:</li>
+<ul><li><b>M1</b> and <b>M2</b> damage now also counts as <b>Weapon Art</b> damage</li>
+<li>Increases damage dealt by <b>M1s</b> and <b>M2s</b> by 30%</li>
+<li>Increases poise damage dealt by <b>M1s</b> and <b>M2s</b> by 100%</li>
+<li>Sets the users attack speed multiplier to ~0.75 and disables all attack speed increases and decreases except for [[Delta Drill]]</li>
+<ul><li>See [[Attack Speed]] for more details</li></ul>
+<li>While active it converts the following weapon types into different weapon types:</li>
+<ul><li>Dagger, 1h Sword -> Mallet</li>
+<li>Spear -> Warhammer</li>
+<li>Greatsword -> Unbalanced Sword</li>
+<li>Dual Swords -> Dual Unbalanced Swords</li>
+<li>Dual Daggers -> Dual Mallets</li>
+<li>Lance -> Unbalanced Sword (retains its M2)</li></ul>
+<li>Any unlisted weapon type is either unobtainble when trying to meet the WA requirements, or remains the same</li></ul></ul>
+|Preview = PlaceholderBox.png
+|Patch History=<nowiki/>
+ver. 1627 (24/09/2026)
+*Added Cragblade
+}}
+|Starstream={{WeaponArtInfobox
+|Name=Starstream
+|Description=Call forth a powerful stream of stars!!
+|Stats=<nowiki/>
+*'''Cooldown:''' 20 seconds
+*'''Base Damage:''' Each element star has 4.5 damage except for True which has 9. Average total base damage of 360
+*'''Damage Type(s):''' 1.0 of the star’s element
+*'''Scaling:''' 1.0 of the star’s element, 0.5 Magic for True element stars
+*'''Number of Hits:''' ~70
+====Requirements====
+*Both [[Starlight Handle]] and [[Starlight Greatblade]]
+====Additional Notes====
+*The stars will only target and hit one enemy at a time
+*You can move around while casting this Weapon Art
+*Calculations for base damage, number of stars and misc. -[https://docs.google.com/spreadsheets/d/1USZz0F5E2_DNG8TyjWM8U0zkkARjSb1Sh9Lq_Cv3lhw/edit?gid=763321866 Starsteam]
+|Preview  = StarstreamPreview.gif
+|Patch History=<nowiki/>
+ver. 1602 (11/06/2026)
+*Cooldown decreased from 25 -> 20
+ver. ??? (12/08/2024)
+*Reduced '''Starsteam''' cooldown from 35s to 25s 
+ver. ??? (04/11/2023)
+*Increased '''Starstream''' cooldown increased from 25 secs to 35
+}}
+}}
+</includeonly>
