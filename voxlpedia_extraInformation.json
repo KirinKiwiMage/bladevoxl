@@ -41,3 +41,4 @@ The base attack speed with a 1 in attack speed is 1.4 attacks per second
 The base attack speed of a weapon is calculated with taking the attack speed of the handle and blade you use and then averaging it, for example; the basic blade combined with the brass handle would give a base attack speed of 0.93
 Builds can have the Shrine Of Balance which gives the following Scaling and Stat boosts: Tier 1: 3x Tier 2: 1.7x Tier 3: 1.4x Tier 4 1.1x Tier 5 Unaffected This applies to the unique handle and blade you use. This extra scaling can unlock weapon arts.
 Weapons can have the hybrid bonus, when combining a blade and handle with completely different scalings the hybrid bonus gives a 1.5x increase to the weapons stat scalings, this does NOT unlock any extra weapon arts.
+The max level is 80, assume i am this level. At this level you get a 2x damage boost and 240 hp
